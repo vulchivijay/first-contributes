@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "slides": [
+      {
+        "sankritTitle": "ॐ गं गणपतये नमः",
+        "englishTitle": "(ಓಂ ಗಂ ಗಣಪತಯೇ ನಮಃ)",
+        "subtitle": "`ನಾನು ಗಣೇಶನಿಗೆ ನಮಸ್ಕರಿಸುತ್ತೇನೆ.` ವಿಘ್ನಗಳನ್ನು ನಿವಾರಿಸುವವನು ಮತ್ತು ಆರಂಭ, ಜ್ಞಾನ ಮತ್ತು ಸಮೃದ್ಧಿಯ ದೇವತೆ.",
+        "imgSrc": "/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(ಓಂ ಶರವಣಭವಾಯ ನಮಃ)",
+        "subtitle": "`ನಾನು ಮುರುಗನ್ ದೇವರಿಗೆ ನಮಸ್ಕರಿಸುತ್ತೇನೆ.` ಯುದ್ಧ ಮತ್ತು ವಿಜಯದ ದೇವರು, ತಮ್ಮ ಧೈರ್ಯ, ಶಕ್ತಿ ಮತ್ತು ಜ್ಞಾನಕ್ಕಾಗಿ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದಾರೆ.",
+        "imgSrc": "/slider/lord-subramanyaswamy.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(ಓಂ ನಮಃ ಶಿವಾಯ)",
+        "subtitle": "`ನಾನು ಶಿವನಿಗೆ ನಮಸ್ಕರಿಸುತ್ತೇನೆ.` ಆಂತರಿಕ ಶಾಂತಿ, ಶುದ್ಧೀಕರಣ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಜಾಗೃತಿಗಾಗಿ ಅತ್ಯಂತ ಸರಳ ಮತ್ತು ಶಕ್ತಿಶಾಲಿ ಮಂತ್ರ.",
+        "imgSrc": "/slider/lord-shiva.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(ಓಂ ಪಾರ್ವತ್ಯೈ ನಮಃ)",
+        "subtitle": "`ನಾನು ಪಾರ್ವತಿಗೆ ನಮಸ್ಕರಿಸುತ್ತೇನೆ.` ಪ್ರೀತಿ, ಫಲವತ್ತತೆ ಮತ್ತು ಭಕ್ತಿಯನ್ನು ಸಂಕೇತಿಸುವ ದೈವಿಕ ಮಾತೃ ದೇವತೆ.",
+        "imgSrc": "/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(ಓಂ ನಮೋ ಭಗವತೇ ವಾಸುದೇವಾಯ)",
+        "subtitle": "`ನಾನು ವಾಸುದೇವನಿಗೆ (ಕೃಷ್ಣ) ನಮಸ್ಕರಿಸುತ್ತೇನೆ.` ಭಕ್ತಿ, ರಕ್ಷಣೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗಾಗಿ ಒಂದು ಪ್ರಬಲ ಮಂತ್ರ.",
+        "imgSrc": "/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/slider/lord-rama-sita.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/slider/lord-hanuman.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(ಓಂ ಸರಸ್ವತ್ಯೈ ನಮಃ)",
+        "subtitle": "`ನಾನು ಸರಸ್ವತಿಗೆ ನಮಸ್ಕರಿಸುತ್ತೇನೆ.` ಜ್ಞಾನ, ಸಂಗೀತ, ಕಲೆಗಳು ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯ ದೇವತೆ.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      }
+    ],
+    "topics": [
+      "ಗ್ರಂಥಗಳು",
+      "ಸ್ತೋತ್ರಗಳು ಮತ್ತು ಮಂತ್ರಗಳು",
+      "ತತ್ವಶಾಸ್ತ್ರ",
+      "ಆಚರಣೆಗಳು",
+      "ಕಥೆಗಳು",
+      "ಮತ್ತು ಮಕ್ಕಳ ವಲಯ"
+    ],
+    "buttons": {
+      "explore": "ಗ್ರಂಥಗಳು",
+      "learnMore": "ಸ್ತೋತ್ರಗಳು ಮತ್ತು ಮಂತ್ರಗಳು"
+    }
+  }
+}

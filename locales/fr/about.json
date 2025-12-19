@@ -1,0 +1,43 @@
+{
+  "about": {
+    "title": "À propos de Sanatanadharmam.in",
+    "intro": "Sanatanadharmam.in a été créé avec un objectif simple — rendre la sagesse intemporelle du Sanātana Dharma accessible à tous. Notre mission est de fournir des écritures authentiques, des stotras, des puja-vidhis et des connaissances traditionnelles dans un format facile à lire, à comprendre et à pratiquer au quotidien.",
+    "vision": {
+      "description": "Devenir un dépôt numérique complet des écritures hindoues et de la littérature dévotionnelle.",
+      "focusAreas": [
+        "Contenu en sanskrit, hindi, télougou et anglais",
+        "Stotras, mantras, sukthas et prières quotidiennes",
+        "Puja-vidhis et informations sur les festivals",
+        "Enseignements des textes classiques et des traditions spirituelles",
+        "Explications simples pour les lecteurs modernes",
+        "Translittération précise pour apprendre et réciter"
+      ],
+      "goal": "Construire une bibliothèque numérique qui préserve et partage l’essence du Sanātana Dharma pour les générations futures."
+    },
+    "whyWeCreated": {
+      "problemsAddressed": [
+        "Difficulté à trouver des textes sans erreurs",
+        "Manque de versions en langues régionales",
+        "Ressources dispersées sur plusieurs sites",
+        "PDF ou pages scannées difficiles à lire",
+        "Pas de guide simple pour les pujas ou la pratique quotidienne"
+      ],
+      "purpose": "Offrir un contenu spirituel clair, organisé et facile à lire en un seul endroit."
+    },
+    "commitment": [
+      "Améliorer continuellement la précision et la clarté",
+      "Mettre à jour la bibliothèque avec plus d’écritures et de stotras",
+      "Respecter la sacralité des connaissances traditionnelles",
+      "Maintenir tout le contenu gratuit et accessible"
+    ],
+    "disclaimer": "Nous ne prétendons pas être des érudits. Ce site est maintenu avec dévotion et sincérité, et nous encourageons les utilisateurs à vérifier les textes importants auprès de sources traditionnelles ou autorisées lorsque cela est nécessaire.",
+    "joinUs": {
+      "message": "Le Sanātana Dharma est un mode de vie — un chemin de vérité, de compassion et d’harmonie universelle.",
+      "invite": [
+        "Partagez le site avec d’autres",
+        "Proposez des améliorations",
+        "Soutenez sa croissance par des retours ou des contributions"
+      ]
+    }
+  }
+}

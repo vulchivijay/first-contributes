@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "about": "About",
+    "donate": "Donate",
+    "scriptures": {
+      "title": "Scriptures",
+      "nav": {
+        "gita": "Bhagavad Gita",
+        "upanishads": "Upanishads",
+        "vedas": "Vedas",
+        "mahabharata": "Mahabharata",
+        "ramayana": "Ramayana",
+        "puranas": "Puranas"
+      }
+    },
+    "stotrasmantras": {
+      "title": "Stotras & Mantras",
+      "nav": {
+        "shiva": "Shiva Stotras",
+        "vishnu": "Vishnu Stotras",
+        "devi": "Devi Stotras",
+        "hanuman": "Hanuman Stotras",
+        "ganesha": "Ganesha Stotras",
+        "dailyPrayers": "Daily Prayers"
+      }
+    },
+    "philosophy": {
+      "title": "Philosophy",
+      "nav": {
+        "dharma": "Dharma",
+        "karma": "Karma",
+        "samsara": "Samsara",
+        "moksha": "Moksha",
+        "yoga": "Yoga (Jnana, Karma, Bhakti, Raja)",
+        "advaita": "Advaita / Dvaita / Vishishtadvaita"
+      }
+    },
+    "practices": {
+      "title": "Practices",
+      "nav": {
+        "rituals": "Rituals",
+        "festivals": "Festivals",
+        "dailypuja": "Daily Puja",
+        "vastu": "Vastu"
+      }
+    },
+    "stories": {
+      "title": "Stories",
+      "nav": {
+        "ramayana": "Ramayana",
+        "mahabharata": "Mahabharata",
+        "puranic": "Puranic",
+        "moralstories": "Moral Stories for Children"
+      }
+    },
+    "kidsZone": {
+      "title": "Kids Zone",
+      "nav": {
+        "illustratedStories": "Illustrated Stories",
+        "mythologicalquizzes": "Mythological Quizzes",
+        "easymantras": "Easy Mantras",
+        "quizzes": "Mythology Comics"
+      }
+    }
+  }
+}

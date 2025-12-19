@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "home": {
+      "title": "Sanatana Dharma — Timeless Wisdom on Vedas, Puranas & Shastras",
+      "description": "Sanatana Dharma — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Sanatana Dharma Bhagavad Gita meaning Stotra with meaning Hindu philosophy explained Vedic teachings Festival significance",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in"
+    },
+    "vedas": {
+      "title": "Vedas — Rigveda, Yajurveda, Samaveda, Atharvaveda",
+      "description": "Vedas — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Vedas, Rigveda, Yajurveda, Samaveda, Atharvaveda, Vedic hymns, Vedic literature",
+      "ogImage": "/og/vedas.jpg",
+      "url": "https://sanatanadharmam.in/vedas"
+    },
+    "vedas_slug": {
+      "title": "{{title}} — Vedas | Sanatana Dharma",
+      "description": "{{title}} — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Vedas, {{title}}, translation, commentary",
+      "ogImage": "{{image}}"
+    },
+    "puranas": {
+      "title": "Puranas — Mythology, Cosmology and Lineages",
+      "description": "Puranas — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Puranas, Bhagavata, Padma Purana, Vishnu Purana, Shiva Purana, mythology",
+      "ogImage": "/og/puranas.jpg",
+      "url": "https://sanatanadharmam.in/puranas"
+    },
+    "puranas_slug": {
+      "title": "{{title}} — Purana | Sanatana Dharma",
+      "description": "{{title}} — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Puranas, {{title}}, scripture, commentary",
+      "ogImage": "{{image}}"
+    },
+    "shastras": {
+      "title": "Shastras — Technical and Philosophical Treatises",
+      "description": "Shastras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Shastras, Dharma Shastra, Artha Shastra, Vastu Shastra, Natya Shastra, Yoga Vasistha",
+      "ogImage": "/og/shastras.jpg",
+      "url": "https://sanatanadharmam.in/shastras"
+    },
+    "shastras_slug": {
+      "title": "{{title}} — Shastra | Sanatana Dharma",
+      "description": "{{title}} — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Shastras, {{title}}, treatise, manual",
+      "ogImage": "{{image}}"
+    },
+    "contact": {
+      "title": "Contact — Sanatana Dharma",
+      "description": "Contact — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "contact, feedback, Sanatana Dharma, contact us",
+      "ogImage": "/og/contact.png",
+      "url": "https://sanatanadharmam.in/contact"
+    },
+    "donate": {
+      "title": "Donate — Support Sanatana Dharma",
+      "description": "Donate — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "donate, support, charity, Sanatana Dharma",
+      "ogImage": "/og/donate.png",
+      "url": "https://sanatanadharmam.in/donate"
+    },
+    "privacy": {
+      "title": "Privacy Policy — Sanatana Dharma",
+      "description": "Privacy Policy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "privacy policy, data protection, Sanatana Dharma",
+      "ogImage": "/og/privacy.jpg"
+    },
+    "terms": {
+      "title": "Terms of Service — Sanatana Dharma",
+      "description": "Terms of Service — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "terms of service, Sanatana Dharma, usage terms",
+      "ogImage": "/og/terms.jpg"
+    },
+    "search": {
+      "title": "Search results for \"{{query}}\" — Sanatana Dharma",
+      "description": "Search results for \"{{query}}\" — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "search, {{query}}, Sanatana Dharma",
+      "ogImage": "/og/search.jpg"
+    },
+    "about": {
+      "title": "About — Sanatana Dharma",
+      "description": "About Sanatanadharmam.in — mission, vision and how we curate scriptures, translations and study material for learners and practitioners.",
+      "keywords": "about, Sanatana Dharma, mission, vision, scriptures",
+      "ogImage": "/og/about.jpg"
+    },
+    "bhagavadgita": {
+      "title": "Bhagavad Gita — Complete Chapters & Commentary",
+      "description": "Read the Bhagavad Gita: chapter-wise translations, summaries and commentary to understand Karma, Bhakti and Jnana teachings.",
+      "keywords": "Bhagavad Gita, Gita, Krishna, Arjuna, karma yoga, bhakti, jnana",
+      "ogImage": "/og/gita.png"
+    },
+    "bhagavadgita_slug": {
+      "title": "{{title}} — Bhagavad Gita | Sanatana Dharma",
+      "description": "{{excerpt}} — Chapter-level overview and commentary for {{title}} from the Bhagavad Gita.",
+      "keywords": "Bhagavad Gita, {{title}}, chapter, commentary",
+      "ogImage": "{{image}}"
+    },
+    "ramayana": {
+      "title": "Ramayana — Valmiki's Epic and Commentary",
+      "description": "Explore the Ramayana: summaries, key episodes, and commentary on the life and teachings of Rama and related characters.",
+      "keywords": "Ramayana, Valmiki, Rama, Sita, Hanuman, epic",
+      "ogImage": "/og/ramayana.png"
+    },
+    "ramayana_slug": {
+      "title": "{{title}} — Ramayana | Sanatana Dharma",
+      "description": "{{excerpt}} — Chapter or article level overview for {{title}} from the Ramayana corpus.",
+      "keywords": "Ramayana, {{title}}, chapter, episode",
+      "ogImage": "{{image}}"
+    },
+    "kidsZone_easymantras": {
+      "title": "KidsZone — Easymantras — Sanatana Dharma",
+      "description": "KidsZone — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "KidsZone — Easymantras, kidsZone, easymantras",
+      "ogImage": "/og/kidsZone-easymantras.jpg"
+    },
+    "kidsZone_mythologicalquizzes": {
+      "title": "KidsZone — mythologicalquizzes — Sanatana Dharma",
+      "description": "KidsZone — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "KidsZone — mythologicalquizzes, kidsZone, mythologicalquizzes",
+      "ogImage": "/og/kidsZone-mythologicalquizzes.jpg"
+    },
+    "kidsZone_illustratedStories": {
+      "title": "KidsZone — IllustratedStories — Sanatana Dharma",
+      "description": "KidsZone — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "KidsZone — IllustratedStories, kidsZone, illustratedStories",
+      "ogImage": "/og/kidsZone-illustratedStories.jpg"
+    },
+    "kidsZone_quizzes": {
+      "title": "KidsZone — Quizzes — Sanatana Dharma",
+      "description": "KidsZone — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "KidsZone — Quizzes, kidsZone, quizzes",
+      "ogImage": "/og/kidsZone-quizzes.jpg"
+    },
+    "our-cookie-policy": {
+      "title": "Our Cookie Policy — Sanatana Dharma",
+      "description": "Our Cookie Policy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Our Cookie Policy, our-cookie-policy",
+      "ogImage": "/og/our-cookie-policy.jpg"
+    },
+    "our-privacy-policy": {
+      "title": "Our Privacy Policy — Sanatana Dharma",
+      "description": "Our Privacy Policy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Our Privacy Policy, our-privacy-policy",
+      "ogImage": "/og/our-privacy-policy.jpg"
+    },
+    "philosophy_advaita": {
+      "title": "Philosophy — Advaita — Sanatana Dharma",
+      "description": "Philosophy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Philosophy — Advaita, philosophy, advaita",
+      "ogImage": "/og/philosophy-advaita.jpg"
+    },
+    "philosophy_dharma": {
+      "title": "Philosophy — Dharma — Sanatana Dharma",
+      "description": "Philosophy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Philosophy — Dharma, philosophy, dharma",
+      "ogImage": "/og/philosophy-dharma.jpg"
+    },
+    "philosophy_karma": {
+      "title": "Philosophy — Karma — Sanatana Dharma",
+      "description": "Philosophy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Philosophy — Karma, philosophy, karma",
+      "ogImage": "/og/philosophy-karma.jpg"
+    },
+    "philosophy_moksha": {
+      "title": "Philosophy — Moksha — Sanatana Dharma",
+      "description": "Philosophy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Philosophy — Moksha, philosophy, moksha",
+      "ogImage": "/og/philosophy-moksha.jpg"
+    },
+    "philosophy_samsara": {
+      "title": "Philosophy — Samsara — Sanatana Dharma",
+      "description": "Philosophy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Philosophy — Samsara, philosophy, samsara",
+      "ogImage": "/og/philosophy-samsara.jpg"
+    },
+    "philosophy_yoga": {
+      "title": "Philosophy — Yoga — Sanatana Dharma",
+      "description": "Philosophy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Philosophy — Yoga, philosophy, yoga",
+      "ogImage": "/og/philosophy-yoga.jpg"
+    },
+    "practices_dailypuja": {
+      "title": "Practices — Dailypuja — Sanatana Dharma",
+      "description": "Practices — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Practices — Dailypuja, practices, dailypuja",
+      "ogImage": "/og/practices-dailypuja.jpg"
+    },
+    "practices_festivals": {
+      "title": "Practices — Festivals — Sanatana Dharma",
+      "description": "Practices — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Practices — Festivals, practices, festivals",
+      "ogImage": "/og/practices-festivals.jpg"
+    },
+    "practices_rituals": {
+      "title": "Practices — Rituals — Sanatana Dharma",
+      "description": "Practices — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Practices — Rituals, practices, rituals",
+      "ogImage": "/og/practices-rituals.jpg"
+    },
+    "practices_vastu": {
+      "title": "Practices — Vastu — Sanatana Dharma",
+      "description": "Practices — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Practices — Vastu, practices, vastu",
+      "ogImage": "/og/practices-vastu.jpg"
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy — Sanatana Dharma",
+      "description": "Privacy Policy — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Privacy Policy, privacy-policy",
+      "ogImage": "/og/privacy-policy.jpg"
+    },
+    "resources_bibliography": {
+      "title": "Resources — Bibliography — Sanatana Dharma",
+      "description": "Resources — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Resources — Bibliography, resources, bibliography",
+      "ogImage": "/og/resources-bibliography.jpg"
+    },
+    "resources_glossary": {
+      "title": "Resources — Glossary — Sanatana Dharma",
+      "description": "Resources — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Resources — Glossary, resources, glossary",
+      "ogImage": "/og/resources-glossary.jpg"
+    },
+    "resources_maps": {
+      "title": "Resources — Maps — Sanatana Dharma",
+      "description": "Resources — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Resources — Maps, resources, maps",
+      "ogImage": "/og/resources-maps.jpg"
+    },
+    "resources": {
+      "title": "Resources — Sanatana Dharma",
+      "description": "Resources — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Resources, resources",
+      "ogImage": "/og/resources.jpg"
+    },
+    "resources_timelines": {
+      "title": "Resources — Timelines — Sanatana Dharma",
+      "description": "Resources — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Resources — Timelines, resources, timelines",
+      "ogImage": "/og/resources-timelines.jpg"
+    },
+    "scriptures_gita_chapter_[chapter]": {
+      "title": "Scriptures — Gita — Chapter — Chapter — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Gita — Chapter — Chapter, scriptures, gita, chapter, [chapter]",
+      "ogImage": "/og/scriptures-gita-chapter-[chapter].jpg"
+    },
+    "scriptures_gita": {
+      "title": "Scriptures — Gita — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Gita, scriptures, gita",
+      "ogImage": "/og/scriptures-gita.jpg"
+    },
+    "scriptures_mahabharata": {
+      "title": "Scriptures — Mahabharata — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Mahabharata, scriptures, mahabharata",
+      "ogImage": "/og/scriptures-mahabharata.jpg"
+    },
+    "scriptures_puranas_bhagavata": {
+      "title": "Scriptures — Puranas — Bhagavata — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Puranas — Bhagavata, scriptures, puranas, bhagavata",
+      "ogImage": "/og/scriptures-puranas-bhagavata.jpg"
+    },
+    "scriptures_puranas_chapter_[chapter]": {
+      "title": "Scriptures — Puranas — Chapter — Chapter — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Puranas — Chapter — Chapter, scriptures, puranas, chapter, [chapter]",
+      "ogImage": "/og/scriptures-puranas-chapter-[chapter].jpg"
+    },
+    "scriptures_puranas_padma": {
+      "title": "Scriptures — Puranas — Padma — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Puranas — Padma, scriptures, puranas, padma",
+      "ogImage": "/og/scriptures-puranas-padma.jpg"
+    },
+    "scriptures_puranas": {
+      "title": "Scriptures — Puranas — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Puranas, scriptures, puranas",
+      "ogImage": "/og/scriptures-puranas.jpg"
+    },
+    "scriptures_puranas_shiva": {
+      "title": "Scriptures — Puranas — Shiva — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Puranas — Shiva, scriptures, puranas, shiva",
+      "ogImage": "/og/scriptures-puranas-shiva.jpg"
+    },
+    "scriptures_puranas_vishnu": {
+      "title": "Scriptures — Puranas — Vishnu — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Puranas — Vishnu, scriptures, puranas, vishnu",
+      "ogImage": "/og/scriptures-puranas-vishnu.jpg"
+    },
+    "scriptures_ramayana_chapter_[chapter]": {
+      "title": "Scriptures — Ramayana — Chapter — Chapter — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Ramayana — Chapter — Chapter, scriptures, ramayana, chapter, [chapter]",
+      "ogImage": "/og/scriptures-ramayana-chapter-[chapter].jpg"
+    },
+    "scriptures_ramayana": {
+      "title": "Scriptures — Ramayana — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Ramayana, scriptures, ramayana",
+      "ogImage": "/og/scriptures-ramayana.jpg"
+    },
+    "scriptures_shastras_artha": {
+      "title": "Scriptures — Shastras — Artha — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Shastras — Artha, scriptures, shastras, artha",
+      "ogImage": "/og/scriptures-shastras-artha.jpg"
+    },
+    "scriptures_shastras_dharma": {
+      "title": "Scriptures — Shastras — Dharma — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Shastras — Dharma, scriptures, shastras, dharma",
+      "ogImage": "/og/scriptures-shastras-dharma.jpg"
+    },
+    "scriptures_shastras_natya": {
+      "title": "Scriptures — Shastras — Natya — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Shastras — Natya, scriptures, shastras, natya",
+      "ogImage": "/og/scriptures-shastras-natya.jpg"
+    },
+    "scriptures_shastras": {
+      "title": "Scriptures — Shastras — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Shastras, scriptures, shastras",
+      "ogImage": "/og/scriptures-shastras.jpg"
+    },
+    "scriptures_shastras_vastu": {
+      "title": "Scriptures — Shastras — Vastu — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Shastras — Vastu, scriptures, shastras, vastu",
+      "ogImage": "/og/scriptures-shastras-vastu.jpg"
+    },
+    "scriptures_upanishads": {
+      "title": "Scriptures — Upanishads — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Upanishads, scriptures, upanishads",
+      "ogImage": "/og/scriptures-upanishads.jpg"
+    },
+    "scriptures_vedas_atharvaveda": {
+      "title": "Scriptures — Vedas — Atharvaveda — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Vedas — Atharvaveda, scriptures, vedas, atharvaveda",
+      "ogImage": "/og/scriptures-vedas-atharvaveda.jpg"
+    },
+    "scriptures_vedas": {
+      "title": "Scriptures — Vedas — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Vedas, scriptures, vedas",
+      "ogImage": "/og/scriptures-vedas.jpg"
+    },
+    "scriptures_vedas_rigveda": {
+      "title": "Scriptures — Vedas — Rigveda — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Vedas — Rigveda, scriptures, vedas, rigveda",
+      "ogImage": "/og/scriptures-vedas-rigveda.jpg"
+    },
+    "scriptures_vedas_samaveda": {
+      "title": "Scriptures — Vedas — Samaveda — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Vedas — Samaveda, scriptures, vedas, samaveda",
+      "ogImage": "/og/scriptures-vedas-samaveda.jpg"
+    },
+    "scriptures_vedas_yajurveda": {
+      "title": "Scriptures — Vedas — Yajurveda — Sanatana Dharma",
+      "description": "Scriptures — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Scriptures — Vedas — Yajurveda, scriptures, vedas, yajurveda",
+      "ogImage": "/og/scriptures-vedas-yajurveda.jpg"
+    },
+    "stories_mahabharata": {
+      "title": "Stories — Mahabharata — Sanatana Dharma",
+      "description": "Stories — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stories — Mahabharata, stories, mahabharata",
+      "ogImage": "/og/stories-mahabharata.jpg"
+    },
+    "stories_moralstories": {
+      "title": "Stories — Moralstories — Sanatana Dharma",
+      "description": "Stories — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stories — Moralstories, stories, moralstories",
+      "ogImage": "/og/stories-moralstories.jpg"
+    },
+    "stories_puranic": {
+      "title": "Stories — Puranic — Sanatana Dharma",
+      "description": "Stories — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stories — Puranic, stories, puranic",
+      "ogImage": "/og/stories-puranic.jpg"
+    },
+    "stories_ramayana": {
+      "title": "Stories — Ramayana — Sanatana Dharma",
+      "description": "Stories — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stories — Ramayana, stories, ramayana",
+      "ogImage": "/og/stories-ramayana.jpg"
+    },
+    "stotrasmantras_dailyPrayers": {
+      "title": "Stotrasmantras — DailyPrayers — Sanatana Dharma",
+      "description": "Stotrasmantras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stotrasmantras — DailyPrayers, stotrasmantras, dailyPrayers",
+      "ogImage": "/og/stotrasmantras-dailyPrayers.jpg"
+    },
+    "stotrasmantras_devi": {
+      "title": "Stotrasmantras — Devi — Sanatana Dharma",
+      "description": "Stotrasmantras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stotrasmantras — Devi, stotrasmantras, devi",
+      "ogImage": "/og/stotrasmantras-devi.jpg"
+    },
+    "stotrasmantras_ganesha": {
+      "title": "Stotrasmantras — Ganesha — Sanatana Dharma",
+      "description": "Stotrasmantras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stotrasmantras — Ganesha, stotrasmantras, ganesha",
+      "ogImage": "/og/stotrasmantras-ganesha.jpg"
+    },
+    "stotrasmantras_hanuman": {
+      "title": "Stotrasmantras — Hanuman — Sanatana Dharma",
+      "description": "Stotrasmantras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stotrasmantras — Hanuman, stotrasmantras, hanuman",
+      "ogImage": "/og/stotrasmantras-hanuman.jpg"
+    },
+    "stotrasmantras_shiva": {
+      "title": "Stotrasmantras — Shiva — Sanatana Dharma",
+      "description": "Stotrasmantras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stotrasmantras — Shiva, stotrasmantras, shiva",
+      "ogImage": "/og/stotrasmantras-shiva.jpg"
+    },
+    "stotrasmantras_vishnu": {
+      "title": "Stotrasmantras — Vishnu — Sanatana Dharma",
+      "description": "Stotrasmantras — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Stotrasmantras — Vishnu, stotrasmantras, vishnu",
+      "ogImage": "/og/stotrasmantras-vishnu.jpg"
+    },
+    "terms-of-service": {
+      "title": "Terms Of Service — Sanatana Dharma",
+      "description": "Terms Of Service — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Terms Of Service, terms-of-service",
+      "ogImage": "/og/terms-of-service.jpg"
+    },
+    "timelapse": {
+      "title": "Timelapse — Sanatana Dharma",
+      "description": "Timelapse — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Timelapse, timelapse",
+      "ogImage": "/og/timelapse.jpg"
+    },
+    "[slug]": {
+      "title": "Slug — Sanatana Dharma",
+      "description": "Slug — authoritative texts, clear summaries, and study resources on SanatanaDharma.in. Read translations, context and commentary to deepen your understanding.",
+      "keywords": "Slug, [slug]",
+      "ogImage": "/og/[slug].jpg"
+    },
+    "privacy_policy": {
+      "title": "Privacy Policy — Sanatana Dharma",
+      "description": "Privacy Policy — Sanatana Dharma — Articles, translations and concise commentary on Privacy Policy. Explore practices, history, and guiding principles at...",
+      "keywords": "privacy policy, privacy policy meaning, privacy policy summary, privacy policy translation, privacy policy significance, privacy policy history, privacy policy analysis, privacy policy teachings, privacy policy verses, privacy policy quotes",
+      "ogImage": "/og/privacy.jpg",
+      "url": "https://sanatanadharmam.in/privacy-policy"
+    },
+    "terms_of_service": {
+      "title": "Terms of Service — Sanatana Dharma",
+      "description": "Terms of Service — Sanatana Dharma — Articles, translations and concise commentary on Terms of Service. Explore practices, history, and guiding principles ...",
+      "keywords": "terms service, terms service meaning, terms service summary, terms service translation, terms service significance, terms service history, terms service analysis, terms service teachings, terms service verses, terms service quotes",
+      "ogImage": "/og/terms.jpg",
+      "url": "https://sanatanadharmam.in/terms-of-service"
+    },
+    "rigveda": {
+      "title": "Scriptures — Vedas — Rigveda — Sanatana Dharma",
+      "description": "Scriptures — Vedas — Rigveda — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures vedas rigveda, scriptures vedas rigveda meaning, scriptures vedas rigveda summary, scriptures vedas rigveda translation, scriptures vedas rigveda significance, scriptures vedas rigveda history, scriptures vedas rigveda analysis, scriptures vedas rigveda teachings, scriptures vedas rigveda verses, scriptures vedas rigveda quotes",
+      "ogImage": "/og/scriptures-vedas-rigveda.jpg",
+      "url": "https://sanatanadharmam.in/rigveda"
+    },
+    "samaveda": {
+      "title": "Scriptures — Vedas — Samaveda — Sanatana Dharma",
+      "description": "Scriptures — Vedas — Samaveda — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures vedas samaveda, scriptures vedas samaveda meaning, scriptures vedas samaveda summary, scriptures vedas samaveda translation, scriptures vedas samaveda significance, scriptures vedas samaveda history, scriptures vedas samaveda analysis, scriptures vedas samaveda teachings, scriptures vedas samaveda verses, scriptures vedas samaveda quotes",
+      "ogImage": "/og/scriptures-vedas-samaveda.jpg",
+      "url": "https://sanatanadharmam.in/samaveda"
+    },
+    "yajurveda": {
+      "title": "Scriptures — Vedas — Yajurveda — Sanatana Dharma",
+      "description": "Scriptures — Vedas — Yajurveda — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures vedas yajurveda, scriptures vedas yajurveda meaning, scriptures vedas yajurveda summary, scriptures vedas yajurveda translation, scriptures vedas yajurveda significance, scriptures vedas yajurveda history, scriptures vedas yajurveda analysis, scriptures vedas yajurveda teachings, scriptures vedas yajurveda verses, scriptures vedas yajurveda quotes",
+      "ogImage": "/og/scriptures-vedas-yajurveda.jpg",
+      "url": "https://sanatanadharmam.in/yajurveda"
+    },
+    "atharvaveda": {
+      "title": "Scriptures — Vedas — Atharvaveda — Sanatana Dharma",
+      "description": "Scriptures — Vedas — Atharvaveda — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures vedas atharvaveda, scriptures vedas atharvaveda meaning, scriptures vedas atharvaveda summary, scriptures vedas atharvaveda translation, scriptures vedas atharvaveda significance, scriptures vedas atharvaveda history, scriptures vedas atharvaveda analysis, scriptures vedas atharvaveda teachings, scriptures vedas atharvaveda verses, scriptures vedas atharvaveda quotes",
+      "ogImage": "/og/scriptures-vedas-atharvaveda.jpg",
+      "url": "https://sanatanadharmam.in/atharvaveda"
+    },
+    "brahma": {
+      "title": "Brahma — Sanatana Dharma",
+      "description": "Learn about Brahma on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "brahma, brahma meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/brahma"
+    },
+    "padma": {
+      "title": "Scriptures — Puranas — Padma — Sanatana Dharma",
+      "description": "Scriptures — Puranas — Padma — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures puranas padma, scriptures puranas padma meaning, scriptures puranas padma summary, scriptures puranas padma translation, scriptures puranas padma significance, scriptures puranas padma history, scriptures puranas padma analysis, scriptures puranas padma teachings, scriptures puranas padma verses, scriptures puranas padma quotes",
+      "ogImage": "/og/scriptures-puranas-padma.jpg",
+      "url": "https://sanatanadharmam.in/padma"
+    },
+    "vishnu": {
+      "title": "Scriptures — Puranas — Vishnu — Sanatana Dharma",
+      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures puranas vishnu, scriptures puranas vishnu meaning, scriptures puranas vishnu summary, scriptures puranas vishnu translation, scriptures puranas vishnu significance, scriptures puranas vishnu history, scriptures puranas vishnu analysis, scriptures puranas vishnu teachings, scriptures puranas vishnu verses, scriptures puranas vishnu quotes",
+      "ogImage": "/og/scriptures-puranas-vishnu.jpg",
+      "url": "https://sanatanadharmam.in/vishnu"
+    },
+    "shiva": {
+      "title": "Scriptures — Puranas — Shiva — Sanatana Dharma",
+      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures puranas shiva, scriptures puranas shiva meaning, scriptures puranas shiva summary, scriptures puranas shiva translation, scriptures puranas shiva significance, scriptures puranas shiva history, scriptures puranas shiva analysis, scriptures puranas shiva teachings, scriptures puranas shiva verses, scriptures puranas shiva quotes",
+      "ogImage": "/og/scriptures-puranas-shiva.jpg",
+      "url": "https://sanatanadharmam.in/shiva"
+    },
+    "bhagavata": {
+      "title": "Scriptures — Puranas — Bhagavata — Sanatana Dharma",
+      "description": "Scriptures — Puranas — Bhagavata — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "scriptures puranas bhagavata, scriptures puranas bhagavata meaning, scriptures puranas bhagavata summary, scriptures puranas bhagavata translation, scriptures puranas bhagavata significance, scriptures puranas bhagavata history, scriptures puranas bhagavata analysis, scriptures puranas bhagavata teachings, scriptures puranas bhagavata verses, scriptures puranas bhagavata quotes",
+      "ogImage": "/og/scriptures-puranas-bhagavata.jpg",
+      "url": "https://sanatanadharmam.in/bhagavata"
+    },
+    "narada": {
+      "title": "Narada — Sanatana Dharma",
+      "description": "Learn about Narada on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "narada, narada meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/narada"
+    },
+    "markandeya": {
+      "title": "Markandeya — Sanatana Dharma",
+      "description": "Learn about Markandeya on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "markandeya, markandeya meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/markandeya"
+    },
+    "agni": {
+      "title": "Agni — Sanatana Dharma",
+      "description": "Learn about Agni on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "agni, agni meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/agni"
+    },
+    "bhavishya": {
+      "title": "Bhavishya — Sanatana Dharma",
+      "description": "Learn about Bhavishya on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "bhavishya, bhavishya meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/bhavishya"
+    },
+    "brahmavaivarta": {
+      "title": "Brahmavaivarta — Sanatana Dharma",
+      "description": "Learn about Brahmavaivarta on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "brahmavaivarta, brahmavaivarta meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/brahmavaivarta"
+    },
+    "linga": {
+      "title": "Linga — Sanatana Dharma",
+      "description": "Learn about Linga on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "linga, linga meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/linga"
+    },
+    "varaha": {
+      "title": "Varaha — Sanatana Dharma",
+      "description": "Learn about Varaha on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "varaha, varaha meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/varaha"
+    },
+    "vamana": {
+      "title": "Vamana — Sanatana Dharma",
+      "description": "Learn about Vamana on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "vamana, vamana meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/vamana"
+    },
+    "kurma": {
+      "title": "Kurma — Sanatana Dharma",
+      "description": "Learn about Kurma on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "kurma, kurma meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/kurma"
+    },
+    "matsya": {
+      "title": "Matsya — Sanatana Dharma",
+      "description": "Learn about Matsya on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "matsya, matsya meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/matsya"
+    },
+    "garuda": {
+      "title": "Garuda — Sanatana Dharma",
+      "description": "Learn about Garuda on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "garuda, garuda meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/garuda"
+    },
+    "brahmanda": {
+      "title": "Brahmanda — Sanatana Dharma",
+      "description": "Learn about Brahmanda on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "brahmanda, brahmanda meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/brahmanda"
+    },
+    "vastu_shastra": {
+      "title": "Vastu Shastra — Sanatana Dharma",
+      "description": "Learn about Vastu Shastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "vastu-shastra, vastu-shastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/vastu-shastra"
+    },
+    "vaimānika_shāstra": {
+      "title": "Vaimānika Shāstra — Sanatana Dharma",
+      "description": "Learn about Vaimānika Shāstra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "vaimānika-shāstra, vaimānika-shāstra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/vaimānika-shāstra"
+    },
+    "dharma_shastra": {
+      "title": "Dharma Shastra — Sanatana Dharma",
+      "description": "Learn about Dharma Shastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "dharma-shastra, dharma-shastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/dharma-shastra"
+    },
+    "kamashastra": {
+      "title": "Kamashastra — Sanatana Dharma",
+      "description": "Learn about Kamashastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "kamashastra, kamashastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/kamashastra"
+    },
+    "yoga_vasistha": {
+      "title": "Yoga Vasistha — Sanatana Dharma",
+      "description": "Learn about Yoga Vasistha on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "yoga-vasistha, yoga-vasistha meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/yoga-vasistha"
+    },
+    "moksopaya": {
+      "title": "Moksopaya — Sanatana Dharma",
+      "description": "Learn about Moksopaya on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "moksopaya, moksopaya meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/moksopaya"
+    },
+    "artha_shastra": {
+      "title": "Artha Shastra — Sanatana Dharma",
+      "description": "Learn about Artha Shastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "artha-shastra, artha-shastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/artha-shastra"
+    },
+    "natya_shastra": {
+      "title": "Natya Shastra — Sanatana Dharma",
+      "description": "Learn about Natya Shastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "natya-shastra, natya-shastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/natya-shastra"
+    },
+    "surya_siddhanta": {
+      "title": "Surya Siddhanta — Sanatana Dharma",
+      "description": "Learn about Surya Siddhanta on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "surya-siddhanta, surya-siddhanta meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/surya-siddhanta"
+    },
+    "mahayana_buddhist_shastras": {
+      "title": "Shastras — Technical and Philosophical Treatises",
+      "description": "Shastras — Technical and Philosophical Treatises — Articles, translations and concise commentary on Shastras. Explore practices, history, and guiding...",
+      "keywords": "shastras technical philosophical treatises, shastras technical philosophical treatises meaning, shastras technical philosophical treatises summary, shastras technical philosophical treatises translation, shastras technical philosophical treatises significance, shastras technical philosophical treatises history, shastras technical philosophical treatises analysis, shastras technical philosophical treatises teachings, shastras technical philosophical treatises verses, shastras technical philosophical treatises quotes",
+      "ogImage": "/og/shastras.jpg",
+      "url": "https://sanatanadharmam.in/mahayana-buddhist-shastras"
+    },
+    "samudrika_shastra": {
+      "title": "Samudrika Shastra — Sanatana Dharma",
+      "description": "Learn about Samudrika Shastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "samudrika-shastra, samudrika-shastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/samudrika-shastra"
+    },
+    "shilpa_shastra": {
+      "title": "Shilpa Shastra — Sanatana Dharma",
+      "description": "Learn about Shilpa Shastra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "shilpa-shastra, shilpa-shastra meaning",
+      "ogImage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/shilpa-shastra"
+    }
+  }
+}

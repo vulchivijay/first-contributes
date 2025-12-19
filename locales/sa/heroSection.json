@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "slides": [
+      {
+        "sankritTitle": "ॐ गं गणपतये नमः",
+        "englishTitle": "(ओम् गं गणपतये नमः)",
+        "subtitle": "`अहं गणेशं नमामि।` विघ्ननाशकः, आदिकार्यस्य, ज्ञानस्य, समृद्धेश्च देवता।",
+        "imgSrc": "/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(ओम् शरवणभवाय नमः)",
+        "subtitle": "`अहं मुरुगान् नमामि।` युद्ध-विजययोः देवः, यः स्वस्य शौर्य-शक्ति-ज्ञानादिभिः प्रसिद्धः अस्ति।",
+        "imgSrc": "/slider/lord-subramanyaswamy.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(ओम् नमः शिवाय)",
+        "subtitle": "`अहं शिवं नमामि।` आन्तरिकशान्तये, शुद्धये, आध्यात्मिक-जागरणं च कृते सरलतमः शक्तिशाली च मन्त्रः।",
+        "imgSrc": "/slider/lord-shiva.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(ओम् पार्वत्यै नमः)",
+        "subtitle": "`अहं पार्वतीं नमामि।` प्रेमस्य, उर्वरतायाः, भक्तेश्च प्रतीकभूता देवी माता।",
+        "imgSrc": "/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(ओम् नमो भगवते वासुदेवाय)",
+        "subtitle": "`अहं वासुदेवं (कृष्णं) नमामि।` भक्ति-सुरक्षा-आध्यात्मिकवृद्धीनां कृते शक्तिशाली मन्त्रः।",
+        "imgSrc": "/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/slider/lord-rama-sita.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/slider/lord-hanuman.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(ओम् सरस्वत्यै नमः)",
+        "subtitle": "`अहं सरस्वतीं नमामि।` विद्यायाः, सङ्गीतस्य, कलानां, बुद्धिमत्तायाश्च देवी।",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      }
+    ],
+    "topics": [
+      "शास्त्राणि",
+      "स्तोत्राणि मन्त्राणि च",
+      "दर्शनम्",
+      "अभ्यासाः",
+      "कथाः",
+      "बालकविभागश्च"
+    ],
+    "buttons": {
+      "explore": "शास्त्राणि",
+      "learnMore": "स्तोत्राणि मन्त्राणि च"
+    }
+  }
+}

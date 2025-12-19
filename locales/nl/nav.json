@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Startpagina",
+    "contact": "Contact",
+    "about": "Over",
+    "donate": "Doneren",
+    "scriptures": {
+      "title": "Geschriften",
+      "nav": {
+        "gita": "Bhagavad Gita",
+        "upanishads": "Upanishads",
+        "vedas": "Veda’s",
+        "mahabharata": "Mahabharata",
+        "ramayana": "Ramayana",
+        "puranas": "Purana’s"
+      }
+    },
+    "stotrasmantras": {
+      "title": "Stotra’s & Mantra’s",
+      "nav": {
+        "shiva": "Shiva Stotra’s",
+        "vishnu": "Vishnu Stotra’s",
+        "devi": "Devi Stotra’s",
+        "hanuman": "Hanuman Stotra’s",
+        "ganesha": "Ganesha Stotra’s",
+        "dailyPrayers": "Dagelijkse Gebeden"
+      }
+    },
+    "philosophy": {
+      "title": "Filosofie",
+      "nav": {
+        "dharma": "Dharma",
+        "karma": "Karma",
+        "samsara": "Samsara",
+        "moksha": "Moksha",
+        "yoga": "Yoga (Jnana, Karma, Bhakti, Raja)",
+        "advaita": "Advaita / Dvaita / Vishishtadvaita"
+      }
+    },
+    "practices": {
+      "title": "Praktijken",
+      "nav": {
+        "rituals": "Rituelen",
+        "festivals": "Feestdagen",
+        "dailypuja": "Dagelijkse Puja",
+        "vastu": "Vastu"
+      }
+    },
+    "stories": {
+      "title": "Verhalen",
+      "nav": {
+        "ramayana": "Ramayana",
+        "mahabharata": "Mahabharata",
+        "puranic": "Puranische Verhalen",
+        "moralstories": "Morele Verhalen voor Kinderen"
+      }
+    },
+    "kidsZone": {
+      "title": "Kinderzone",
+      "nav": {
+        "illustratedStories": "Geïllustreerde Verhalen",
+        "mythologicalquizzes": "Leuke Quizzen",
+        "easymantras": "Eenvoudige Mantra’s",
+        "quizzes": "Mythologie Strips"
+      }
+    }
+  }
+}

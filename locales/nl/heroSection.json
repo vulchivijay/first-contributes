@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "slides": [
+      {
+        "sankritTitle": "ॐ गं गणपतये नमः",
+        "englishTitle": "(Om Gam Ganapataye Namah)",
+        "subtitle": "`Ik buig voor Heer Ganesha.` De verwijderaar van obstakels en de godheid van het begin, wijsheid en voorspoed.",
+        "imgSrc": "/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(Om Sharavanabhavaya Namah)",
+        "subtitle": "`Ik buig voor Heer Murugan.` De god van oorlog en overwinning, bekend om zijn moed, kracht en wijsheid.",
+        "imgSrc": "/slider/lord-subramanyaswamy.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(Om Namah Shivaya)",
+        "subtitle": "`Ik buig voor Shiva.` De eenvoudigste en krachtigste mantra voor innerlijke vrede, zuivering en spiritueel ontwaken.",
+        "imgSrc": "/slider/lord-shiva.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(Om Parvatyai Namah)",
+        "subtitle": "`Ik buig voor Parvati.` De goddelijke moedergodin, symbool van liefde, vruchtbaarheid en devotie.",
+        "imgSrc": "/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(Om Namo Bhagavate Vasudevaya)",
+        "subtitle": "`Ik buig voor Heer Vasudeva (Krishna).` Een krachtige mantra voor devotie, bescherming en spirituele groei.",
+        "imgSrc": "/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/slider/lord-rama-sita.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/slider/lord-hanuman.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`Ik buig voor Saraswati.` De godin van kennis, muziek, kunst en wijsheid.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      }
+    ],
+    "topics": [
+      "Geschriften",
+      "Stotras & Mantra's",
+      "Filosofie",
+      "Praktijken",
+      "Verhalen",
+      "en Kinderzone"
+    ],
+    "buttons": {
+      "explore": "Geschriften",
+      "learnMore": "Stotras & Mantra's"
+    }
+  }
+}

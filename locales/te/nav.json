@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "హోమ్",
+    "contact": "సంప్రదించండి",
+    "about": "గురించి",
+    "donate": "విరాళం",
+    "scriptures": {
+      "title": "శాస్త్రాలు",
+      "nav": {
+        "gita": "భగవద్గీత",
+        "upanishads": "ఉపనిషత్తులు",
+        "vedas": "వేదాలు",
+        "mahabharata": "మహాభారతం",
+        "ramayana": "రామాయణం",
+        "puranas": "పురాణాలు"
+      }
+    },
+    "stotrasmantras": {
+      "title": "స్తోత్రాలు & మంత్రాలు",
+      "nav": {
+        "shiva": "శివ స్తోత్రాలు",
+        "vishnu": "విష్ణు స్తోత్రాలు",
+        "devi": "దేవి స్తోత్రాలు",
+        "hanuman": "హనుమాన్ స్తోత్రాలు",
+        "ganesha": "గణేశ స్తోత్రాలు",
+        "dailyPrayers": "దినసరి ప్రార్థనలు"
+      }
+    },
+    "philosophy": {
+      "title": "తత్త్వశాస్త్రం",
+      "nav": {
+        "dharma": "ధర్మం",
+        "karma": "కర్మ",
+        "samsara": "సంసారం",
+        "moksha": "మోక్షం",
+        "yoga": "యోగం",
+        "advaita": "అద్వైత / ద్వైత / విశిష్టాద్వైత"
+      }
+    },
+    "practices": {
+      "title": "ఆచరణలు",
+      "nav": {
+        "rituals": "క్రతువులు",
+        "festivals": "పండుగలు",
+        "dailypuja": "దినసరి పూజ",
+        "vastu": "వాస్తు"
+      }
+    },
+    "stories": {
+      "title": "కథలు",
+      "nav": {
+        "ramayana": "రామాయణ కథలు",
+        "mahabharata": "మహాభారత కథలు",
+        "puranic": "పౌరాణిక కథలు",
+        "moralstories": "నీతి కథలు"
+      }
+    },
+    "kidsZone": {
+      "title": "పిల్లల విభాగం",
+      "nav": {
+        "illustratedStories": "చిత్రకథలు",
+        "mythologicalquizzes": "సరదా క్విజ్‌లు",
+        "easymantras": "సులభ మంత్రాలు",
+        "quizzes": "పౌరాణిక ప్రశ్నోత్తరాలు"
+      }
+    }
+  }
+}

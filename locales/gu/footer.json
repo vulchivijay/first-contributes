@@ -1,0 +1,90 @@
+{
+  "footer": {
+    "nav": {
+      "home": "મુખપૃષ્ઠ",
+      "contact": "સંપર્ક",
+      "about": "વિશે",
+      "donate": "દાન કરો",
+      "scriptures": {
+        "title": "શાસ્ત્રો",
+        "nav": {
+          "gita": "ભગવદ ગીતા",
+          "upanishads": "ઉપનિષદ",
+          "vedas": "વેદ",
+          "mahabharata": "મહાભારત",
+          "ramayana": "રામાયણ",
+          "puranas": "પુરાણ"
+        }
+      },
+      "stotrasmantras": {
+        "title": "સ્તોત્રો અને મંત્રો",
+        "nav": {
+          "shiva": "શિવ સ્તોત્રો",
+          "vishnu": "વિષ્ણુ સ્તોત્રો",
+          "devi": "દેવી સ્તોત્રો",
+          "hanuman": "હનુમાન સ્તોત્રો",
+          "ganesha": "ગણેશ સ્તોત્રો",
+          "dailyPrayers": "દૈનિક પ્રાર્થનાઓ"
+        }
+      },
+      "philosophy": {
+        "title": "તત્ત્વજ્ઞાન",
+        "nav": {
+          "dharma": "ધર્મ",
+          "karma": "કર્મ",
+          "samsara": "સંસાર",
+          "moksha": "મોક્ષ",
+          "yoga": "યોગ (જ્ઞાન, કર્મ, ભક્તિ, રાજા)",
+          "advaita": "અદ્વૈત / દ્વૈત / વિશિષ્ટાદ્વૈત"
+        }
+      },
+      "practices": {
+        "title": "આચરણ",
+        "nav": {
+          "rituals": "વિધિઓ",
+          "festivals": "ઉત્સવો",
+          "dailypuja": "દૈનિક પૂજા",
+          "vastu": "વાસ્તુ"
+        }
+      },
+      "stories": {
+        "title": "વાર્તાઓ",
+        "nav": {
+          "ramayana": "રામાયણ",
+          "mahabharata": "મહાભારત",
+          "puranic": "પુરાણિક વાર્તાઓ",
+          "moralstories": "બાળકો માટે નૈતિક વાર્તાઓ"
+        }
+      },
+      "kidsZone": {
+        "title": "બાળકોનો વિભાગ",
+        "nav": {
+          "illustratedStories": "ચિત્રિત વાર્તાઓ",
+          "mythologicalquizzes": "મજેદાર ક્વિઝ",
+          "easymantras": "સરળ મંત્રો",
+          "quizzes": "પૌરાણિક કોમિક્સ"
+        }
+      },
+      "others": {
+        "title": "Sanatanadharmam",
+        "nav": {
+          "about": "About",
+          "horoscope": "Horoscope"
+        }
+      }
+    },
+    "home": "Home",
+    "about": "About",
+    "resources": "Resources",
+    "contact": "Contact with us",
+    "donate": "Donate",
+    "disclaimer": "Disclaimer: This website is currently in development.",
+    "contentChange": "Content may be incomplete or subject to change.",
+    "copyright": "Vulchi Vijaya Kumar Raju © 2025.",
+    "title": "Sanatana Dharma",
+    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
+    "quoteSource": "— Mahabharata 3.281.34.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

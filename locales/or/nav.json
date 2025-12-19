@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+    "contact": "ସମ୍ପର୍କ",
+    "about": "ବିଷୟରେ",
+    "donate": "ଦାନ କରନ୍ତୁ",
+    "scriptures": {
+      "title": "ଧାର୍ମିକ ଗ୍ରନ୍ଥ",
+      "nav": {
+        "gita": "ଭଗବଦ୍ ଗୀତା",
+        "upanishads": "ଉପନିଷଦ",
+        "vedas": "ବେଦ",
+        "mahabharata": "ମହାଭାରତ",
+        "ramayana": "ରାମାୟଣ",
+        "puranas": "ପୁରାଣ"
+      }
+    },
+    "stotrasmantras": {
+      "title": "ସ୍ତୋତ୍ର ଏବଂ ମନ୍ତ୍ର",
+      "nav": {
+        "shiva": "ଶିବ ସ୍ତୋତ୍ର",
+        "vishnu": "ବିଷ୍ଣୁ ସ୍ତୋତ୍ର",
+        "devi": "ଦେବୀ ସ୍ତୋତ୍ର",
+        "hanuman": "ହନୁମାନ ସ୍ତୋତ୍ର",
+        "ganesha": "ଗଣେଶ ସ୍ତୋତ୍ର",
+        "dailyPrayers": "ଦୈନିକ ପ୍ରାର୍ଥନା"
+      }
+    },
+    "philosophy": {
+      "title": "ଦର୍ଶନ",
+      "nav": {
+        "dharma": "ଧର୍ମ",
+        "karma": "କର୍ମ",
+        "samsara": "ସଂସାର",
+        "moksha": "ମୋକ୍ଷ",
+        "yoga": "ଯୋଗ (ଜ୍ଞାନ, କର୍ମ, ଭକ୍ତି, ରାଜା)",
+        "advaita": "ଅଦ୍ୱୈତ / ଦ୍ୱୈତ / ବିଶିଷ୍ଟାଦ୍ୱୈତ"
+      }
+    },
+    "practices": {
+      "title": "ଅଭ୍ୟାସ",
+      "nav": {
+        "rituals": "ଆଚାର",
+        "festivals": "ପର୍ବ",
+        "dailypuja": "ଦୈନିକ ପୂଜା",
+        "vastu": "ବାସ୍ତୁ"
+      }
+    },
+    "stories": {
+      "title": "କାହାଣୀ",
+      "nav": {
+        "ramayana": "ରାମାୟଣ",
+        "mahabharata": "ମହାଭାରତ",
+        "puranic": "ପୁରାଣିକ",
+        "moralstories": "ଶିଶୁମାନଙ୍କ ପାଇଁ ନୈତିକ କାହାଣୀ"
+      }
+    },
+    "kidsZone": {
+      "title": "ଶିଶୁମାନଙ୍କ ଅଞ୍ଚଳ",
+      "nav": {
+        "illustratedStories": "ଚିତ୍ରିତ କାହାଣୀ",
+        "mythologicalquizzes": "ମଜାଦାର ପ୍ରଶ୍ନୋତ୍ତର",
+        "easymantras": "ସହଜ ମନ୍ତ୍ର",
+        "quizzes": "ପୌରାଣିକ କମିକ୍ସ"
+      }
+    }
+  }
+}

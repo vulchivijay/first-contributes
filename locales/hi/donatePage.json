@@ -1,0 +1,30 @@
+{
+  "donatePage": {
+    "title": "Donate Us",
+    "lead": "Your support helps keep the content free and accessible. Thank you for considering a donation.",
+    "oneTime": "One-time donation",
+    "oneTimeLead": "Use the button below to make a secure one-time donation via PayPal. Replace the link with your PayPal donate link.",
+    "donateWithPaypal": "Donate with PayPal",
+    "upiBank": "UPI / Bank transfer",
+    "upiLead": "If you prefer direct transfer, use the details below. Replace these placeholder details with your real payment info.",
+    "recurring": "Recurring support",
+    "recurringLead": "Consider monthly support via Patreon or a similar platform. Add your recurring link where indicated below.",
+    "becomeMonthly": "Become a monthly",
+    "upiLabel": "UPI ID:",
+    "upiId": "8099181075@ybl",
+    "accountNameLabel": "Account name:",
+    "accountName": "VIJAYA KUMAR VULCHI",
+    "accountNumberLabel": "Account number:",
+    "accountNumber": "32160808608",
+    "ifscLabel": "IFSC:",
+    "ifsc": "SBIN0010677",
+    "expansesTitle": "Expanses:",
+    "table": {
+      "name": "Name",
+      "expanses": "Expanses",
+      "duration": "Duration",
+      "reasons": "Reasons/Provider"
+    },
+    "orLabel": "(Or)"
+  }
+}

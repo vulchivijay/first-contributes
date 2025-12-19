@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "slides": [
+      {
+        "sankritTitle": "ॐ गं गणपतये नमः",
+        "englishTitle": "(ओम गं गणपतये नमः)",
+        "subtitle": "`मी भगवान गणेशाला नमन करतो.` अडथळे दूर करणारे आणि सुरुवात, ज्ञान आणि समृद्धीचे देवता.",
+        "imgSrc": "/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(ओम शरवणभवाय नमः)",
+        "subtitle": "`मी भगवान मुरुगनला नमन करतो.` युद्ध आणि विजयाचे देव, जे त्यांच्या धैर्य, शक्ती आणि ज्ञानासाठी ओळखले जातात.",
+        "imgSrc": "/slider/lord-subramanyaswamy.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(ओम नमः शिवाय)",
+        "subtitle": "`मी शिवाला नमन करतो.` आंतरिक शांती, शुद्धीकरण आणि आध्यात्मिक जागृतीसाठी सर्वात सोपा आणि शक्तिशाली मंत्र.",
+        "imgSrc": "/slider/lord-shiva.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(ओम पार्वत्यै नमः)",
+        "subtitle": "`मी पार्वतीला नमन करतो.` प्रेम, प्रजनन क्षमता आणि भक्तीचे प्रतीक असलेली दिव्य मातृदेवी.",
+        "imgSrc": "/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(ओम नमो भगवते वासुदेवाय)",
+        "subtitle": "`मी भगवान वासुदेव (कृष्ण) यांना नमन करतो.` भक्ती, संरक्षण आणि आध्यात्मिक वाढीसाठी एक शक्तिशाली मंत्र.",
+        "imgSrc": "/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/slider/lord-rama-sita.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/slider/lord-hanuman.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(ओम सरस्वत्यै नमः)",
+        "subtitle": "`मी सरस्वतीला नमन करतो.` ज्ञान, संगीत, कला आणि बुद्धिमत्तेची देवी.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      }
+    ],
+    "topics": [
+      "ग्रंथ",
+      "स्तोत्रे आणि मंत्र",
+      "तत्त्वज्ञान",
+      "आचरण",
+      "कथा",
+      "आणि किड्स झोन"
+    ],
+    "buttons": {
+      "explore": "ग्रंथ",
+      "learnMore": "स्तोत्रे आणि मंत्र"
+    }
+  }
+}

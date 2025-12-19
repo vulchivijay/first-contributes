@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Главная",
+    "contact": "Контакты",
+    "about": "О нас",
+    "donate": "Пожертвовать",
+    "scriptures": {
+      "title": "Священные тексты",
+      "nav": {
+        "gita": "Бхагавад-гита",
+        "upanishads": "Упанишады",
+        "vedas": "Веды",
+        "mahabharata": "Махабхарата",
+        "ramayana": "Рамаяна",
+        "puranas": "Пураны"
+      }
+    },
+    "stotrasmantras": {
+      "title": "Стотры и мантры",
+      "nav": {
+        "shiva": "Стотры Шивы",
+        "vishnu": "Стотры Вишну",
+        "devi": "Стотры Деви",
+        "hanuman": "Стотры Ханумана",
+        "ganesha": "Стотры Ганеши",
+        "dailyPrayers": "Ежедневные молитвы"
+      }
+    },
+    "philosophy": {
+      "title": "Философия",
+      "nav": {
+        "dharma": "Дхарма",
+        "karma": "Карма",
+        "samsara": "Самсара",
+        "moksha": "Мокша",
+        "yoga": "Йога (Джнана, Карма, Бхакти, Раджа)",
+        "advaita": "Адвайта / Двайта / Вишиштадвайта"
+      }
+    },
+    "practices": {
+      "title": "Практики",
+      "nav": {
+        "rituals": "Обряды",
+        "festivals": "Праздники",
+        "dailypuja": "Ежедневная пуджа",
+        "vastu": "Васту"
+      }
+    },
+    "stories": {
+      "title": "Истории",
+      "nav": {
+        "ramayana": "Рамаяна",
+        "mahabharata": "Махабхарата",
+        "puranic": "Пуранические",
+        "moralstories": "Поучительные истории для детей"
+      }
+    },
+    "kidsZone": {
+      "title": "Детская зона",
+      "nav": {
+        "illustratedStories": "Иллюстрированные истории",
+        "mythologicalquizzes": "Весёлые викторины",
+        "easymantras": "Простые мантры",
+        "quizzes": "Комиксы по мифологии"
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "kidsZone": {
+    "mythologicalQuizzes": {
+      "title": "Mythological Quizzes",
+      "description": "Answer 10 random questions in 10 minutes. Good luck!",
+      "searchLabel": "Search",
+      "originLabel": "Origin",
+      "themeLabel": "Theme",
+      "allOrigins": "All origins",
+      "allThemes": "All themes",
+      "filter": "Filter",
+      "previous": "Previous",
+      "next": "Next",
+      "showing": "Showing {start}–{end} of {total}",
+      "comicNotFoundTitle": "Comic not found",
+      "comicNotFoundDesc": "We couldn't find that comic.",
+      "moralLabel": "Moral:",
+      "charactersLabel": "Characters:",
+      "themesLabel": "Themes:"
+    },
+    "illustratedStories": {
+      "title": "Illustrated Stories",
+      "description": "A curated collection of short illustrated stories and morals from Indian tradition. Click a story to read its summary and moral.",
+      "charactersLabel": "Characters:",
+      "themesLabel": "Themes:"
+    }
+  },
+  "policies": {
+    "cookiePolicy": {
+      "title": "Cookie Policy",
+      "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
+      "whatAreCookies": "What are cookies?",
+      "typesHeading": "Types of cookies we use",
+      "types": {
+        "strictlyNecessary": "Strictly necessary: Required for the site to function.",
+        "functionality": "Functionality: Remember choices and preferences.",
+        "performance": "Performance: Help us analyze traffic and performance.",
+        "targeting": "Targeting: Used for advertising and personalization."
+      },
+      "managing": "Managing your preferences",
+      "managingDesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+      "dataSharing": "Data sharing",
+      "dataSharingDesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
+      "lastUpdated": "Last updated: {date}"
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "intro": "This Privacy Policy outlines how we collect, use and protect your personal information.",
+      "informationHeading": "Information we collect",
+      "informationDesc": "We collect information you provide, cookies, and anonymized analytics data to improve the service.",
+      "howWeUse": "How we use information",
+      "howWeUseDesc": "Information is used to operate, maintain and provide the features of the website, and to analyze usage patterns.",
+      "yourRights": "Your rights",
+      "yourRightsDesc": "You can request access, correction or deletion of your personal data by contacting us on the site.",
+      "lastUpdated": "Last updated: {date}"
+    }
+  },
+  "donate": {
+    "expansesTitle": "Expanses:",
+    "table": {
+      "name": "Name",
+      "expanses": "Expanses",
+      "duration": "Duration",
+      "reasons": "Reasons/Provider"
+    },
+    "expenses": [
+      { "name": "Domain", "expanses": "3,500 Rupees", "duration": "3 Years", "provider": "Hostinger" },
+      { "name": "Github Copilot", "expanses": "Basic Free Plan", "duration": "Monthly renew", "provider": "Github" },
+      { "name": "Github", "expanses": "Open source gh-pages", "duration": "Unlimited", "provider": "Github" },
+      { "name": "Gemini AI", "expanses": "Basic Free Plan", "duration": "Daily renew", "provider": "Google" },
+      { "name": "Office 365 Copilot", "expanses": "Basic Free Plan", "duration": "Daily renew", "provider": "Microsoft" },
+      { "name": "Meta AI", "expanses": "Basic Free Plan", "duration": "Daily renew", "provider": "Facebook" }
+    ],
+    "orLabel": "(Or)"
+  },
+  "horoscope": {
+    "title": "Horoscope Generator",
+    "nameLabel": "Name (optional)",
+    "birthDate": "Birth date",
+    "period": "Period",
+    "periodDay": "Day",
+    "periodWeek": "Week",
+    "periodMonth": "Month",
+    "generate": "Generate",
+    "errorLabel": "Error:",
+    "luckyNumber": "Lucky number: {num} · Period: {periodLabel}"
+  },
+  "sitemap": {
+    "title": "HTML Sitemap",
+    "description": "A human-friendly sitemap of important pages (also available as XML at {xmlLink})."
+  },
+  "timelapse": {
+    "label": "Label:",
+    "name": "Name:",
+    "nature": "Nature:",
+    "origin": "Origin:",
+    "role": "Role:"
+  },
+  "resources": {
+    "timelinesTitle": "Timelines",
+    "timelinesDesc": "Placeholder for historical timelines and epochs.",
+    "mapsDesc": "Maps and geographic resources.",
+    "glossaryDesc": "Placeholder glossary of terms and definitions.",
+    "bibliographyTitle": "Bibliography",
+    "bibliographyDesc": "Placeholder for recommended readings and bibliographic entries."
+  }
+}

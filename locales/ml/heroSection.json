@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "slides": [
+      {
+        "sankritTitle": "ॐ गं गणपतये नमः",
+        "englishTitle": "(ഓം ഗം ഗണപതയേ നമഃ)",
+        "subtitle": "`ഞാൻ ഗണപതിക്ക് പ്രണാമം ചെയ്യുന്നു.` തടസ്സങ്ങൾ നീക്കുന്നവനും ആരംഭം, ജ്ഞാനം, സമൃദ്ധി എന്നിവയുടെ ദേവനും.",
+        "imgSrc": "/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(ഓം ശരവണഭവಾಯ നമഃ)",
+        "subtitle": "`ഞാൻ മുരുകന് പ്രണാമം ചെയ്യുന്നു.` ധൈര്യം, ശക്തി, ജ്ഞാനം എന്നിവയ്ക്ക് പേരുകേട്ട യുദ്ധത്തിൻ്റെയും വിജയത്തിൻ്റെയും ദൈവം.",
+        "imgSrc": "/slider/lord-subramanyaswamy.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(ഓം നമഃ ശിവായ)",
+        "subtitle": "`ഞാൻ ശിവന് പ്രണാമം ചെയ്യുന്നു.` ആന്തരിക സമാധാനം, ശുദ്ധീകരണം, ആത്മീയ ഉണർവ് എന്നിവയ്ക്കുള്ള ഏറ്റവും ലളിതവും ശക്തവുമായ മന്ത്രം.",
+        "imgSrc": "/slider/lord-shiva.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(ഓം പാർവത്യൈ നമഃ)",
+        "subtitle": "`ഞാൻ പാർവതിക്ക് പ്രണാമം ചെയ്യുന്നു.` സ്നേഹം, ഫലഭൂയിഷ്ഠത, ഭക്തി എന്നിവയെ പ്രതീകപ്പെടുത്തുന്ന ദിവ്യ മാതൃദേവി.",
+        "imgSrc": "/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(ഓം നമോ ഭഗവതേ വാസുദേവായ)",
+        "subtitle": "`ഞാൻ വാസുദേവന് (കൃഷ്ണൻ) പ്രണാമം ചെയ്യുന്നു.` ഭക്തി, സംരക്ഷണം, ആത്മീയ വളർച്ച എന്നിവയ്ക്കുള്ള ശക്തമായ മന്ത്രം.",
+        "imgSrc": "/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/slider/lord-rama-sita.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/slider/lord-hanuman.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(ഓം സരസ്വത്യൈ നമഃ)",
+        "subtitle": "`ഞാൻ സരസ്വതിക്ക് പ്രണാമം ചെയ്യുന്നു.` അറിവ്, സംഗീതം, കലകൾ, ജ്ഞാനം എന്നിവയുടെ ദേവി.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      }
+    ],
+    "topics": [
+      "ഗ്രന്ഥങ്ങൾ",
+      "സ്തോത്രങ്ങളും മന്ത്രങ്ങളും",
+      "തത്ത്വചിന്ത",
+      "ആചാരങ്ങൾ",
+      "കഥകൾ",
+      "കൂടാതെ കിഡ്‌സ് സോൺ"
+    ],
+    "buttons": {
+      "explore": "ഗ്രന്ഥങ്ങൾ",
+      "learnMore": "സ്തോത്രങ്ങളും മന്ത്രങ്ങളും"
+    }
+  }
+}

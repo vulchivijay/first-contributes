@@ -1,0 +1,90 @@
+{
+  "footer": {
+    "nav": {
+      "home": "首页",
+      "contact": "联系我们",
+      "about": "关于我们",
+      "donate": "捐赠",
+      "scriptures": {
+        "title": "经典",
+        "nav": {
+          "gita": "博伽梵歌",
+          "upanishads": "奥义书",
+          "vedas": "吠陀",
+          "mahabharata": "摩诃婆罗多",
+          "ramayana": "罗摩衍那",
+          "puranas": "往世书"
+        }
+      },
+      "stotrasmantras": {
+        "title": "颂词与真言",
+        "nav": {
+          "shiva": "湿婆颂词",
+          "vishnu": "毗湿奴颂词",
+          "devi": "女神颂词",
+          "hanuman": "哈奴曼颂词",
+          "ganesha": "象头神颂词",
+          "dailyPrayers": "每日祈祷"
+        }
+      },
+      "philosophy": {
+        "title": "哲学",
+        "nav": {
+          "dharma": "法（达摩）",
+          "karma": "业（卡尔玛）",
+          "samsara": "轮回（桑萨拉）",
+          "moksha": "解脱（莫克沙）",
+          "yoga": "瑜伽（智瑜伽、业瑜伽、虔信瑜伽、王瑜伽）",
+          "advaita": "不二论 / 二元论 / 特殊不二论"
+        }
+      },
+      "practices": {
+        "title": "修行",
+        "nav": {
+          "rituals": "仪式",
+          "festivals": "节日",
+          "dailypuja": "每日祭祀",
+          "vastu": "风水（Vastu）"
+        }
+      },
+      "stories": {
+        "title": "故事",
+        "nav": {
+          "ramayana": "罗摩衍那",
+          "mahabharata": "摩诃婆罗多",
+          "puranic": "往世书故事",
+          "moralstories": "儿童道德故事"
+        }
+      },
+      "kidsZone": {
+        "title": "儿童专区",
+        "nav": {
+          "illustratedStories": "插图故事",
+          "mythologicalquizzes": "趣味问答",
+          "easymantras": "简单真言",
+          "quizzes": "神话漫画"
+        }
+      },
+      "others": {
+        "title": "Sanatanadharmam",
+        "nav": {
+          "about": "About",
+          "horoscope": "Horoscope"
+        }
+      }
+    },
+    "home": "Home",
+    "about": "About",
+    "resources": "Resources",
+    "contact": "Contact with us",
+    "donate": "Donate",
+    "disclaimer": "Disclaimer: This website is currently in development.",
+    "contentChange": "Content may be incomplete or subject to change.",
+    "copyright": "Vulchi Vijaya Kumar Raju © 2025.",
+    "title": "Sanatana Dharma",
+    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
+    "quoteSource": "— Mahabharata 3.281.34.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

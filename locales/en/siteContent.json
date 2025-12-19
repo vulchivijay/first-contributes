@@ -1,0 +1,80 @@
+{
+  "home": {
+    "shivaHeading": [
+      "Shiva as the",
+      "Supreme Being.",
+      "He is the ultimate",
+      "reality, beyond",
+      "time and space."
+    ],
+    "stat1": "10,00,000+",
+    "stat1Desc": "More than one million Shiva Temples in India",
+    "stat2": "10,000+",
+    "stat2Desc": "Thousands of Hindu temples outside India",
+    "stat3": "10+",
+    "stat3Desc": "top most Shiva temples outside India with locations and unique features.",
+    "lingamText": [
+      "Lingam: Abstract representation",
+      "of Shiva. Nataraja: Cosmic",
+      "dancer symbolizing rhythm",
+      "of creation",
+      "and destruction."
+    ]
+  },
+  "ourFourCoreYugas": {
+    "title": "Our Four Core Yuga's",
+    "satyaTitle": "Satya Yuga (Golden Age):",
+    "satyaDuration": "Duration of Satya Yuga:",
+    "satyaDesc": "The first and best age, characterized by truth, righteousness (dharma), long life, health, and divine connection.",
+    "tretaTitle": "Treta Yuga (Silver Age):",
+    "tretaDuration": "Duration of Treta Yuga:",
+    "tretaDesc": "A slight decline from Satya Yuga; the time of the Ramayana, with less spiritual perfection.",
+    "dvaparaTitle": "Dvapara Yuga (Bronze Age):",
+    "dvaparaDuration": "Duration of Dvapara Yuga:",
+    "dvaparaDesc": "Further decline; shorter lives, more conflict; the era of the Mahabharata and Krishna's departure.",
+    "kaliTitle": "Kali Yuga (Iron Age):",
+    "kaliDuration": "Duration of Kali Yuga:",
+    "kaliDesc": "The current age, marked by strife, ignorance, and materialism; spiritual practices are more difficult but still possible."
+  },
+  "stotras": {
+    "krishnaBg": {
+      "heading": [
+        "शान्ताकारम् भुजगशयनम् पद्मनाभम् सुरेशम्।",
+        "विश्वाधारम् गगनसदृशम् मेघवर्णम् शुभाङ्गम्।",
+        "लक्ष्मीकान्तम् कमलनयनम् योगिभिर्ध्यानगम्यम्।",
+        "वन्दे विष्णुम् भवभयहरम् सर्वलोकैकनाथम्॥"
+      ],
+      "transliteration": "I bow to Vishnu—Who has a peaceful demeanor (Shanta-karam)..."
+    },
+    "gayathri": {
+      "heading": [
+        "ॐ भूर्भुवः स्वः",
+        "तत् सवितुर्वरेण्यम्",
+        "भर्गो देवस्य धीमहि",
+        "धियो यो नः प्रचोदयात्"
+      ],
+      "transliteration": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dheemahi Dhiyo Yo Nah Prachodayat",
+      "translation": "We meditate upon the desirable effulgence of the divine Sun, the impeller. May he stimulate our intellects."
+    },
+    "shiva": {
+      "heading": [
+        "ॐ त्र्यम्बकं यजामहे",
+        "सुगन्धिं पुष्टिवर्धनम्।",
+        "उर्वारुकमिव बन्धनान्",
+        "मृत्योर्मुक्षीय माऽमृतात्॥"
+      ],
+      "transliteration": "Oṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭi-vardhanam | Urvarukam iva bandhanān mṛtyor mukṣīya māmṛtāt ||"
+    }
+  },
+  "krishnaStotram": {
+    "title": [
+      "यदा यदा हि",
+      "धर्मस्य ग्लानिर्भवति भारत ।",
+      "अभ्युत्थानम धर्मस्य",
+      "तदात्मानं सृजाम्यहम् ॥"
+    ],
+    "transliteration": "Yadā yadā hi dharmasya glānirbhavati bhārata, Abhyutthāna madharmasya tadātmānaṁ sṛjāmyaham.",
+    "credit": "- by Lord Krishna.",
+    "translation": "Whenever and wherever there is a decline in righteousness (Dharma), O descendant of Bharata (Arjuna), and a predominance of unrighteousness (Adharma)—at that time I manifest Myself (take birth)."
+  }
+}

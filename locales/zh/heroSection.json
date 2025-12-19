@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "slides": [
+      {
+        "sankritTitle": "ॐ गं गणपतये नमः",
+        "englishTitle": "(Om Gam Ganapataye Namah)",
+        "subtitle": "`我向象神格涅沙致敬。` 障碍的消除者，以及开端、智慧和繁荣的守护神。",
+        "imgSrc": "/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(Om Sharavanabhavaya Namah)",
+        "subtitle": "`我向穆鲁根神致敬。` 战争与胜利之神，以其勇气、力量和智慧而闻名。",
+        "imgSrc": "/slider/lord-subramanyaswamy.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(Om Namah Shivaya)",
+        "subtitle": "`我向湿婆致敬。` 最简单也是最强大的咒语，用于内心平静、净化和精神觉醒。",
+        "imgSrc": "/slider/lord-shiva.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(Om Parvatyai Namah)",
+        "subtitle": "`我向帕尔瓦蒂致敬。` 神圣的母亲女神，象征着爱、生育和奉献。",
+        "imgSrc": "/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(Om Namo Bhagavate Vasudevaya)",
+        "subtitle": "`我向瓦苏德瓦（奎师那）神致敬。` 一个强大的咒语，用于奉献、保护和精神成长。",
+        "imgSrc": "/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/slider/lord-rama-sita.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/slider/lord-hanuman.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`我向萨拉斯瓦蒂致敬。` 知识、音乐、艺术和智慧的女神。",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      }
+    ],
+    "topics": [
+      "经典",
+      "赞美诗和咒语",
+      "哲学",
+      "修行",
+      "故事",
+      "和儿童区"
+    ],
+    "buttons": {
+      "explore": "经典",
+      "learnMore": "赞美诗和咒语"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "मुख्य पृष्ठ",
+    "contact": "संपर्क",
+    "about": "हमारे बारे में",
+    "donate": "दान करें",
+    "scriptures": {
+      "title": "धार्मिक ग्रंथ",
+      "nav": {
+        "gita": "भगवद गीता",
+        "upanishads": "उपनिषद",
+        "vedas": "वेद",
+        "mahabharata": "महाभारत",
+        "ramayana": "रामायण",
+        "puranas": "पुराण"
+      }
+    },
+    "stotrasmantras": {
+      "title": "स्तोत्र और मंत्र",
+      "nav": {
+        "shiva": "शिव स्तोत्र",
+        "vishnu": "विष्णु स्तोत्र",
+        "devi": "देवी स्तोत्र",
+        "hanuman": "हनुमान स्तोत्र",
+        "ganesha": "गणेश स्तोत्र",
+        "dailyPrayers": "दैनिक प्रार्थनाएँ"
+      }
+    },
+    "philosophy": {
+      "title": "दर्शन",
+      "nav": {
+        "dharma": "धर्म",
+        "karma": "कर्म",
+        "samsara": "संसार",
+        "moksha": "मोक्ष",
+        "yoga": "योग (ज्ञान, कर्म, भक्ति, राज)",
+        "advaita": "अद्वैत / द्वैत / विशिष्टाद्वैत"
+      }
+    },
+    "practices": {
+      "title": "अनुष्ठान",
+      "nav": {
+        "rituals": "रिवाज़",
+        "festivals": "त्योहार",
+        "dailypuja": "दैनिक पूजा",
+        "vastu": "वास्तु"
+      }
+    },
+    "stories": {
+      "title": "कहानियाँ",
+      "nav": {
+        "ramayana": "रामायण",
+        "mahabharata": "महाभारत",
+        "puranic": "पुराण कथाएँ",
+        "moralstories": "बच्चों के लिए नैतिक कहानियाँ"
+      }
+    },
+    "kidsZone": {
+      "title": "बच्चों का क्षेत्र",
+      "nav": {
+        "illustratedStories": "चित्रित कहानियाँ",
+        "mythologicalquizzes": "मज़ेदार प्रश्नोत्तरी",
+        "easymantras": "सरल मंत्र",
+        "quizzes": "पौराणिक कॉमिक्स"
+      }
+    }
+  }
+}

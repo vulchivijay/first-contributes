@@ -1,0 +1,151 @@
+{
+  "ramayana": {
+    "title": "Ramayana",
+    "author": "Traditionally attributed to Maharishi Valmiki",
+    "description": "An epic of dharma, devotion, courage, and righteousness, narrating the life of Lord Rama.",
+    "kandas": [
+      {
+        "kanda": 1,
+        "name": "Bala Kanda",
+        "summary": "Describes the birth of Rama and his brothers, their childhood, Rama’s training under Sage Vishwamitra, and his marriage to Sita.",
+        "keyEvents": [
+          "King Dasharatha’s desire for children and the Putrakameshti Yagna",
+          "Birth of Rama, Bharata, Lakshmana, and Shatrughna",
+          "Rama and Lakshmana accompany Sage Vishwamitra",
+          "Slaying of demons Tataka and Subahu",
+          "Breaking of Shiva’s bow at Sita’s swayamvara",
+          "Marriage of Rama and Sita"
+        ]
+      },
+      {
+        "kanda": 2,
+        "name": "Ayodhya Kanda",
+        "summary": "Focuses on Rama’s exile, the grief of Ayodhya, and the loyalty of Sita and Lakshmana.",
+        "keyEvents": [
+          "Rama chosen as the crown prince",
+          "Manthara persuades Queen Kaikeyi to demand Bharata’s coronation",
+          "Kaikeyi asks for Rama’s 14-year exile",
+          "Rama leaves for the forest with Sita and Lakshmana",
+          "Dasharatha dies of grief",
+          "Bharata refuses the throne and takes Rama’s slippers as a symbol of his rule"
+        ]
+      },
+      {
+        "kanda": 3,
+        "name": "Aranya Kanda",
+        "summary": "Describes the life of Rama, Sita, and Lakshmana in the forest and Sita’s abduction by Ravana.",
+        "keyEvents": [
+          "Meeting sages in the forest",
+          "Encounter with demoness Shurpanakha",
+          "Slaying of Khara and Dushana",
+          "Golden deer incident",
+          "Ravana abducts Sita",
+          "Jatayu tries to rescue Sita but is fatally wounded",
+          "Rama and Lakshmana search for Sita"
+        ]
+      },
+      {
+        "kanda": 4,
+        "name": "Kishkindha Kanda",
+        "summary": "Rama allies with Sugriva and the Vanara army to search for Sita.",
+        "keyEvents": [
+          "Meeting Hanuman",
+          "Alliance with Sugriva",
+          "Rama kills Vali and restores Sugriva’s kingdom",
+          "Search parties sent across the world",
+          "Hanuman discovers Sita’s location in Lanka"
+        ]
+      },
+      {
+        "kanda": 5,
+        "name": "Sundara Kanda",
+        "summary": "The heroic adventures of Hanuman as he leaps to Lanka, meets Sita, and delivers Rama’s message.",
+        "keyEvents": [
+          "Hanuman leaps across the ocean",
+          "Encounter with Surasa and Simhika",
+          "Entering Lanka",
+          "Meeting Sita in Ashoka Vatika",
+          "Burning of Lanka after being captured",
+          "Return to Rama with Sita’s message"
+        ]
+      },
+      {
+        "kanda": 6,
+        "name": "Yuddha Kanda",
+        "summary": "The great war between Rama and Ravana leading to Sita’s rescue.",
+        "keyEvents": [
+          "Rama builds a bridge (Setu) to Lanka with the Vanaras",
+          "War between Rama’s army and Ravana’s forces",
+          "Indrajit’s illusions and Lakshmana’s injury",
+          "Hanuman brings the Sanjeevani herb",
+          "Lakshmana kills Indrajit",
+          "Rama kills Ravana",
+          "Sita proves her purity through Agni Pariksha"
+        ]
+      },
+      {
+        "kanda": 7,
+        "name": "Uttara Kanda",
+        "summary": "Events after Rama's coronation, including Sita’s departure, the birth of Lava and Kusha, and Rama’s final ascent.",
+        "keyEvents": [
+          "Return to Ayodhya and Rama’s coronation",
+          "Sita goes to Sage Valmiki’s ashram",
+          "Birth of Lava and Kusha",
+          "Singing of the Ramayana by Lava and Kusha",
+          "Sita returns to Mother Earth",
+          "Rama ends his earthly incarnation"
+        ]
+      }
+    ],
+    "mainCharacters": [
+      {
+        "name": "Rama",
+        "role": "Prince of Ayodhya, incarnation of Vishnu, hero of the epic"
+      },
+      {
+        "name": "Sita",
+        "role": "Wife of Rama, incarnation of Goddess Lakshmi"
+      },
+      {
+        "name": "Lakshmana",
+        "role": "Rama’s loyal brother and companion during exile"
+      },
+      {
+        "name": "Hanuman",
+        "role": "Devotee of Rama, central figure in the search for Sita"
+      },
+      {
+        "name": "Ravana",
+        "role": "King of Lanka who abducts Sita, antagonist"
+      },
+      {
+        "name": "Bharata",
+        "role": "Devoted brother who rules Ayodhya in Rama’s name"
+      },
+      {
+        "name": "Shatrughna",
+        "role": "Youngest brother of Rama"
+      },
+      {
+        "name": "Sugriva",
+        "role": "King of the Vanaras who helps Rama"
+      },
+      {
+        "name": "Vali",
+        "role": "Brother of Sugriva"
+      },
+      {
+        "name": "Vishwamitra",
+        "role": "Sage who guides Rama in his youth"
+      },
+      {
+        "name": "Dasharatha",
+        "role": "King of Ayodhya and father of Rama"
+      },
+      {
+        "name": "Kaikeyi",
+        "role": "Queen who demands Rama's exile"
+      }
+    ]
+  }
+}

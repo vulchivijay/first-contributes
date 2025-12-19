@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "contact": "Contact",
+    "about": "À propos",
+    "donate": "Faire un don",
+    "scriptures": {
+      "title": "Écritures",
+      "nav": {
+        "gita": "Bhagavad Gita",
+        "upanishads": "Upanishads",
+        "vedas": "Védas",
+        "mahabharata": "Mahabharata",
+        "ramayana": "Ramayana",
+        "puranas": "Puranas"
+      }
+    },
+    "stotrasmantras": {
+      "title": "Stotras et Mantras",
+      "nav": {
+        "shiva": "Stotras de Shiva",
+        "vishnu": "Stotras de Vishnu",
+        "devi": "Stotras de Devi",
+        "hanuman": "Stotras de Hanuman",
+        "ganesha": "Stotras de Ganesha",
+        "dailyPrayers": "Prières quotidiennes"
+      }
+    },
+    "philosophy": {
+      "title": "Philosophie",
+      "nav": {
+        "dharma": "Dharma",
+        "karma": "Karma",
+        "samsara": "Samsara",
+        "moksha": "Moksha",
+        "yoga": "Yoga (Jnana, Karma, Bhakti, Raja)",
+        "advaita": "Advaita / Dvaita / Vishishtadvaita"
+      }
+    },
+    "practices": {
+      "title": "Pratiques",
+      "nav": {
+        "rituals": "Rituels",
+        "festivals": "Festivals",
+        "dailypuja": "Puja quotidienne",
+        "vastu": "Vastu"
+      }
+    },
+    "stories": {
+      "title": "Histoires",
+      "nav": {
+        "ramayana": "Ramayana",
+        "mahabharata": "Mahabharata",
+        "puranic": "Histoires puraniques",
+        "moralstories": "Histoires morales pour enfants"
+      }
+    },
+    "kidsZone": {
+      "title": "Zone enfants",
+      "nav": {
+        "illustratedStories": "Histoires illustrées",
+        "mythologicalquizzes": "Quiz amusants",
+        "easymantras": "Mantras faciles",
+        "quizzes": "Bandes dessinées mythologiques"
+      }
+    }
+  }
+}
