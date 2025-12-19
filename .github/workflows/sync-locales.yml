@@ -1,0 +1,78 @@
+name: Sync locales from source repository
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # daily at 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.SOURCE_REPOSITORY }} # owner/name
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          path: source
+          fetch-depth: 0
+
+      - name: Sync locales directory
+        run: |
+          rsync -av --delete source/locales/ ./locales/
+
+      - name: Create branch for sync
+        id: branch
+        run: |
+          BRANCH=sync-locales-$(date -u +%Y%m%d%H%M%S)
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+          git checkout -b $BRANCH
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add locales
+            git commit -m "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
+          else
+            echo "No changes to commit"
+            exit 0
+          fi
+
+      - name: Push branch
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${{ github.repository }}
+          git push -u origin HEAD
+
+      - name: Create Pull Request
+        id: create_pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          commit-message: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
+          branch: ${{ steps.branch.outputs.branch }}
+          title: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
+          body: |
+            Automated sync of `locales` from ${{ secrets.SOURCE_REPOSITORY }}.
+            If everything looks good, merge this PR to apply updates.
+          base: ${{ github.ref_name }}
+
+      - name: Enable auto-merge for PR
+        if: ${{ steps.create_pr.outputs.pull-request-number != '' }}
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
+          merge-method: squash
