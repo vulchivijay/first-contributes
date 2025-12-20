@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Checkout source repository
         uses: actions/checkout@v4
@@ -58,17 +59,13 @@ jobs:
           git commit -m "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
 
       - name: Push branch
-        env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT with `repo` scope used to auth pushes/remote operations
         run: |
-          git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${{ github.repository }}
           git push -u origin HEAD
 
       - name: Create Pull Request
         id: create_pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT used to create the Pull Request and perform PR operations
           commit-message: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
           branch: ${{ steps.branch.outputs.branch }}
           title: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
@@ -81,6 +78,6 @@ jobs:
         if: ${{ steps.create_pr.outputs.pull-request-number != '' }}
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT used to enable auto-merge on the created PR
+          token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
           merge-method: squash
