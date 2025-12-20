@@ -40,6 +40,11 @@ jobs:
         run: |
           rsync -av --delete source/locales/ ./locales/
 
+      - name: Remove source checkout
+        if: always()
+        run: |
+          rm -rf source
+
       - name: Create branch for sync
         id: branch
         run: |
