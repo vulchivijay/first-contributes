@@ -62,6 +62,15 @@ jobs:
     needs: wait-for-checks
     runs-on: ubuntu-latest
     steps:
+      - name: Verify PAT secret present
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          if [ -z "${PERSONAL_ACCESS_TOKEN:-}" ]; then
+            echo "ERROR: repository secret PERSONAL_ACCESS_TOKEN is not set or is empty. Add a Personal Access Token with 'repo' scope to repository secrets."
+            exit 1
+          fi
+
       - name: Checkout source repository
         uses: actions/checkout@v4
         with:

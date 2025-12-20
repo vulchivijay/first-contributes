@@ -26,6 +26,15 @@ jobs:
           path: source
           fetch-depth: 0
 
+      - name: Verify PAT secret present
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          if [ -z "${PERSONAL_ACCESS_TOKEN:-}" ]; then
+            echo "ERROR: repository secret PERSONAL_ACCESS_TOKEN is not set or is empty. Add a Personal Access Token with 'repo' scope to repository secrets."
+            exit 1
+          fi
+
       - name: Sync locales directory
         run: |
           rsync -av --delete source/locales/ ./locales/
