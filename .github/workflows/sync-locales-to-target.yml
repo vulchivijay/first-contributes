@@ -23,7 +23,7 @@ jobs:
 
       - name: Wait for combined status to be success
         env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT or `GITHUB_TOKEN`. Required to query combined commit status via REST API; PAT should have `repo` scope for private repos.
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_SHA: ${{ github.sha }}
         run: |
@@ -70,16 +70,16 @@ jobs:
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.TARGET_REPOSITORY }}
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          repository: ${{ secrets.TARGET_REPOSITORY }} # owner/repo (format: "owner/name") destination to sync locales into
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT with `repo` scope used to push branches or create PRs on the target repo
           path: target
           fetch-depth: 0
 
       - name: Sync locales
         env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          TARGET_REPOSITORY: ${{ secrets.TARGET_REPOSITORY }}
-          DIRECT_PUSH: ${{ secrets.DIRECT_PUSH }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT used for pushing branches/creating PRs on target repo
+          TARGET_REPOSITORY: ${{ secrets.TARGET_REPOSITORY }} # owner/repo string for target (format: "owner/name")
+          DIRECT_PUSH: ${{ secrets.DIRECT_PUSH }} # if "true", workflow will push directly to default branch; otherwise it will open a PR
         run: |
           set -euo pipefail
           OWNER_REPO=${TARGET_REPOSITORY}
@@ -97,21 +97,23 @@ jobs:
             git fetch origin ${DEFAULT_BRANCH}:${DEFAULT_BRANCH} || true
             git checkout ${DEFAULT_BRANCH} || git checkout -b ${DEFAULT_BRANCH}
             rsync -av --delete ../locales/ ./locales/
-            if [ -n "$(git status --porcelain)" ]; then
-              git add locales
+            git add --all locales
+            if git diff --cached --quiet --; then
+              echo "No changes to sync"
+            else
               git commit -m "chore: sync locales from ${{ github.repository }}"
               git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${OWNER_REPO}
               git push origin HEAD:${DEFAULT_BRANCH}
               echo "Pushed locales to ${OWNER_REPO}:${DEFAULT_BRANCH}"
-            else
-              echo "No changes to sync"
             fi
           else
             BRANCH=sync-locales-$(date -u +%Y%m%d%H%M%S)
             git checkout -b $BRANCH origin/${DEFAULT_BRANCH} || git checkout -b $BRANCH
             rsync -av --delete ../locales/ ./locales/
-            if [ -n "$(git status --porcelain)" ]; then
-              git add locales
+            git add --all locales
+            if git diff --cached --quiet --; then
+              echo "No changes to sync"
+            else
               git commit -m "chore: sync locales from ${{ github.repository }}"
               git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${OWNER_REPO}
               git push -u origin $BRANCH
@@ -119,7 +121,5 @@ jobs:
               PR_JSON=$(jq -n --arg title "chore: sync locales from ${{ github.repository }}" --arg head "$BRANCH" --arg base "$DEFAULT_BRANCH" '{title:$title, head:$head, base:$base}')
               PR_RESPONSE=$(curl -s -H "Authorization: token ${PERSONAL_ACCESS_TOKEN}" -H "Accept: application/vnd.github+json" -d "$PR_JSON" https://api.github.com/repos/${OWNER_REPO}/pulls)
               echo "$PR_RESPONSE"
-            else
-              echo "No changes to sync"
             fi
           fi
