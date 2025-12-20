@@ -59,13 +59,17 @@ jobs:
           git commit -m "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
 
       - name: Push branch
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${{ github.repository }}
           git push -u origin HEAD
 
       - name: Create Pull Request
         id: create_pr
         uses: peter-evans/create-pull-request@v5
         with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           commit-message: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
           branch: ${{ steps.branch.outputs.branch }}
           title: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
