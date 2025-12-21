@@ -8,22 +8,22 @@
       "scriptures": {
         "title": "经典",
         "nav": {
+          "ramayana": "罗摩衍那",
+          "mahabharata": "摩诃婆罗多",
           "gita": "博伽梵歌",
           "upanishads": "奥义书",
           "vedas": "吠陀",
-          "mahabharata": "摩诃婆罗多",
-          "ramayana": "罗摩衍那",
           "puranas": "往世书"
         }
       },
       "stotrasmantras": {
         "title": "颂词与真言",
         "nav": {
+          "devi": "女神颂词",
+          "ganesha": "象头神颂词",
           "shiva": "湿婆颂词",
           "vishnu": "毗湿奴颂词",
-          "devi": "女神颂词",
           "hanuman": "哈奴曼颂词",
-          "ganesha": "象头神颂词",
           "dailyPrayers": "每日祈祷"
         }
       },
@@ -50,10 +50,12 @@
       "stories": {
         "title": "故事",
         "nav": {
-          "ramayana": "罗摩衍那",
-          "mahabharata": "摩诃婆罗多",
-          "puranic": "往世书故事",
-          "moralstories": "儿童道德故事"
+          "shiva": "Shiva",
+          "parvati": "Parvati",
+          "vishnu": "Vishnu",
+          "lakshmi": "Lakshmi",
+          "bramha": "Brahma",
+          "saraswati": "Saraswati"
         }
       },
       "kidsZone": {
@@ -62,7 +64,7 @@
           "illustratedStories": "插图故事",
           "mythologicalquizzes": "趣味问答",
           "easymantras": "简单真言",
-          "quizzes": "神话漫画"
+          "comics": "Mythology Comics"
         }
       },
       "others": {
@@ -73,16 +75,13 @@
         }
       }
     },
-    "home": "Home",
-    "about": "About",
-    "resources": "Resources",
+    "title": "Sanatana Dharma",
+    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
     "contact": "Contact with us",
     "donate": "Donate",
     "disclaimer": "Disclaimer: This website is currently in development.",
     "contentChange": "Content may be incomplete or subject to change.",
     "copyright": "Vulchi Vijaya Kumar Raju © 2025.",
-    "title": "Sanatana Dharma",
-    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
     "quoteSource": "— Mahabharata 3.281.34.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service"

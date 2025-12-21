@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "Écritures",
       "nav": {
+        "ramayana": "Ramayana",
+        "mahabharata": "Mahabharata",
         "gita": "Bhagavad Gita",
         "upanishads": "Upanishads",
         "vedas": "Védas",
-        "mahabharata": "Mahabharata",
-        "ramayana": "Ramayana",
         "puranas": "Puranas"
       }
     },
     "stotrasmantras": {
       "title": "Stotras et Mantras",
       "nav": {
+        "devi": "Stotras de Devi",
+        "ganesha": "Stotras de Ganesha",
         "shiva": "Stotras de Shiva",
         "vishnu": "Stotras de Vishnu",
-        "devi": "Stotras de Devi",
         "hanuman": "Stotras de Hanuman",
-        "ganesha": "Stotras de Ganesha",
         "dailyPrayers": "Prières quotidiennes"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "Histoires",
       "nav": {
-        "ramayana": "Ramayana",
-        "mahabharata": "Mahabharata",
-        "puranic": "Histoires puraniques",
-        "moralstories": "Histoires morales pour enfants"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "Histoires morales pour enfants",
+        "puranic": "Histoires puraniques"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "Histoires illustrées",
         "mythologicalquizzes": "Quiz amusants",
         "easymantras": "Mantras faciles",
-        "quizzes": "Bandes dessinées mythologiques"
+        "comics": "Mythology Comics"
       }
     }
   }

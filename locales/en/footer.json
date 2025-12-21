@@ -8,22 +8,22 @@
       "scriptures": {
         "title": "Scriptures",
         "nav": {
+          "ramayana": "Ramayana",
+          "mahabharata": "Mahabharata",
           "gita": "Bhagavad Gita",
           "upanishads": "Upanishads",
           "vedas": "Vedas",
-          "mahabharata": "Mahabharata",
-          "ramayana": "Ramayana",
           "puranas": "Puranas"
         }
       },
       "stotrasmantras": {
         "title": "Stotras & Mantras",
         "nav": {
+          "devi": "Devi Stotras",
+          "ganesha": "Ganesha Stotras",
           "shiva": "Shiva Stotras",
           "vishnu": "Vishnu Stotras",
-          "devi": "Devi Stotras",
           "hanuman": "Hanuman Stotras",
-          "ganesha": "Ganesha Stotras",
           "dailyPrayers": "Daily Prayers"
         }
       },
@@ -50,10 +50,12 @@
       "stories": {
         "title": "Stories",
         "nav": {
-          "ramayana": "Ramayana",
-          "mahabharata": "Mahabharata",
-          "puranic": "Puranic",
-          "moralstories": "Moral Stories for Children"
+          "shiva": "Shiva",
+          "parvati": "Parvati",
+          "vishnu": "Vishnu",
+          "lakshmi": "Lakshmi",
+          "bramha": "Brahma",
+          "saraswati": "Saraswati"
         }
       },
       "kidsZone": {
@@ -62,7 +64,7 @@
           "illustratedStories": "Illustrated Stories",
           "mythologicalquizzes": "Mythological Quizzes",
           "easymantras": "Easy Mantras",
-          "quizzes": "Mythology Comics"
+          "comics": "Mythology Comics"
         }
       },
       "others": {

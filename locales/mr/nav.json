@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "धार्मिक ग्रंथ",
       "nav": {
+        "ramayana": "रामायण",
+        "mahabharata": "महाभारत",
         "gita": "भगवद्गीता",
         "upanishads": "उपनिषद",
         "vedas": "वेद",
-        "mahabharata": "महाभारत",
-        "ramayana": "रामायण",
         "puranas": "पुराण"
       }
     },
     "stotrasmantras": {
       "title": "स्तोत्रे आणि मंत्र",
       "nav": {
+        "devi": "देवी स्तोत्रे",
+        "ganesha": "गणेश स्तोत्रे",
         "shiva": "शिव स्तोत्रे",
         "vishnu": "विष्णु स्तोत्रे",
-        "devi": "देवी स्तोत्रे",
         "hanuman": "हनुमान स्तोत्रे",
-        "ganesha": "गणेश स्तोत्रे",
         "dailyPrayers": "दैनंदिन प्रार्थना"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "कथा",
       "nav": {
-        "ramayana": "रामायण",
-        "mahabharata": "महाभारत",
-        "puranic": "पुराणकथा",
-        "moralstories": "मुलांसाठी नैतिक कथा"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "मुलांसाठी नैतिक कथा",
+        "puranic": "पुराणकथा"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "चित्रित कथा",
         "mythologicalquizzes": "मजेदार प्रश्नमंजुषा",
         "easymantras": "सोपे मंत्र",
-        "quizzes": "पुराणकथा कॉमिक्स"
+        "comics": "Mythology Comics"
       }
     }
   }
