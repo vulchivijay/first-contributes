@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "ಪವಿತ್ರ ಗ್ರಂಥಗಳು",
       "nav": {
+        "ramayana": "ರಾಮಾಯಣ",
+        "mahabharata": "ಮಹಾಭಾರತ",
         "gita": "ಭಗವದ್ಗೀತೆ",
         "upanishads": "ಉಪನಿಷತ್ತುಗಳು",
         "vedas": "ವೇದಗಳು",
-        "mahabharata": "ಮಹಾಭಾರತ",
-        "ramayana": "ರಾಮಾಯಣ",
         "puranas": "ಪುರಾಣಗಳು"
       }
     },
     "stotrasmantras": {
       "title": "ಸ್ತೋತ್ರಗಳು ಮತ್ತು ಮಂತ್ರಗಳು",
       "nav": {
+        "devi": "ದೇವಿ ಸ್ತೋತ್ರಗಳು",
+        "ganesha": "ಗಣೇಶ ಸ್ತೋತ್ರಗಳು",
         "shiva": "ಶಿವ ಸ್ತೋತ್ರಗಳು",
         "vishnu": "ವಿಷ್ಣು ಸ್ತೋತ್ರಗಳು",
-        "devi": "ದೇವಿ ಸ್ತೋತ್ರಗಳು",
         "hanuman": "ಹನುಮಾನ್ ಸ್ತೋತ್ರಗಳು",
-        "ganesha": "ಗಣೇಶ ಸ್ತೋತ್ರಗಳು",
         "dailyPrayers": "ದೈನಂದಿನ ಪ್ರಾರ್ಥನೆಗಳು"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "ಕಥೆಗಳು",
       "nav": {
-        "ramayana": "ರಾಮಾಯಣ",
-        "mahabharata": "ಮಹಾಭಾರತ",
-        "puranic": "ಪುರಾಣಿಕ ಕಥೆಗಳು",
-        "moralstories": "ಮಕ್ಕಳಿಗೆ ನೈತಿಕ ಕಥೆಗಳು"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "ಮಕ್ಕಳಿಗೆ ನೈತಿಕ ಕಥೆಗಳು",
+        "puranic": "ಪುರಾಣಿಕ ಕಥೆಗಳು"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "ಚಿತ್ರಿತ ಕಥೆಗಳು",
         "mythologicalquizzes": "ಮೋಜಿನ ಪ್ರಶ್ನೋತ್ತರ",
         "easymantras": "ಸರಳ ಮಂತ್ರಗಳು",
-        "quizzes": "ಪುರಾಣ ಕಾಮಿಕ್‌ಗಳು"
+        "comics": "Mythology Comics"
       }
     }
   }

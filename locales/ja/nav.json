@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "聖典",
       "nav": {
+        "ramayana": "ラーマーヤナ",
+        "mahabharata": "マハーバーラタ",
         "gita": "バガヴァッド・ギーター",
         "upanishads": "ウパニシャッド",
         "vedas": "ヴェーダ",
-        "mahabharata": "マハーバーラタ",
-        "ramayana": "ラーマーヤナ",
         "puranas": "プラーナ"
       }
     },
     "stotrasmantras": {
       "title": "ストートラとマントラ",
       "nav": {
+        "devi": "デーヴィーのストートラ",
+        "ganesha": "ガネーシャのストートラ",
         "shiva": "シヴァのストートラ",
         "vishnu": "ヴィシュヌのストートラ",
-        "devi": "デーヴィーのストートラ",
         "hanuman": "ハヌマーンのストートラ",
-        "ganesha": "ガネーシャのストートラ",
         "dailyPrayers": "毎日の祈り"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "物語",
       "nav": {
-        "ramayana": "ラーマーヤナ",
-        "mahabharata": "マハーバーラタ",
-        "puranic": "プラーナ物語",
-        "moralstories": "子供向け道徳物語"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "子供向け道徳物語",
+        "puranic": "プラーナ物語"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "イラスト付き物語",
         "mythologicalquizzes": "楽しいクイズ",
         "easymantras": "簡単なマントラ",
-        "quizzes": "神話コミック"
+        "comics": "Mythology Comics"
       }
     }
   }

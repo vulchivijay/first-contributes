@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "شاستر",
       "nav": {
+        "ramayana": "رامائن",
+        "mahabharata": "مہابھارت",
         "gita": "بھگوت گیتا",
         "upanishads": "اپنشد",
         "vedas": "وید",
-        "mahabharata": "مہابھارت",
-        "ramayana": "رامائن",
         "puranas": "پوران"
       }
     },
     "stotrasmantras": {
       "title": "ستوत्र اور منتر",
       "nav": {
+        "devi": "دیوی سوترا",
+        "ganesha": "گنیش سوترا",
         "shiva": "شیو سوترا",
         "vishnu": "وشنو سوترا",
-        "devi": "دیوی سوترا",
         "hanuman": "ہنومان سوترا",
-        "ganesha": "گنیش سوترا",
         "dailyPrayers": "روزانہ کی دعائیں"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "کہانیاں",
       "nav": {
-        "ramayana": "رامائن",
-        "mahabharata": "مہابھارت",
-        "puranic": "پورانک",
-        "moralstories": "بچوں کے لیے اخلاقی کہانیاں"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "بچوں کے لیے اخلاقی کہانیاں",
+        "puranic": "پورانک"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "تصویری کہانیاں",
         "mythologicalquizzes": "دلچسپ کوئزز",
         "easymantras": "آسان منتر",
-        "quizzes": "میٹھولوجی کامکس"
+        "comics": "Mythology Comics"
       }
     }
   }

@@ -8,22 +8,22 @@
       "scriptures": {
         "title": "ശാസ്ത്രഗ്രന്ഥങ്ങൾ",
         "nav": {
+          "ramayana": "രാമായണം",
+          "mahabharata": "മഹാഭാരതം",
           "gita": "ഭഗവദ് ഗീത",
           "upanishads": "ഉപനിഷത്തുകൾ",
           "vedas": "വേദങ്ങൾ",
-          "mahabharata": "മഹാഭാരതം",
-          "ramayana": "രാമായണം",
           "puranas": "പുരാണങ്ങൾ"
         }
       },
       "stotrasmantras": {
         "title": "സ്തോത്രങ്ങളും മന്ത്രങ്ങളും",
         "nav": {
+          "devi": "ദേവി സ്തോത്രങ്ങൾ",
+          "ganesha": "ഗണേശ സ്തോത്രങ്ങൾ",
           "shiva": "ശിവസ്തോത്രങ്ങൾ",
           "vishnu": "വിഷ്ണുസ്തോത്രങ്ങൾ",
-          "devi": "ദേവി സ്തോത്രങ്ങൾ",
           "hanuman": "ഹനുമാൻ സ്തോത്രങ്ങൾ",
-          "ganesha": "ഗണേശ സ്തോത്രങ്ങൾ",
           "dailyPrayers": "ദൈനംദിന പ്രാർത്ഥനകൾ"
         }
       },
@@ -50,10 +50,12 @@
       "stories": {
         "title": "കഥകൾ",
         "nav": {
-          "ramayana": "രാമായണം",
-          "mahabharata": "മഹാഭാരതം",
-          "puranic": "പുരാണകഥകൾ",
-          "moralstories": "കുട്ടികൾക്കുള്ള നൈതിക കഥകൾ"
+          "shiva": "Shiva",
+          "parvati": "Parvati",
+          "vishnu": "Vishnu",
+          "lakshmi": "Lakshmi",
+          "bramha": "Brahma",
+          "saraswati": "Saraswati"
         }
       },
       "kidsZone": {
@@ -62,7 +64,7 @@
           "illustratedStories": "ചിത്രങ്ങളോടുകൂടിയ കഥകൾ",
           "mythologicalquizzes": "വിനോദ ക്വിസ്",
           "easymantras": "ലളിതമായ മന്ത്രങ്ങൾ",
-          "quizzes": "പുരാണ കോമിക്‌സ്"
+          "comics": "Mythology Comics"
         }
       },
       "others": {
@@ -73,16 +75,13 @@
         }
       }
     },
-    "home": "Home",
-    "about": "About",
-    "resources": "Resources",
+    "title": "Sanatana Dharma",
+    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
     "contact": "Contact with us",
     "donate": "Donate",
     "disclaimer": "Disclaimer: This website is currently in development.",
     "contentChange": "Content may be incomplete or subject to change.",
     "copyright": "Vulchi Vijaya Kumar Raju © 2025.",
-    "title": "Sanatana Dharma",
-    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
     "quoteSource": "— Mahabharata 3.281.34.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service"

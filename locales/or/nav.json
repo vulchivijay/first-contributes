@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "ଧାର୍ମିକ ଗ୍ରନ୍ଥ",
       "nav": {
+        "ramayana": "ରାମାୟଣ",
+        "mahabharata": "ମହାଭାରତ",
         "gita": "ଭଗବଦ୍ ଗୀତା",
         "upanishads": "ଉପନିଷଦ",
         "vedas": "ବେଦ",
-        "mahabharata": "ମହାଭାରତ",
-        "ramayana": "ରାମାୟଣ",
         "puranas": "ପୁରାଣ"
       }
     },
     "stotrasmantras": {
       "title": "ସ୍ତୋତ୍ର ଏବଂ ମନ୍ତ୍ର",
       "nav": {
+        "devi": "ଦେବୀ ସ୍ତୋତ୍ର",
+        "ganesha": "ଗଣେଶ ସ୍ତୋତ୍ର",
         "shiva": "ଶିବ ସ୍ତୋତ୍ର",
         "vishnu": "ବିଷ୍ଣୁ ସ୍ତୋତ୍ର",
-        "devi": "ଦେବୀ ସ୍ତୋତ୍ର",
         "hanuman": "ହନୁମାନ ସ୍ତୋତ୍ର",
-        "ganesha": "ଗଣେଶ ସ୍ତୋତ୍ର",
         "dailyPrayers": "ଦୈନିକ ପ୍ରାର୍ଥନା"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "କାହାଣୀ",
       "nav": {
-        "ramayana": "ରାମାୟଣ",
-        "mahabharata": "ମହାଭାରତ",
-        "puranic": "ପୁରାଣିକ",
-        "moralstories": "ଶିଶୁମାନଙ୍କ ପାଇଁ ନୈତିକ କାହାଣୀ"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "ଶିଶୁମାନଙ୍କ ପାଇଁ ନୈତିକ କାହାଣୀ",
+        "puranic": "ପୁରାଣିକ"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "ଚିତ୍ରିତ କାହାଣୀ",
         "mythologicalquizzes": "ମଜାଦାର ପ୍ରଶ୍ନୋତ୍ତର",
         "easymantras": "ସହଜ ମନ୍ତ୍ର",
-        "quizzes": "ପୌରାଣିକ କମିକ୍ସ"
+        "comics": "Mythology Comics"
       }
     }
   }

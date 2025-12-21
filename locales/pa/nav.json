@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "ਧਾਰਮਿਕ ਗ੍ਰੰਥ",
       "nav": {
+        "ramayana": "ਰਾਮਾਇਣ",
+        "mahabharata": "ਮਹਾਭਾਰਤ",
         "gita": "ਭਗਵਦ ਗੀਤਾ",
         "upanishads": "ਉਪਨਿਸ਼ਦ",
         "vedas": "ਵੇਦ",
-        "mahabharata": "ਮਹਾਭਾਰਤ",
-        "ramayana": "ਰਾਮਾਇਣ",
         "puranas": "ਪੁਰਾਣ"
       }
     },
     "stotrasmantras": {
       "title": "ਸਤੋਤਰ ਅਤੇ ਮੰਤਰ",
       "nav": {
+        "devi": "ਦੇਵੀ ਸਤੋਤਰ",
+        "ganesha": "ਗਣੇਸ਼ ਸਤੋਤਰ",
         "shiva": "ਸ਼ਿਵ ਸਤੋਤਰ",
         "vishnu": "ਵਿਸ਼ਨੁ ਸਤੋਤਰ",
-        "devi": "ਦੇਵੀ ਸਤੋਤਰ",
         "hanuman": "ਹਨੂਮਾਨ ਸਤੋਤਰ",
-        "ganesha": "ਗਣੇਸ਼ ਸਤੋਤਰ",
         "dailyPrayers": "ਰੋਜ਼ਾਨਾ ਦੀਆਂ ਪ੍ਰਾਰਥਨਾਵਾਂ"
       }
     },
@@ -49,10 +49,22 @@
     "stories": {
       "title": "ਕਹਾਣੀਆਂ",
       "nav": {
-        "ramayana": "ਰਾਮਾਇਣ",
-        "mahabharata": "ਮਹਾਭਾਰਤ",
-        "puranic": "ਪੁਰਾਣਿਕ",
-        "moralstories": "ਬੱਚਿਆਂ ਲਈ ਨੈਤਿਕ ਕਹਾਣੀਆਂ"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "ਬੱਚਿਆਂ ਲਈ ਨੈਤਿਕ ਕਹਾਣੀਆਂ",
+        "puranic": "ਪੁਰਾਣਿਕ"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "ਚਿੱਤਰਿਤ ਕਹਾਣੀਆਂ",
         "mythologicalquizzes": "ਮਜ਼ੇਦਾਰ ਪ੍ਰਸ਼ਨੋਤਰੀ",
         "easymantras": "ਆਸਾਨ ਮੰਤਰ",
-        "quizzes": "ਪੌਰਾਣਿਕ ਕਾਮਿਕਸ"
+        "comics": "Mythology Comics"
       }
     }
   }

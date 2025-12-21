@@ -176,6 +176,131 @@
             "summary": "భక్తి యోగం మరియు బ్రహ్మ భక్తి."
           }
         ]
+      },
+      {
+        "category": "Shiva Upanishads",
+        "list": [
+          {
+            "name": "Atharvashiras",
+            "veda": "Atharva Veda",
+            "summary": "Glorifies Shiva as the supreme Brahman."
+          },
+          {
+            "name": "Bhasma",
+            "veda": "Atharva Veda",
+            "summary": "Spiritual symbolism of holy ash."
+          },
+          {
+            "name": "Rudraksha Jabala",
+            "veda": "Rig Veda",
+            "summary": "Benefits and symbolism of Rudraksha beads."
+          },
+          {
+            "name": "Kalagni Rudra",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Meditation on Rudra for liberation."
+          }
+        ]
+      },
+      {
+        "category": "Vaishnava Upanishads",
+        "list": [
+          {
+            "name": "Nrisimha Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Meditation on Narasimha as the protector."
+          },
+          {
+            "name": "Gopala Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Devotion to Krishna as Gopala."
+          },
+          {
+            "name": "Rama Rahasya",
+            "veda": "Atharva Veda",
+            "summary": "Secrets of Rama mantra and worship."
+          },
+          {
+            "name": "Rama Purva Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Meditation practices on Lord Rama."
+          },
+          {
+            "name": "Hayagriva",
+            "veda": "Rig Veda",
+            "summary": "Knowledge and wisdom from Vishnu's Hayagriva form."
+          }
+        ]
+      },
+      {
+        "category": "Shakta Upanishads",
+        "list": [
+          {
+            "name": "Tripura Tapini",
+            "veda": "Atharva Veda",
+            "summary": "Meditation on Tripura Sundari."
+          },
+          {
+            "name": "Sita Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Glorifies Devi Sita as supreme Shakti."
+          },
+          {
+            "name": "Devi Upanishad",
+            "veda": "Atharva Veda",
+            "summary": "Mother Goddess as the ultimate reality."
+          },
+          {
+            "name": "Saubhagyalakshmi Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Lakshmi's blessings for prosperity."
+          },
+          {
+            "name": "Bahvricha Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Explains the power of Devi through Rig verses."
+          }
+        ]
+      },
+      {
+        "category": "Samanya (General) Upanishads",
+        "list": [
+          {
+            "name": "Subala",
+            "veda": "Shukla Yajur Veda",
+            "summary": "Dialogue exploring the nature of Brahman."
+          },
+          {
+            "name": "Mantrika",
+            "veda": "Atharva Veda",
+            "summary": "Philosophy of life energy and creation."
+          },
+          {
+            "name": "Sarvasara",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Essence of Vedanta summarized."
+          },
+          {
+            "name": "Niralambha",
+            "veda": "Atharva Veda",
+            "summary": "Self-dependent nature of Brahman."
+          },
+          {
+            "name": "Adhyatma",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Inner doctrine of the self."
+          },
+          {
+            "name": "Skanda",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Teachings related to Lord Skanda (Murugan)."
+          },
+          {
+            "name": "Maitreya",
+            "veda": "Sama Veda",
+            "summary": "Instruction on Atman by Rishi Maitreya."
+          }
+        ]
       }
     ]
   }

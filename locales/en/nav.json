@@ -7,22 +7,22 @@
     "scriptures": {
       "title": "Scriptures",
       "nav": {
+        "ramayana": "Ramayana",
+        "mahabharata": "Mahabharata",
         "gita": "Bhagavad Gita",
         "upanishads": "Upanishads",
         "vedas": "Vedas",
-        "mahabharata": "Mahabharata",
-        "ramayana": "Ramayana",
         "puranas": "Puranas"
       }
     },
     "stotrasmantras": {
       "title": "Stotras & Mantras",
       "nav": {
+        "devi": "Devi Stotras",
+        "ganesha": "Ganesha Stotras",
         "shiva": "Shiva Stotras",
         "vishnu": "Vishnu Stotras",
-        "devi": "Devi Stotras",
         "hanuman": "Hanuman Stotras",
-        "ganesha": "Ganesha Stotras",
         "dailyPrayers": "Daily Prayers"
       }
     },
@@ -33,8 +33,8 @@
         "karma": "Karma",
         "samsara": "Samsara",
         "moksha": "Moksha",
-        "yoga": "Yoga (Jnana, Karma, Bhakti, Raja)",
-        "advaita": "Advaita / Dvaita / Vishishtadvaita"
+        "yoga": "Yoga",
+        "advaita": "Advaita"
       }
     },
     "practices": {
@@ -49,10 +49,22 @@
     "stories": {
       "title": "Stories",
       "nav": {
-        "ramayana": "Ramayana",
-        "mahabharata": "Mahabharata",
-        "puranic": "Puranic",
-        "moralstories": "Moral Stories for Children"
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "Moral Stories",
+        "puranic": "Puranic"
       }
     },
     "kidsZone": {
@@ -61,7 +73,7 @@
         "illustratedStories": "Illustrated Stories",
         "mythologicalquizzes": "Mythological Quizzes",
         "easymantras": "Easy Mantras",
-        "quizzes": "Mythology Comics"
+        "comics": "Mythology Comics"
       }
     }
   }
