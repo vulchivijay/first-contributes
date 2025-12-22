@@ -1,4 +1,5 @@
 // Auto-generated index for locale 'ha'
+// Imports all JSON files in this folder and deep-merges them into one export.
 import _0 from './about.json';
 import _1 from './bannerNotifications.json';
 import _2 from './bannerNotifications2.json';
@@ -41,4 +42,22 @@ import _38 from './vedas.json';
 import _39 from './vedasPage1.json';
 import _40 from './vishnustotras.json';
 
-export default [   _0,     _1,     _2,     _3,     _4,     _5,     _6,     _7,     _8,     _9,     _10,     _11,     _12,     _13,     _14,     _15,     _16,     _17,     _18,     _19,     _20,     _21,     _22,     _23,     _24,     _25,     _26,     _27,     _28,     _29,     _30,     _31,     _32,     _33,     _34,     _35,     _36,     _37,     _38,     _39,     _40 ].reduce((a,c) => Object.assign(a, c || {}), {});
+function deepMerge(target: any, source: any) {
+  if (source === undefined) return target;
+  if (Array.isArray(target) && Array.isArray(source)) {
+    const out = target.slice();
+    for (let i = 0; i < source.length; i++) out[i] = deepMerge(out[i], source[i]);
+    return out;
+  }
+  if (target && typeof target === 'object' && source && typeof source === 'object') {
+    const out = { ...target };
+    for (const k of Object.keys(source)) out[k] = deepMerge(target[k], source[k]);
+    return out;
+  }
+  return source;
+}
+
+const base = {};
+const merged = [   _0,     _1,     _2,     _3,     _4,     _5,     _6,     _7,     _8,     _9,     _10,     _11,     _12,     _13,     _14,     _15,     _16,     _17,     _18,     _19,     _20,     _21,     _22,     _23,     _24,     _25,     _26,     _27,     _28,     _29,     _30,     _31,     _32,     _33,     _34,     _35,     _36,     _37,     _38,     _39,     _40 ].reduce((acc, cur) => deepMerge(acc, cur || {}), base);
+
+export default merged;
