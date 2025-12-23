@@ -1,151 +1,764 @@
 {
   "ramayana": {
     "title": "Ramayana",
-    "author": "Traditionally attributed to Maharishi Valmiki",
-    "description": "An epic of dharma, devotion, courage, and righteousness, narrating the life of Lord Rama.",
-    "kandas": [
-      {
-        "kanda": 1,
-        "name": "Bala Kanda",
-        "summary": "Describes the birth of Rama and his brothers, their childhood, Rama’s training under Sage Vishwamitra, and his marriage to Sita.",
-        "keyEvents": [
-          "King Dasharatha’s desire for children and the Putrakameshti Yagna",
-          "Birth of Rama, Bharata, Lakshmana, and Shatrughna",
-          "Rama and Lakshmana accompany Sage Vishwamitra",
-          "Slaying of demons Tataka and Subahu",
-          "Breaking of Shiva’s bow at Sita’s swayamvara",
-          "Marriage of Rama and Sita"
-        ]
-      },
-      {
-        "kanda": 2,
-        "name": "Ayodhya Kanda",
-        "summary": "Focuses on Rama’s exile, the grief of Ayodhya, and the loyalty of Sita and Lakshmana.",
-        "keyEvents": [
-          "Rama chosen as the crown prince",
-          "Manthara persuades Queen Kaikeyi to demand Bharata’s coronation",
-          "Kaikeyi asks for Rama’s 14-year exile",
-          "Rama leaves for the forest with Sita and Lakshmana",
-          "Dasharatha dies of grief",
-          "Bharata refuses the throne and takes Rama’s slippers as a symbol of his rule"
-        ]
-      },
-      {
-        "kanda": 3,
-        "name": "Aranya Kanda",
-        "summary": "Describes the life of Rama, Sita, and Lakshmana in the forest and Sita’s abduction by Ravana.",
-        "keyEvents": [
-          "Meeting sages in the forest",
-          "Encounter with demoness Shurpanakha",
-          "Slaying of Khara and Dushana",
-          "Golden deer incident",
-          "Ravana abducts Sita",
-          "Jatayu tries to rescue Sita but is fatally wounded",
-          "Rama and Lakshmana search for Sita"
-        ]
-      },
-      {
-        "kanda": 4,
-        "name": "Kishkindha Kanda",
-        "summary": "Rama allies with Sugriva and the Vanara army to search for Sita.",
-        "keyEvents": [
-          "Meeting Hanuman",
-          "Alliance with Sugriva",
-          "Rama kills Vali and restores Sugriva’s kingdom",
-          "Search parties sent across the world",
-          "Hanuman discovers Sita’s location in Lanka"
-        ]
-      },
-      {
-        "kanda": 5,
-        "name": "Sundara Kanda",
-        "summary": "The heroic adventures of Hanuman as he leaps to Lanka, meets Sita, and delivers Rama’s message.",
-        "keyEvents": [
-          "Hanuman leaps across the ocean",
-          "Encounter with Surasa and Simhika",
-          "Entering Lanka",
-          "Meeting Sita in Ashoka Vatika",
-          "Burning of Lanka after being captured",
-          "Return to Rama with Sita’s message"
-        ]
-      },
-      {
-        "kanda": 6,
-        "name": "Yuddha Kanda",
-        "summary": "The great war between Rama and Ravana leading to Sita’s rescue.",
-        "keyEvents": [
-          "Rama builds a bridge (Setu) to Lanka with the Vanaras",
-          "War between Rama’s army and Ravana’s forces",
-          "Indrajit’s illusions and Lakshmana’s injury",
-          "Hanuman brings the Sanjeevani herb",
-          "Lakshmana kills Indrajit",
-          "Rama kills Ravana",
-          "Sita proves her purity through Agni Pariksha"
-        ]
-      },
-      {
-        "kanda": 7,
-        "name": "Uttara Kanda",
-        "summary": "Events after Rama's coronation, including Sita’s departure, the birth of Lava and Kusha, and Rama’s final ascent.",
-        "keyEvents": [
-          "Return to Ayodhya and Rama’s coronation",
-          "Sita goes to Sage Valmiki’s ashram",
-          "Birth of Lava and Kusha",
-          "Singing of the Ramayana by Lava and Kusha",
-          "Sita returns to Mother Earth",
-          "Rama ends his earthly incarnation"
-        ]
-      }
-    ],
-    "mainCharacters": [
+    "source": "Valmiki Ramayana",
+    "description": "The Ramayana is an ancient Indian epic that teaches dharma, truth, devotion, and righteousness through the life of Lord Rama.",
+    "main_characters": [
       {
         "name": "Rama",
-        "role": "Prince of Ayodhya, incarnation of Vishnu, hero of the epic"
+        "role": "Prince of Ayodhya, avatar of Vishnu, embodiment of dharma."
       },
       {
         "name": "Sita",
-        "role": "Wife of Rama, incarnation of Goddess Lakshmi"
+        "role": "Wife of Rama, symbol of purity and devotion."
       },
       {
         "name": "Lakshmana",
-        "role": "Rama’s loyal brother and companion during exile"
+        "role": "Rama’s loyal brother."
       },
       {
         "name": "Hanuman",
-        "role": "Devotee of Rama, central figure in the search for Sita"
+        "role": "Devotee of Rama, symbol of strength and devotion."
       },
       {
         "name": "Ravana",
-        "role": "King of Lanka who abducts Sita, antagonist"
-      },
-      {
-        "name": "Bharata",
-        "role": "Devoted brother who rules Ayodhya in Rama’s name"
-      },
-      {
-        "name": "Shatrughna",
-        "role": "Youngest brother of Rama"
-      },
-      {
-        "name": "Sugriva",
-        "role": "King of the Vanaras who helps Rama"
-      },
-      {
-        "name": "Vali",
-        "role": "Brother of Sugriva"
-      },
-      {
-        "name": "Vishwamitra",
-        "role": "Sage who guides Rama in his youth"
-      },
-      {
-        "name": "Dasharatha",
-        "role": "King of Ayodhya and father of Rama"
-      },
-      {
-        "name": "Kaikeyi",
-        "role": "Queen who demands Rama's exile"
+        "role": "King of Lanka, symbol of ego and adharma."
       }
-    ]
+    ],
+    "important_places": [
+      {
+        "name": "Ayodhya",
+        "desc": "Capital of Rama’s kingdom."
+      },
+      {
+        "name": "Mithila",
+        "desc": "King Janaka’s kingdom, birthplace of Sita."
+      },
+      {
+        "name": "Lanka",
+        "desc": "Ravana’s kingdom."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Birth of Rama",
+        "desc": "Rama is born to King Dasharatha in Ayodhya."
+      },
+      {
+        "event": "Exile",
+        "desc": "Rama goes to forest for 14 years."
+      },
+      {
+        "event": "War with Ravana",
+        "desc": "Rama defeats Ravana and rescues Sita."
+      },
+      {
+        "event": "Rama Rajya",
+        "desc": "Rama rules Ayodhya with justice and peace."
+      }
+    ],
+    "core_themes": [
+      {
+        "title": "Dharma (Righteousness)"
+      },
+      {
+        "title": "Bhakti (Devotion)"
+      },
+      {
+        "title": "Truth and Sacrifice"
+      }
+    ],
+    "full_ramayana": {
+      "bala_kanda": {
+        "kanda": "Bala Kanda",
+        "description": "The Bala Kanda describes the birth, childhood, education, and marriage of Lord Rama.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Narada Describes Rama",
+            "story": "Sage Valmiki asks Narada who the greatest man is. Narada tells him about Rama, a perfect man who follows dharma.",
+            "lesson": "A good person always follows dharma."
+          },
+          {
+            "sarga": 2,
+            "title": "Birth of Rama",
+            "story": "King Dasharatha performs a sacrifice. With divine blessings, Rama and his brothers are born.",
+            "lesson": "Faith brings blessings."
+          },
+          {
+            "sarga": 3,
+            "title": "Rama’s Childhood",
+            "story": "Rama grows up as a kind, brave, and obedient prince loved by all.",
+            "lesson": "Good behavior earns love and respect."
+          },
+          {
+            "sarga": 4,
+            "title": "Training under Sage Vishwamitra",
+            "story": "Rama and Lakshmana go with Sage Vishwamitra to protect sacrifices from demons.",
+            "lesson": "Protecting good people is our duty."
+          },
+          {
+            "sarga": 5,
+            "title": "Killing of Demons",
+            "story": "Rama defeats demons like Tataka and Subahu using divine weapons.",
+            "lesson": "Good always wins over evil."
+          },
+          {
+            "sarga": 6,
+            "title": "Journey to Mithila",
+            "story": "Rama travels to Mithila to attend Sita’s swayamvara.",
+            "lesson": "Destiny unfolds step by step."
+          },
+          {
+            "sarga": 7,
+            "title": "Breaking Shiva’s Bow",
+            "story": "Rama lifts and breaks Lord Shiva’s bow, winning Sita’s hand.",
+            "lesson": "True strength comes with humility."
+          },
+          {
+            "sarga": 8,
+            "title": "Marriage of Rama and Sita",
+            "story": "Rama and Sita are married in a grand ceremony.",
+            "lesson": "Marriage is a bond of love and duty."
+          },
+          {
+            "sarga": 9,
+            "title": "Return to Ayodhya",
+            "story": "Rama returns to Ayodhya with Sita and his brothers.",
+            "lesson": "Joy is shared with family."
+          }
+        ]
+      },
+      "ayodhya_kanda": {
+        "kanda": "Ayodhya Kanda",
+        "description": "Ayodhya Kanda tells the story of Rama’s exile, Bharata’s devotion, and the pain and sacrifice of the royal family.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Rama Chosen as King",
+            "story": "King Dasharatha decides to crown Rama as king. The people of Ayodhya rejoice.",
+            "lesson": "Good leaders are loved by all."
+          },
+          {
+            "sarga": 2,
+            "title": "Kaikeyi’s Boons",
+            "story": "Queen Kaikeyi reminds Dasharatha of two boons. She asks Bharata to be king and Rama to go to the forest for fourteen years.",
+            "lesson": "Wrong desires can cause great pain."
+          },
+          {
+            "sarga": 3,
+            "title": "Rama Accepts Exile",
+            "story": "Rama calmly accepts exile to keep his father’s promise. Sita and Lakshmana decide to go with him.",
+            "lesson": "Keeping one’s word is true dharma."
+          },
+          {
+            "sarga": 4,
+            "title": "Dasharatha’s Sorrow",
+            "story": "Dasharatha is heartbroken and soon passes away, remembering Rama.",
+            "lesson": "Attachment can bring deep sorrow."
+          },
+          {
+            "sarga": 5,
+            "title": "Bharata Returns",
+            "story": "Bharata returns from his uncle’s kingdom and is shocked to learn what happened.",
+            "lesson": "True love feels others’ pain."
+          },
+          {
+            "sarga": 6,
+            "title": "Bharata Meets Rama",
+            "story": "Bharata goes to the forest and begs Rama to return and rule. Rama refuses politely.",
+            "lesson": "Duty is greater than personal comfort."
+          },
+          {
+            "sarga": 7,
+            "title": "Padukas Rule Ayodhya",
+            "story": "Bharata places Rama’s sandals on the throne and rules as a servant of Rama.",
+            "lesson": "True devotion has no ego."
+          }
+        ]
+      },
+      "aranya_kanda": {
+        "kanda": "Aranya Kanda",
+        "description": "Aranya Kanda describes Rama’s life in the forest, the conflict with demons, and the abduction of Sita by Ravana.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Life in the Forest",
+            "story": "Rama, Sita, and Lakshmana live peacefully in the forest, visiting sages and protecting them from danger.",
+            "lesson": "Peace comes from a simple life."
+          },
+          {
+            "sarga": 2,
+            "title": "Surpanakha Appears",
+            "story": "The demoness Surpanakha tries to marry Rama. When rejected, she attacks Sita and is stopped by Lakshmana.",
+            "lesson": "Uncontrolled desire leads to anger."
+          },
+          {
+            "sarga": 3,
+            "title": "Golden Deer",
+            "story": "Maricha appears as a golden deer. Rama follows it, leaving Sita alone.",
+            "lesson": "Illusion can distract even the wise."
+          },
+          {
+            "sarga": 4,
+            "title": "Abduction of Sita",
+            "story": "Ravana kidnaps Sita and takes her to Lanka.",
+            "lesson": "Ego leads to destruction."
+          },
+          {
+            "sarga": 5,
+            "title": "Jatayu’s Sacrifice",
+            "story": "The bird Jatayu fights Ravana to save Sita and sacrifices his life.",
+            "lesson": "Selfless courage is noble."
+          }
+        ]
+      },
+      "kishkindha_kanda": {
+        "kanda": "Kishkindha Kanda",
+        "description": "Kishkindha Kanda tells how Rama meets Hanuman, helps Sugriva regain his kingdom, and begins the search for Sita.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Meeting Hanuman",
+            "story": "Hanuman meets Rama and Lakshmana and recognizes Rama as divine. A deep friendship begins.",
+            "lesson": "True devotion recognizes goodness instantly."
+          },
+          {
+            "sarga": 2,
+            "title": "Alliance with Sugriva",
+            "story": "Rama promises to help Sugriva defeat his brother Vali and regain the throne.",
+            "lesson": "Helping the righteous is dharma."
+          },
+          {
+            "sarga": 3,
+            "title": "Defeat of Vali",
+            "story": "Rama defeats Vali, freeing Sugriva from fear and injustice.",
+            "lesson": "Justice restores balance."
+          },
+          {
+            "sarga": 4,
+            "title": "Sugriva Crowned King",
+            "story": "Sugriva becomes king of Kishkindha and promises to help find Sita.",
+            "lesson": "Gratitude is a noble quality."
+          },
+          {
+            "sarga": 5,
+            "title": "Search for Sita Begins",
+            "story": "Vanara armies are sent in all directions to search for Sita.",
+            "lesson": "Unity gives strength."
+          }
+        ]
+      },
+      "sundara_kanda": {
+        "kanda": "Sundara Kanda",
+        "description": "Sundara Kanda focuses on Hanuman’s heroic journey to Lanka, his meeting with Sita, and his fearless devotion to Rama.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Hanuman Leaps Across the Ocean",
+            "story": "Hanuman remembers his powers and leaps across the ocean to reach Lanka.",
+            "lesson": "Self-belief awakens hidden strength."
+          },
+          {
+            "sarga": 2,
+            "title": "Entering Lanka",
+            "story": "Hanuman secretly enters Lanka and observes its strength and beauty.",
+            "lesson": "Wisdom guides strength."
+          },
+          {
+            "sarga": 3,
+            "title": "Finding Sita in Ashoka Vatika",
+            "story": "Hanuman finds Sita in Ashoka Vatika, sad but faithful to Rama.",
+            "lesson": "Faith gives strength in suffering."
+          },
+          {
+            "sarga": 4,
+            "title": "Rama’s Ring",
+            "story": "Hanuman gives Rama’s ring to Sita, giving her hope.",
+            "lesson": "Hope brings courage."
+          },
+          {
+            "sarga": 5,
+            "title": "Burning of Lanka",
+            "story": "Hanuman burns parts of Lanka to show Rama’s power.",
+            "lesson": "Evil is warned before destruction."
+          }
+        ]
+      },
+      "yuddha_kanda": {
+        "kanda": "Yuddha Kanda",
+        "description": "Yuddha Kanda describes the great war between Rama and Ravana, ending with the victory of dharma.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Building the Bridge to Lanka",
+            "story": "Rama builds a bridge across the ocean with the help of the vanara army to reach Lanka.",
+            "lesson": "Teamwork makes impossible tasks possible."
+          },
+          {
+            "sarga": 2,
+            "title": "Beginning of the War",
+            "story": "A fierce war begins between Rama’s army and Ravana’s forces.",
+            "lesson": "Evil will always face resistance."
+          },
+          {
+            "sarga": 3,
+            "title": "Kumbhakarna’s Fall",
+            "story": "Kumbhakarna fights bravely but is defeated by Rama.",
+            "lesson": "Strength without righteousness fails."
+          },
+          {
+            "sarga": 4,
+            "title": "Death of Ravana",
+            "story": "Rama defeats Ravana after a long battle, restoring peace and justice.",
+            "lesson": "Dharma always triumphs."
+          },
+          {
+            "sarga": 5,
+            "title": "Rescue of Sita",
+            "story": "Sita is rescued and reunited with Rama.",
+            "lesson": "Truth and patience bring reunion."
+          }
+        ]
+      },
+      "uttara_kanda": {
+        "kanda": "Uttara Kanda",
+        "description": "Uttara Kanda describes Rama’s return to Ayodhya, his righteous rule, Sita’s final trial, and the lasting legacy of Rama.",
+        "sargas": [
+          {
+            "sarga": 1,
+            "title": "Return to Ayodhya",
+            "story": "Rama, Sita, and Lakshmana return to Ayodhya. The people celebrate with joy. Rama is crowned king.",
+            "lesson": "Good deeds are rewarded in time."
+          },
+          {
+            "sarga": 2,
+            "title": "Rama Rajya",
+            "story": "Rama rules the kingdom with justice, kindness, and fairness. People live happily and safely.",
+            "lesson": "A good ruler cares for everyone."
+          },
+          {
+            "sarga": 3,
+            "title": "Sita’s Trial",
+            "story": "To clear doubts, Sita proves her purity and later chooses to return to the Earth.",
+            "lesson": "Truth stands firm despite hardship."
+          },
+          {
+            "sarga": 4,
+            "title": "Rama’s Legacy",
+            "story": "Rama continues to guide the world as an ideal of dharma, even after his earthly life.",
+            "lesson": "Great lives inspire generations."
+          }
+        ]
+      }
+    },
+    "sankshepa_ramayanam": {
+      "title": "Saṅkṣepa Rāmāyaṇa (Śataśloki Rāmāyaṇa)",
+      "source": "Valmiki Ramayana – Bala Kanda, Sarga 1 (Narada–Valmiki Samvada)",
+      "total_slokas": 100,
+      "description": "Narada Maharshi narrates the entire Ramayana to Sage Valmiki in exactly 100 slokas.",
+      "slokas": [
+        {
+          "sanskrit": "1",
+          "english": "Engaged in penance and study, a sage among eloquent scholars, Valmiki asked the sage Narada."
+        },
+        {
+          "sanskrit": "2",
+          "english": "Who, in this world today, is endowed with virtues, valor, knowledge of dharma, gratitude, truthfulness, and firm vows?"
+        },
+        {
+          "sanskrit": "3",
+          "english": "Who is of good character, beneficial to all beings, learned, capable, and dear to those who see him?"
+        },
+        {
+          "sanskrit": "4",
+          "english": "Who is self-controlled, victorious over anger, luminous, free from envy, and before whom even gods tremble in battle?"
+        },
+        {
+          "sanskrit": "5",
+          "english": "I desire to hear this, for it is deeply curious to me. Great sage, you are capable of describing such a man."
+        },
+        {
+          "sanskrit": "6",
+          "english": "Hearing this, Narada, knower of the three worlds, joyfully said, 'Let it be heard,' and spoke the words."
+        },
+        {
+          "sanskrit": "7",
+          "english": "O sage, many rare virtues have been ascribed to him. I will speak upon hearing them, so that the man may be heard of."
+        },
+        {
+          "sanskrit": "8",
+          "english": "Born in the Ikshvaku dynasty and renowned by people as Rama, he is of steadfast mind, heroic, radiant, resolute, and self-mastered."
+        },
+        {
+          "sanskrit": "9",
+          "english": "He is wise, of good conduct, eloquent, glorious, destroyer of enemies, with full limbs, great-armed, long-necked, and large-jawed."
+        },
+        {
+          "sanskrit": "10",
+          "english": "He has a mighty forehead, majestic bearing, hidden jaws that terrify foes, broad arms, fine neck, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "11",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "12",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "13",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "14",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "15",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "16",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "17",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "18",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "19",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "20",
+          "english": "Thus Rama, lotus-eyed, endowed with virtues, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "21",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "22",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "23",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "24",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "25",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "26",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "27",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "28",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "29",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "30",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "31",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "32",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "33",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "34",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "35",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "36",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "37",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "38",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "39",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "40",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "41",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "42",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "43",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "44",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "45",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "46",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "47",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "48",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "49",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "50",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "51",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "52",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "53",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "54",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "55",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "56",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "57",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "58",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "59",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "60",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "61",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "62",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "63",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "64",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "65",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "66",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "67",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "68",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "69",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "70",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "71",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "72",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "73",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "74",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "75",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "76",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "77",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "78",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "79",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "80",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "81",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "82",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "83",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "84",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "85",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "86",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "87",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "88",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "89",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "90",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        },
+        {
+          "sanskrit": "91",
+          "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+        },
+        {
+          "sanskrit": "92",
+          "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+        },
+        {
+          "sanskrit": "93",
+          "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+        },
+        {
+          "sanskrit": "94",
+          "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+        },
+        {
+          "sanskrit": "95",
+          "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+        },
+        {
+          "sanskrit": "96",
+          "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+        },
+        {
+          "sanskrit": "97",
+          "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+        },
+        {
+          "sanskrit": "98",
+          "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+        },
+        {
+          "sanskrit": "99",
+          "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+        },
+        {
+          "sanskrit": "100",
+          "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+        }
+      ]
+    }
   }
 }

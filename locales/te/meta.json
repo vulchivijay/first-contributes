@@ -1,382 +1,436 @@
 {
   "meta": {
     "home": {
-      "title": "సనాతన ధర్మం — వేదాలు, పురాణాలు, శాస్త్రాల నిత్యజ్ఞానం",
-      "description": "సనాతన ధర్మానికి ఆధారమైన ప్రామాణిక గ్రంథాలు, స్పష్టమైన వివరణలు, అధ్యయన వనరులు — ఇవన్నీ SanatanaDharma.in లో అందుబాటులో ఉన్నాయి. అనువాదాలు, సందర్భప్రతిపాదనలు, పండితుల వ్యాఖ్యానాలతో మీ అవగాహనను లోతుగా చేసుకోండి.",
-      "keywords": "సనాతన ధర్మం, భగవద్గీత అర్థం, స్తోత్రాలు అర్థంతో, హిందూ తత్త్వశాస్త్ర వివరణ, వేద బోధనలు, పండుగల మహత్త్వం",
+      "title": "Home | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Sanatana Dharma — Explore Sanatana Dharma: the eternal principles of Hinduism, Vedic traditions, spiritual practices, and wisdom from scriptures like the...",
+      "keywords": "home, sanatana, dharma, mantra, stotra, stotras, scripture, scriptures, translation, commentary, devotion, practice, ritual, worship, temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in"
+      "url": "https://sanatanadharmam.in",
+      "canonical": "https://sanatanadharmam.in"
     },
     "contact": {
-      "title": "సంప్రదించండి — సనాతన ధర్మం",
-      "description": "సంప్రదింపు సంబంధిత వివరాలు, సూచనలు మరియు ప్రశ్నల కోసం SanatanaDharma.in లోని ఈ పేజీని ఉపయోగించండి. పండితుల వివరణలు, అధ్యయన వనరులతో మీ అవగాహనను సమృద్ధి పరచుకోండి.",
-      "keywords": "సంప్రదించండి, అభిప్రాయం, సనాతన ధర్మం, మమ్మల్ని సంప్రదించండి",
+      "title": "Contact | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Contact — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Contact. Explore practices, history, and guiding principles at SanatanaDharma.in.",
+      "keywords": "contact, hinduism, yoga, meditation, mythology, story, verse, guide, history, philosophy, tradition, culture, chant, festival, legend",
       "ogImage": "/og/contact.png",
-      "url": "https://sanatanadharmam.in/contact"
+      "url": "https://sanatanadharmam.in/contact",
+      "canonical": "https://sanatanadharmam.in/contact"
     },
     "donate": {
-      "title": "విరాళం — సనాతన ధర్మ సేవకు మద్దతు",
-      "description": "సనాతన ధర్మ జ్ఞానాన్ని ప్రపంచానికి చేరవేయడానికి, గ్రంథాలను సంరక్షించి, వివరణలు అందించడానికి మీ విరాళం విలువైనది. అధ్యయన వనరుల విస్తరణకు సహకరించండి.",
-      "keywords": "విరాళం, మద్దతు, దానం, సనాతన ధర్మం",
+      "title": "Donate | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Donate — Support Sanatana Dharma — Articles, translations and concise commentary on Donate. Explore practices, history, and guiding principles at...",
+      "keywords": "donate, donate2, donate3, donate4, donate5, donate6, donate7, donate8, donate9, donate10, donate11, donate12, donate13, donate14, donate15",
       "ogImage": "/og/donate.png",
-      "url": "https://sanatanadharmam.in/donate"
+      "url": "https://sanatanadharmam.in/donate",
+      "canonical": "https://sanatanadharmam.in/donate"
     },
     "about": {
-      "title": "గురించి — సనాతన ధర్మం",
-      "description": "SanatanaDharma.in యొక్క లక్ష్యం, దృష్టి, ధర్మ గ్రంథాల పరిరక్షణ, వివరణలు, అనువాదాలు మొదలైన విషయాలను ఈ పేజీ వివరిస్తుంది.",
-      "keywords": "గురించి, సనాతన ధర్మం, లక్ష్యం, దృష్టి, శాస్త్రాలు",
+      "title": "About | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "About — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on About. Explore practices, history, and guiding principles at SanatanaDharma.in.",
+      "keywords": "about, meaning, interpretation, lesson, about2, about3, about4, about5, about6, about7, about8, about9, about10, about11, about12",
       "ogImage": "/og/about.jpg",
-      "url": "https://sanatanadharmam.in/about"
+      "url": "https://sanatanadharmam.in/about",
+      "canonical": "https://sanatanadharmam.in/about"
     },
     "privacy_policy": {
-      "title": "Privacy Policy — Sanatana Dharma",
-      "description": "Privacy Policy — Sanatana Dharma — Articles, translations and concise commentary on Privacy Policy. Explore practices, history, and guiding principles at...",
-      "keywords": "privacy policy, privacy policy meaning, privacy policy summary, privacy policy translation, privacy policy significance, privacy policy history, privacy policy analysis, privacy policy teachings, privacy policy verses, privacy policy quotes",
+      "title": "Privacy Policy | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Privacy Policy — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Privacy Policy. Explore practices, history, and guiding principles at...",
+      "keywords": "privacy, policy, privacypolicy, privacypolicy2, privacypolicy3, privacypolicy4, privacypolicy5, privacypolicy6, privacypolicy7, privacypolicy8, privacypolicy9, privacypolicy10, privacypolicy11, privacypolicy12, privacypolicy13",
       "ogImage": "/og/privacy.jpg",
-      "url": "https://sanatanadharmam.in/privacy-policy"
+      "url": "https://sanatanadharmam.in/privacy-policy",
+      "canonical": "https://sanatanadharmam.in/privacy-policy"
     },
     "terms_of_service": {
-      "title": "Terms of Service — Sanatana Dharma",
-      "description": "Terms of Service — Sanatana Dharma — Articles, translations and concise commentary on Terms of Service. Explore practices, history, and guiding principles ...",
-      "keywords": "terms service, terms service meaning, terms service summary, terms service translation, terms service significance, terms service history, terms service analysis, terms service teachings, terms service verses, terms service quotes",
+      "title": "Terms Of Service | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Terms of Service — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Terms of Service. Explore practices, history, and guiding principles ...",
+      "keywords": "terms, of, service, termsofservice, termsofservice2, termsofservice3, termsofservice4, termsofservice5, termsofservice6, termsofservice7, termsofservice8, termsofservice9, termsofservice10, termsofservice11, termsofservice12",
       "ogImage": "/og/terms.jpg",
-      "url": "https://sanatanadharmam.in/terms-of-service"
+      "url": "https://sanatanadharmam.in/terms-of-service",
+      "canonical": "https://sanatanadharmam.in/terms-of-service"
     },
     "scriptures": {
-      "title": "Scriptures — Sanatana Dharma",
-      "description": "Scriptures — Gita — Chapter — Chapter — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and...",
-      "keywords": "scriptures gita chapter chapter, scriptures gita chapter chapter meaning, scriptures gita chapter chapter summary, scriptures gita chapter chapter translation, scriptures gita chapter chapter significance, scriptures gita chapter chapter history, scriptures gita chapter chapter analysis, scriptures gita chapter chapter teachings, scriptures gita chapter chapter verses, scriptures gita chapter chapter quotes",
+      "title": "Scriptures | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Gita — Chapter — Chapter — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and...",
+      "keywords": "scriptures2, scriptures3, scriptures4, scriptures5, scriptures6, scriptures7, scriptures8, scriptures9, scriptures10, scriptures11, scriptures12, scriptures13, scriptures14, scriptures15, scriptures16",
       "ogImage": "/og/scriptures-gita-chapter-[chapter].jpg",
-      "url": "https://sanatanadharmam.in/scriptures"
+      "url": "https://sanatanadharmam.in/scriptures",
+      "canonical": "https://sanatanadharmam.in/scriptures"
     },
     "scriptures/ramayana": {
-      "title": "Ramayana — Valmiki's Epic and Commentary",
+      "title": "Scriptures | Ramayana — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Ramayana — Valmiki's Epic and Commentary — Articles, translations and concise commentary on Ramayana. Explore practices, history, and guiding principles...",
-      "keywords": "ramayana valmiki epic commentary, ramayana valmiki epic commentary meaning, ramayana valmiki epic commentary summary, ramayana valmiki epic commentary translation, ramayana valmiki epic commentary significance, ramayana valmiki epic commentary history, ramayana valmiki epic commentary analysis, ramayana valmiki epic commentary teachings, ramayana valmiki epic commentary verses, ramayana valmiki epic commentary quotes",
+      "keywords": "ramayana, ramayana2, ramayana3, ramayana4, ramayana5, ramayana6, ramayana7, ramayana8, ramayana9, ramayana10, ramayana11, ramayana12, ramayana13, ramayana14, ramayana15",
       "ogImage": "/og/ramayana.png",
-      "url": "https://sanatanadharmam.in/scriptures/ramayana"
+      "url": "https://sanatanadharmam.in/scriptures/ramayana",
+      "canonical": "https://sanatanadharmam.in/scriptures/ramayana"
     },
     "scriptures/mahabharata": {
-      "title": "Mahabharata — Sanatana Dharma",
-      "description": "Scriptures — Mahabharata — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures mahabharata, scriptures mahabharata meaning, scriptures mahabharata summary, scriptures mahabharata translation, scriptures mahabharata significance, scriptures mahabharata history, scriptures mahabharata analysis, scriptures mahabharata teachings, scriptures mahabharata verses, scriptures mahabharata quotes",
+      "title": "Scriptures | Mahabharata — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Mahabharata — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "mahabharata, mahabharata2, mahabharata3, mahabharata4, mahabharata5, mahabharata6, mahabharata7, mahabharata8, mahabharata9, mahabharata10, mahabharata11, mahabharata12, mahabharata13, mahabharata14, mahabharata15",
       "ogImage": "/og/scriptures-mahabharata.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/mahabharata"
+      "url": "https://sanatanadharmam.in/scriptures/mahabharata",
+      "canonical": "https://sanatanadharmam.in/scriptures/mahabharata"
     },
     "scriptures/gita": {
-      "title": "Bhagavad Gita — Complete Chapters & Commentary",
+      "title": "Scriptures | Bhagavad Gita — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Bhagavad Gita — Complete Chapters & Commentary — Articles, translations and concise commentary on Bhagavad Gita. Explore practices, history, and guiding...",
-      "keywords": "bhagavad gita complete chapters commentary, bhagavad gita complete chapters commentary meaning, bhagavad gita complete chapters commentary summary, bhagavad gita complete chapters commentary translation, bhagavad gita complete chapters commentary significance, bhagavad gita complete chapters commentary history, bhagavad gita complete chapters commentary analysis, bhagavad gita complete chapters commentary teachings, bhagavad gita complete chapters commentary verses, bhagavad gita complete chapters commentary quotes",
+      "keywords": "bhagavad, gita, gita2, gita3, gita4, gita5, gita6, gita7, gita8, gita9, gita10, gita11, gita12, gita13, gita14",
       "ogImage": "/og/gita.png",
-      "url": "https://sanatanadharmam.in/scriptures/gita"
+      "url": "https://sanatanadharmam.in/scriptures/gita",
+      "canonical": "https://sanatanadharmam.in/scriptures/gita"
     },
     "scriptures/upanishads": {
-      "title": "Upanishads — Sanatana Dharma",
-      "description": "Scriptures — Upanishads — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures upanishads, scriptures upanishads meaning, scriptures upanishads summary, scriptures upanishads translation, scriptures upanishads significance, scriptures upanishads history, scriptures upanishads analysis, scriptures upanishads teachings, scriptures upanishads verses, scriptures upanishads quotes",
+      "title": "Scriptures | Upanishads — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Upanishads — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "upanishads, upanishads2, upanishads3, upanishads4, upanishads5, upanishads6, upanishads7, upanishads8, upanishads9, upanishads10, upanishads11, upanishads12, upanishads13, upanishads14, upanishads15",
       "ogImage": "/og/scriptures-upanishads.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/upanishads"
+      "url": "https://sanatanadharmam.in/scriptures/upanishads",
+      "canonical": "https://sanatanadharmam.in/scriptures/upanishads"
     },
     "scriptures/vedas": {
-      "title": "Vedas — Rigveda, Yajurveda, Samaveda, Atharvaveda",
+      "title": "Scriptures | Vedas — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Vedas — Rigveda, Yajurveda, Samaveda, Atharvaveda — Articles, translations and concise commentary on Vedas. Explore practices, history, and guiding...",
-      "keywords": "vedas rigveda yajurveda samaveda atharvaveda, vedas rigveda yajurveda samaveda atharvaveda meaning, vedas rigveda yajurveda samaveda atharvaveda summary, vedas rigveda yajurveda samaveda atharvaveda translation, vedas rigveda yajurveda samaveda atharvaveda significance, vedas rigveda yajurveda samaveda atharvaveda history, vedas rigveda yajurveda samaveda atharvaveda analysis, vedas rigveda yajurveda samaveda atharvaveda teachings, vedas rigveda yajurveda samaveda atharvaveda verses, vedas rigveda yajurveda samaveda atharvaveda quotes",
+      "keywords": "vedas, vedas2, vedas3, vedas4, vedas5, vedas6, vedas7, vedas8, vedas9, vedas10, vedas11, vedas12, vedas13, vedas14, vedas15",
       "ogImage": "/og/vedas.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/vedas"
+      "url": "https://sanatanadharmam.in/scriptures/vedas",
+      "canonical": "https://sanatanadharmam.in/scriptures/vedas"
     },
     "scriptures/puranas": {
-      "title": "Puranas — Mythology, Cosmology and Lineages",
+      "title": "Scriptures | Puranas — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Puranas — Mythology, Cosmology and Lineages — Articles, translations and concise commentary on Puranas. Explore practices, history, and guiding principles ...",
-      "keywords": "puranas mythology cosmology lineages, puranas mythology cosmology lineages meaning, puranas mythology cosmology lineages summary, puranas mythology cosmology lineages translation, puranas mythology cosmology lineages significance, puranas mythology cosmology lineages history, puranas mythology cosmology lineages analysis, puranas mythology cosmology lineages teachings, puranas mythology cosmology lineages verses, puranas mythology cosmology lineages quotes",
+      "keywords": "puranas, puranas2, puranas3, puranas4, puranas5, puranas6, puranas7, puranas8, puranas9, puranas10, puranas11, puranas12, puranas13, puranas14, puranas15",
       "ogImage": "/og/puranas.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/puranas"
+      "url": "https://sanatanadharmam.in/scriptures/puranas",
+      "canonical": "https://sanatanadharmam.in/scriptures/puranas"
     },
     "stotrasmantras": {
-      "title": "Stotras & Mantras — Sanatana Dharma",
-      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
-      "keywords": "stotrasmantras dailyprayers, stotrasmantras dailyprayers meaning, stotrasmantras dailyprayers summary, stotrasmantras dailyprayers translation, stotrasmantras dailyprayers significance, stotrasmantras dailyprayers history, stotrasmantras dailyprayers analysis, stotrasmantras dailyprayers teachings, stotrasmantras dailyprayers verses, stotrasmantras dailyprayers quotes",
+      "title": "Stotras & Mantras | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
+      "keywords": "mantras, stotrasmantras, stotrasmantras2, stotrasmantras3, stotrasmantras4, stotrasmantras5, stotrasmantras6, stotrasmantras7, stotrasmantras8, stotrasmantras9, stotrasmantras10, stotrasmantras11, stotrasmantras12, stotrasmantras13, stotrasmantras14",
       "ogImage": "/og/stotrasmantras-dailyPrayers.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras"
+      "url": "https://sanatanadharmam.in/stotrasmantras",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras"
     },
     "stotrasmantras/devi": {
-      "title": "Devi Stotras — Sanatana Dharma",
-      "description": "Stotrasmantras — Devi — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
-      "keywords": "stotrasmantras devi, stotrasmantras devi meaning, stotrasmantras devi summary, stotrasmantras devi translation, stotrasmantras devi significance, stotrasmantras devi history, stotrasmantras devi analysis, stotrasmantras devi teachings, stotrasmantras devi verses, stotrasmantras devi quotes",
+      "title": "Stotras & Mantras | Devi — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — Devi — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
+      "keywords": "devi, devi2, devi3, devi4, devi5, devi6, devi7, devi8, devi9, devi10, devi11, devi12, devi13, devi14, devi15",
       "ogImage": "/og/stotrasmantras-devi.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/devi"
+      "url": "https://sanatanadharmam.in/stotrasmantras/devi",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/devi"
     },
     "stotrasmantras/ganesha": {
-      "title": "Ganesha Stotras — Sanatana Dharma",
-      "description": "Stotrasmantras — Ganesha — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
-      "keywords": "stotrasmantras ganesha, stotrasmantras ganesha meaning, stotrasmantras ganesha summary, stotrasmantras ganesha translation, stotrasmantras ganesha significance, stotrasmantras ganesha history, stotrasmantras ganesha analysis, stotrasmantras ganesha teachings, stotrasmantras ganesha verses, stotrasmantras ganesha quotes",
+      "title": "Stotras & Mantras | Ganesha — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — Ganesha — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
+      "keywords": "ganesha, ganesha2, ganesha3, ganesha4, ganesha5, ganesha6, ganesha7, ganesha8, ganesha9, ganesha10, ganesha11, ganesha12, ganesha13, ganesha14, ganesha15",
       "ogImage": "/og/stotrasmantras-ganesha.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/ganesha"
+      "url": "https://sanatanadharmam.in/stotrasmantras/ganesha",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/ganesha"
     },
     "stotrasmantras/shiva": {
-      "title": "Shiva Stotras — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas shiva, scriptures puranas shiva meaning, scriptures puranas shiva summary, scriptures puranas shiva translation, scriptures puranas shiva significance, scriptures puranas shiva history, scriptures puranas shiva analysis, scriptures puranas shiva teachings, scriptures puranas shiva verses, scriptures puranas shiva quotes",
+      "title": "Stotras & Mantras | Shiva — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "shiva, shiva2, shiva3, shiva4, shiva5, shiva6, shiva7, shiva8, shiva9, shiva10, shiva11, shiva12, shiva13, shiva14, shiva15",
       "ogImage": "/og/scriptures-puranas-shiva.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/shiva"
+      "url": "https://sanatanadharmam.in/stotrasmantras/shiva",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/shiva"
     },
     "stotrasmantras/vishnu": {
-      "title": "Vishnu Stotras — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas vishnu, scriptures puranas vishnu meaning, scriptures puranas vishnu summary, scriptures puranas vishnu translation, scriptures puranas vishnu significance, scriptures puranas vishnu history, scriptures puranas vishnu analysis, scriptures puranas vishnu teachings, scriptures puranas vishnu verses, scriptures puranas vishnu quotes",
+      "title": "Stotras & Mantras | Vishnu — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "vishnu, vishnu2, vishnu3, vishnu4, vishnu5, vishnu6, vishnu7, vishnu8, vishnu9, vishnu10, vishnu11, vishnu12, vishnu13, vishnu14, vishnu15",
       "ogImage": "/og/scriptures-puranas-vishnu.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/vishnu"
+      "url": "https://sanatanadharmam.in/stotrasmantras/vishnu",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/vishnu"
     },
     "stotrasmantras/hanuman": {
-      "title": "Hanuman Stotras — Sanatana Dharma",
-      "description": "Stotrasmantras — Hanuman — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
-      "keywords": "stotrasmantras hanuman, stotrasmantras hanuman meaning, stotrasmantras hanuman summary, stotrasmantras hanuman translation, stotrasmantras hanuman significance, stotrasmantras hanuman history, stotrasmantras hanuman analysis, stotrasmantras hanuman teachings, stotrasmantras hanuman verses, stotrasmantras hanuman quotes",
+      "title": "Stotras & Mantras | Hanuman — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — Hanuman — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
+      "keywords": "hanuman, hanuman2, hanuman3, hanuman4, hanuman5, hanuman6, hanuman7, hanuman8, hanuman9, hanuman10, hanuman11, hanuman12, hanuman13, hanuman14, hanuman15",
       "ogImage": "/og/stotrasmantras-hanuman.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/hanuman"
+      "url": "https://sanatanadharmam.in/stotrasmantras/hanuman",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/hanuman"
     },
     "stotrasmantras/dailyPrayers": {
-      "title": "Daily Prayers — Sanatana Dharma",
-      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
-      "keywords": "stotrasmantras dailyprayers, stotrasmantras dailyprayers meaning, stotrasmantras dailyprayers summary, stotrasmantras dailyprayers translation, stotrasmantras dailyprayers significance, stotrasmantras dailyprayers history, stotrasmantras dailyprayers analysis, stotrasmantras dailyprayers teachings, stotrasmantras dailyprayers verses, stotrasmantras dailyprayers quotes",
+      "title": "Stotras & Mantras | Daily Prayers — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
+      "keywords": "daily, prayers, dailyprayers, dailyprayers2, dailyprayers3, dailyprayers4, dailyprayers5, dailyprayers6, dailyprayers7, dailyprayers8, dailyprayers9, dailyprayers10, dailyprayers11, dailyprayers12, dailyprayers13",
       "ogImage": "/og/stotrasmantras-dailyPrayers.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/dailyPrayers"
+      "url": "https://sanatanadharmam.in/stotrasmantras/dailyPrayers",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/dailyPrayers"
     },
     "philosophy": {
-      "title": "Philosophy — Sanatana Dharma",
-      "description": "Philosophy — Advaita — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
-      "keywords": "philosophy advaita, philosophy advaita meaning, philosophy advaita summary, philosophy advaita translation, philosophy advaita significance, philosophy advaita history, philosophy advaita analysis, philosophy advaita teachings, philosophy advaita verses, philosophy advaita quotes",
+      "title": "Philosophy | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Advaita — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "philosophy2, philosophy3, philosophy4, philosophy5, philosophy6, philosophy7, philosophy8, philosophy9, philosophy10, philosophy11, philosophy12, philosophy13, philosophy14, philosophy15, philosophy16",
       "ogImage": "/og/philosophy-advaita.jpg",
-      "url": "https://sanatanadharmam.in/philosophy"
+      "url": "https://sanatanadharmam.in/philosophy",
+      "canonical": "https://sanatanadharmam.in/philosophy"
     },
     "philosophy/dharma": {
-      "title": "Dharma — Sanatana Dharma",
-      "description": "Philosophy — Dharma — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
-      "keywords": "philosophy, philosophy meaning, philosophy summary, philosophy translation, philosophy significance, philosophy history, philosophy analysis, philosophy teachings, philosophy verses, philosophy quotes",
+      "title": "Philosophy | Dharma — Sanatana - Explore Sanatan Dharma",
+      "description": "Philosophy — Dharma — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
+      "keywords": "dharma2, dharma3, dharma4, dharma5, dharma6, dharma7, dharma8, dharma9, dharma10, dharma11, dharma12, dharma13, dharma14, dharma15, dharma16",
       "ogImage": "/og/philosophy-dharma.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/dharma"
+      "url": "https://sanatanadharmam.in/philosophy/dharma",
+      "canonical": "https://sanatanadharmam.in/philosophy/dharma"
     },
     "philosophy/karma": {
-      "title": "Karma — Sanatana Dharma",
-      "description": "Philosophy — Karma — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
-      "keywords": "philosophy karma, philosophy karma meaning, philosophy karma summary, philosophy karma translation, philosophy karma significance, philosophy karma history, philosophy karma analysis, philosophy karma teachings, philosophy karma verses, philosophy karma quotes",
+      "title": "Philosophy | Karma — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Karma — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
+      "keywords": "karma, karma2, karma3, karma4, karma5, karma6, karma7, karma8, karma9, karma10, karma11, karma12, karma13, karma14, karma15",
       "ogImage": "/og/philosophy-karma.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/karma"
+      "url": "https://sanatanadharmam.in/philosophy/karma",
+      "canonical": "https://sanatanadharmam.in/philosophy/karma"
     },
     "philosophy/samsara": {
-      "title": "Samsara — Sanatana Dharma",
-      "description": "Philosophy — Samsara — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
-      "keywords": "philosophy samsara, philosophy samsara meaning, philosophy samsara summary, philosophy samsara translation, philosophy samsara significance, philosophy samsara history, philosophy samsara analysis, philosophy samsara teachings, philosophy samsara verses, philosophy samsara quotes",
+      "title": "Philosophy | Samsara — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Samsara — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "samsara, samsara2, samsara3, samsara4, samsara5, samsara6, samsara7, samsara8, samsara9, samsara10, samsara11, samsara12, samsara13, samsara14, samsara15",
       "ogImage": "/og/philosophy-samsara.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/samsara"
+      "url": "https://sanatanadharmam.in/philosophy/samsara",
+      "canonical": "https://sanatanadharmam.in/philosophy/samsara"
     },
     "philosophy/moksha": {
-      "title": "Moksha — Sanatana Dharma",
-      "description": "Philosophy — Moksha — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
-      "keywords": "philosophy moksha, philosophy moksha meaning, philosophy moksha summary, philosophy moksha translation, philosophy moksha significance, philosophy moksha history, philosophy moksha analysis, philosophy moksha teachings, philosophy moksha verses, philosophy moksha quotes",
+      "title": "Philosophy | Moksha — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Moksha — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
+      "keywords": "moksha, moksha2, moksha3, moksha4, moksha5, moksha6, moksha7, moksha8, moksha9, moksha10, moksha11, moksha12, moksha13, moksha14, moksha15",
       "ogImage": "/og/philosophy-moksha.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/moksha"
+      "url": "https://sanatanadharmam.in/philosophy/moksha",
+      "canonical": "https://sanatanadharmam.in/philosophy/moksha"
     },
     "philosophy/yoga": {
-      "title": "Yoga — Sanatana Dharma",
-      "description": "Philosophy — Yoga — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
-      "keywords": "philosophy yoga, philosophy yoga meaning, philosophy yoga summary, philosophy yoga translation, philosophy yoga significance, philosophy yoga history, philosophy yoga analysis, philosophy yoga teachings, philosophy yoga verses, philosophy yoga quotes",
+      "title": "Philosophy | Yoga — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Yoga — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
+      "keywords": "yoga2, yoga3, yoga4, yoga5, yoga6, yoga7, yoga8, yoga9, yoga10, yoga11, yoga12, yoga13, yoga14, yoga15, yoga16",
       "ogImage": "/og/philosophy-yoga.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/yoga"
+      "url": "https://sanatanadharmam.in/philosophy/yoga",
+      "canonical": "https://sanatanadharmam.in/philosophy/yoga"
     },
     "philosophy/advaita": {
-      "title": "Advaita — Sanatana Dharma",
-      "description": "Philosophy — Advaita — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
-      "keywords": "philosophy advaita, philosophy advaita meaning, philosophy advaita summary, philosophy advaita translation, philosophy advaita significance, philosophy advaita history, philosophy advaita analysis, philosophy advaita teachings, philosophy advaita verses, philosophy advaita quotes",
+      "title": "Philosophy | Advaita — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Advaita — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "advaita, advaita2, advaita3, advaita4, advaita5, advaita6, advaita7, advaita8, advaita9, advaita10, advaita11, advaita12, advaita13, advaita14, advaita15",
       "ogImage": "/og/philosophy-advaita.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/advaita"
+      "url": "https://sanatanadharmam.in/philosophy/advaita",
+      "canonical": "https://sanatanadharmam.in/philosophy/advaita"
     },
     "practices": {
-      "title": "Practices — Sanatana Dharma",
-      "description": "Practices — Dailypuja — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
-      "keywords": "practices dailypuja, practices dailypuja meaning, practices dailypuja summary, practices dailypuja translation, practices dailypuja significance, practices dailypuja history, practices dailypuja analysis, practices dailypuja teachings, practices dailypuja verses, practices dailypuja quotes",
+      "title": "Practices | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Dailypuja — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
+      "keywords": "practices, practices2, practices3, practices4, practices5, practices6, practices7, practices8, practices9, practices10, practices11, practices12, practices13, practices14, practices15",
       "ogImage": "/og/practices-dailypuja.jpg",
-      "url": "https://sanatanadharmam.in/practices"
+      "url": "https://sanatanadharmam.in/practices",
+      "canonical": "https://sanatanadharmam.in/practices"
     },
     "practices/rituals": {
-      "title": "Rituals — Sanatana Dharma",
-      "description": "Practices — Rituals — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
-      "keywords": "practices rituals, practices rituals meaning, practices rituals summary, practices rituals translation, practices rituals significance, practices rituals history, practices rituals analysis, practices rituals teachings, practices rituals verses, practices rituals quotes",
+      "title": "Practices | Rituals — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Rituals — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
+      "keywords": "rituals, rituals2, rituals3, rituals4, rituals5, rituals6, rituals7, rituals8, rituals9, rituals10, rituals11, rituals12, rituals13, rituals14, rituals15",
       "ogImage": "/og/practices-rituals.jpg",
-      "url": "https://sanatanadharmam.in/practices/rituals"
+      "url": "https://sanatanadharmam.in/practices/rituals",
+      "canonical": "https://sanatanadharmam.in/practices/rituals"
     },
     "practices/festivals": {
-      "title": "Festivals — Sanatana Dharma",
-      "description": "Practices — Festivals — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
-      "keywords": "practices festivals, practices festivals meaning, practices festivals summary, practices festivals translation, practices festivals significance, practices festivals history, practices festivals analysis, practices festivals teachings, practices festivals verses, practices festivals quotes",
+      "title": "Practices | Festivals — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Festivals — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
+      "keywords": "festivals, festivals2, festivals3, festivals4, festivals5, festivals6, festivals7, festivals8, festivals9, festivals10, festivals11, festivals12, festivals13, festivals14, festivals15",
       "ogImage": "/og/practices-festivals.jpg",
-      "url": "https://sanatanadharmam.in/practices/festivals"
+      "url": "https://sanatanadharmam.in/practices/festivals",
+      "canonical": "https://sanatanadharmam.in/practices/festivals"
     },
     "practices/dailypuja": {
-      "title": "Daily Puja — Sanatana Dharma",
-      "description": "Practices — Dailypuja — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
-      "keywords": "practices dailypuja, practices dailypuja meaning, practices dailypuja summary, practices dailypuja translation, practices dailypuja significance, practices dailypuja history, practices dailypuja analysis, practices dailypuja teachings, practices dailypuja verses, practices dailypuja quotes",
+      "title": "Practices | Daily Puja — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Dailypuja — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
+      "keywords": "puja, dailypuja, dailypuja2, dailypuja3, dailypuja4, dailypuja5, dailypuja6, dailypuja7, dailypuja8, dailypuja9, dailypuja10, dailypuja11, dailypuja12, dailypuja13, dailypuja14",
       "ogImage": "/og/practices-dailypuja.jpg",
-      "url": "https://sanatanadharmam.in/practices/dailypuja"
+      "url": "https://sanatanadharmam.in/practices/dailypuja",
+      "canonical": "https://sanatanadharmam.in/practices/dailypuja"
     },
     "practices/vastu": {
-      "title": "Vastu — Sanatana Dharma",
-      "description": "Practices — Vastu — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
-      "keywords": "practices vastu, practices vastu meaning, practices vastu summary, practices vastu translation, practices vastu significance, practices vastu history, practices vastu analysis, practices vastu teachings, practices vastu verses, practices vastu quotes",
+      "title": "Practices | Vastu — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Vastu — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
+      "keywords": "vastu, vastu2, vastu3, vastu4, vastu5, vastu6, vastu7, vastu8, vastu9, vastu10, vastu11, vastu12, vastu13, vastu14, vastu15",
       "ogImage": "/og/practices-vastu.jpg",
-      "url": "https://sanatanadharmam.in/practices/vastu"
+      "url": "https://sanatanadharmam.in/practices/vastu",
+      "canonical": "https://sanatanadharmam.in/practices/vastu"
     },
     "stories": {
-      "title": "Stories — Sanatana Dharma",
-      "description": "KidsZone — IllustratedStories — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
-      "keywords": "kidszone illustratedstories, kidszone illustratedstories meaning, kidszone illustratedstories summary, kidszone illustratedstories translation, kidszone illustratedstories significance, kidszone illustratedstories history, kidszone illustratedstories analysis, kidszone illustratedstories teachings, kidszone illustratedstories verses, kidszone illustratedstories quotes",
+      "title": "Stories | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — IllustratedStories — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
+      "keywords": "stories, stories2, stories3, stories4, stories5, stories6, stories7, stories8, stories9, stories10, stories11, stories12, stories13, stories14, stories15",
       "ogImage": "/og/kidsZone-illustratedStories.jpg",
-      "url": "https://sanatanadharmam.in/stories"
+      "url": "https://sanatanadharmam.in/stories",
+      "canonical": "https://sanatanadharmam.in/stories"
     },
     "stories/shiva": {
-      "title": "Shiva — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas shiva, scriptures puranas shiva meaning, scriptures puranas shiva summary, scriptures puranas shiva translation, scriptures puranas shiva significance, scriptures puranas shiva history, scriptures puranas shiva analysis, scriptures puranas shiva teachings, scriptures puranas shiva verses, scriptures puranas shiva quotes",
+      "title": "Stories | Shiva — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "shiva16, shiva17, shiva18, shiva19, shiva20, shiva21, shiva22, shiva23, shiva24, shiva25, shiva26, shiva27, shiva28, shiva29, shiva30",
       "ogImage": "/og/scriptures-puranas-shiva.jpg",
-      "url": "https://sanatanadharmam.in/stories/shiva"
+      "url": "https://sanatanadharmam.in/stories/shiva",
+      "canonical": "https://sanatanadharmam.in/stories/shiva"
     },
     "stories/parvati": {
-      "title": "Parvati — Sanatana Dharma",
+      "title": "Stories | Parvati — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Parvati on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "parvati, parvati meaning",
+      "keywords": "parvati, parvati2, parvati3, parvati4, parvati5, parvati6, parvati7, parvati8, parvati9, parvati10, parvati11, parvati12, parvati13, parvati14, parvati15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/parvati"
+      "url": "https://sanatanadharmam.in/stories/parvati",
+      "canonical": "https://sanatanadharmam.in/stories/parvati"
     },
     "stories/vishnu": {
-      "title": "Vishnu — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas vishnu, scriptures puranas vishnu meaning, scriptures puranas vishnu summary, scriptures puranas vishnu translation, scriptures puranas vishnu significance, scriptures puranas vishnu history, scriptures puranas vishnu analysis, scriptures puranas vishnu teachings, scriptures puranas vishnu verses, scriptures puranas vishnu quotes",
+      "title": "Stories | Vishnu — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "vishnu16, vishnu17, vishnu18, vishnu19, vishnu20, vishnu21, vishnu22, vishnu23, vishnu24, vishnu25, vishnu26, vishnu27, vishnu28, vishnu29, vishnu30",
       "ogImage": "/og/scriptures-puranas-vishnu.jpg",
-      "url": "https://sanatanadharmam.in/stories/vishnu"
+      "url": "https://sanatanadharmam.in/stories/vishnu",
+      "canonical": "https://sanatanadharmam.in/stories/vishnu"
     },
     "stories/lakshmi": {
-      "title": "Lakshmi — Sanatana Dharma",
+      "title": "Stories | Lakshmi — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Lakshmi on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "lakshmi, lakshmi meaning",
+      "keywords": "lakshmi, lakshmi2, lakshmi3, lakshmi4, lakshmi5, lakshmi6, lakshmi7, lakshmi8, lakshmi9, lakshmi10, lakshmi11, lakshmi12, lakshmi13, lakshmi14, lakshmi15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/lakshmi"
+      "url": "https://sanatanadharmam.in/stories/lakshmi",
+      "canonical": "https://sanatanadharmam.in/stories/lakshmi"
     },
     "stories/bramha": {
-      "title": "Brahma — Sanatana Dharma",
+      "title": "Stories | Brahma — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Bramha on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "bramha, bramha meaning",
+      "keywords": "brahma, bramha, bramha2, bramha3, bramha4, bramha5, bramha6, bramha7, bramha8, bramha9, bramha10, bramha11, bramha12, bramha13, bramha14",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/bramha"
+      "url": "https://sanatanadharmam.in/stories/bramha",
+      "canonical": "https://sanatanadharmam.in/stories/bramha"
     },
     "stories/saraswati": {
-      "title": "Saraswati — Sanatana Dharma",
+      "title": "Stories | Saraswati — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Saraswati on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "saraswati, saraswati meaning",
+      "keywords": "saraswati, saraswati2, saraswati3, saraswati4, saraswati5, saraswati6, saraswati7, saraswati8, saraswati9, saraswati10, saraswati11, saraswati12, saraswati13, saraswati14, saraswati15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/saraswati"
+      "url": "https://sanatanadharmam.in/stories/saraswati",
+      "canonical": "https://sanatanadharmam.in/stories/saraswati"
     },
     "stories/krishna": {
-      "title": "Krishna — Sanatana Dharma",
+      "title": "Stories | Krishna — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Krishna on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "krishna, krishna meaning",
+      "keywords": "krishna, krishna2, krishna3, krishna4, krishna5, krishna6, krishna7, krishna8, krishna9, krishna10, krishna11, krishna12, krishna13, krishna14, krishna15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/krishna"
+      "url": "https://sanatanadharmam.in/stories/krishna",
+      "canonical": "https://sanatanadharmam.in/stories/krishna"
     },
     "stories/karna": {
-      "title": "Karna — Sanatana Dharma",
+      "title": "Stories | Karna — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Karna on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "karna, karna meaning",
+      "keywords": "karna, karna2, karna3, karna4, karna5, karna6, karna7, karna8, karna9, karna10, karna11, karna12, karna13, karna14, karna15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/karna"
+      "url": "https://sanatanadharmam.in/stories/karna",
+      "canonical": "https://sanatanadharmam.in/stories/karna"
     },
     "stories/parasuram": {
-      "title": "Parashurama — Sanatana Dharma",
+      "title": "Stories | Parashurama — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Parasuram on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "parasuram, parasuram meaning",
+      "keywords": "parashurama, parasuram, parasuram2, parasuram3, parasuram4, parasuram5, parasuram6, parasuram7, parasuram8, parasuram9, parasuram10, parasuram11, parasuram12, parasuram13, parasuram14",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/parasuram"
+      "url": "https://sanatanadharmam.in/stories/parasuram",
+      "canonical": "https://sanatanadharmam.in/stories/parasuram"
     },
     "stories/bhishma": {
-      "title": "Bhishma — Sanatana Dharma",
+      "title": "Stories | Bhishma — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Bhishma on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "bhishma, bhishma meaning",
+      "keywords": "bhishma, bhishma2, bhishma3, bhishma4, bhishma5, bhishma6, bhishma7, bhishma8, bhishma9, bhishma10, bhishma11, bhishma12, bhishma13, bhishma14, bhishma15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/bhishma"
+      "url": "https://sanatanadharmam.in/stories/bhishma",
+      "canonical": "https://sanatanadharmam.in/stories/bhishma"
     },
     "stories/vasistamhari": {
-      "title": "Vasista Maharshi — Sanatana Dharma",
+      "title": "Stories | Vasista Maharshi — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Vasistamhari on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "vasistamhari, vasistamhari meaning",
+      "keywords": "vasista, maharshi, vasistamhari, vasistamhari2, vasistamhari3, vasistamhari4, vasistamhari5, vasistamhari6, vasistamhari7, vasistamhari8, vasistamhari9, vasistamhari10, vasistamhari11, vasistamhari12, vasistamhari13",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/vasistamhari"
+      "url": "https://sanatanadharmam.in/stories/vasistamhari",
+      "canonical": "https://sanatanadharmam.in/stories/vasistamhari"
     },
     "stories/visvamitra": {
-      "title": "Vishvamitra — Sanatana Dharma",
+      "title": "Stories | Vishvamitra — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Visvamitra on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "visvamitra, visvamitra meaning",
+      "keywords": "vishvamitra, visvamitra, visvamitra2, visvamitra3, visvamitra4, visvamitra5, visvamitra6, visvamitra7, visvamitra8, visvamitra9, visvamitra10, visvamitra11, visvamitra12, visvamitra13, visvamitra14",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/visvamitra"
+      "url": "https://sanatanadharmam.in/stories/visvamitra",
+      "canonical": "https://sanatanadharmam.in/stories/visvamitra"
     },
     "stories/adishankar": {
-      "title": "Adi Shankaracharya — Sanatana Dharma",
+      "title": "Stories | Adi Shankaracharya — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Adishankar on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "adishankar, adishankar meaning",
+      "keywords": "adi, shankaracharya, adishankar, adishankar2, adishankar3, adishankar4, adishankar5, adishankar6, adishankar7, adishankar8, adishankar9, adishankar10, adishankar11, adishankar12, adishankar13",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/adishankar"
+      "url": "https://sanatanadharmam.in/stories/adishankar",
+      "canonical": "https://sanatanadharmam.in/stories/adishankar"
     },
     "stories/ramanamaharshi": {
-      "title": "Ramana Maharshi — Sanatana Dharma",
+      "title": "Stories | Ramana Maharshi — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Ramanamaharshi on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "ramanamaharshi, ramanamaharshi meaning",
+      "keywords": "ramana, ramanamaharshi, ramanamaharshi2, ramanamaharshi3, ramanamaharshi4, ramanamaharshi5, ramanamaharshi6, ramanamaharshi7, ramanamaharshi8, ramanamaharshi9, ramanamaharshi10, ramanamaharshi11, ramanamaharshi12, ramanamaharshi13, ramanamaharshi14",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/ramanamaharshi"
+      "url": "https://sanatanadharmam.in/stories/ramanamaharshi",
+      "canonical": "https://sanatanadharmam.in/stories/ramanamaharshi"
     },
     "stories/moralstories": {
-      "title": "Moral Stories — Sanatana Dharma",
-      "description": "Stories — Moralstories — Sanatana Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at ...",
-      "keywords": "stories moralstories, stories moralstories meaning, stories moralstories summary, stories moralstories translation, stories moralstories significance, stories moralstories history, stories moralstories analysis, stories moralstories teachings, stories moralstories verses, stories moralstories quotes",
+      "title": "Stories | Moral — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stories — Moralstories — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at ...",
+      "keywords": "moral, moralstories, moralstories2, moralstories3, moralstories4, moralstories5, moralstories6, moralstories7, moralstories8, moralstories9, moralstories10, moralstories11, moralstories12, moralstories13, moralstories14",
       "ogImage": "/og/stories-moralstories.jpg",
-      "url": "https://sanatanadharmam.in/stories/moralstories"
+      "url": "https://sanatanadharmam.in/stories/moralstories",
+      "canonical": "https://sanatanadharmam.in/stories/moralstories"
     },
     "stories/puranic": {
-      "title": "Puranic — Sanatana Dharma",
-      "description": "Stories — Puranic — Sanatana Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at...",
-      "keywords": "stories puranic, stories puranic meaning, stories puranic summary, stories puranic translation, stories puranic significance, stories puranic history, stories puranic analysis, stories puranic teachings, stories puranic verses, stories puranic quotes",
+      "title": "Stories | Puranic — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stories — Puranic — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at...",
+      "keywords": "puranic, puranic2, puranic3, puranic4, puranic5, puranic6, puranic7, puranic8, puranic9, puranic10, puranic11, puranic12, puranic13, puranic14, puranic15",
       "ogImage": "/og/stories-puranic.jpg",
-      "url": "https://sanatanadharmam.in/stories/puranic"
+      "url": "https://sanatanadharmam.in/stories/puranic",
+      "canonical": "https://sanatanadharmam.in/stories/puranic"
     },
     "kidsZone": {
-      "title": "Kids Zone — Sanatana Dharma",
-      "description": "KidsZone — Easymantras — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
-      "keywords": "kidszone easymantras, kidszone easymantras meaning, kidszone easymantras summary, kidszone easymantras translation, kidszone easymantras significance, kidszone easymantras history, kidszone easymantras analysis, kidszone easymantras teachings, kidszone easymantras verses, kidszone easymantras quotes",
+      "title": "Kids Zone | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — Easymantras — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
+      "keywords": "kids, zone, kidszone, kidszone2, kidszone3, kidszone4, kidszone5, kidszone6, kidszone7, kidszone8, kidszone9, kidszone10, kidszone11, kidszone12, kidszone13",
       "ogImage": "/og/kidsZone-easymantras.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone"
+      "url": "https://sanatanadharmam.in/kidsZone",
+      "canonical": "https://sanatanadharmam.in/kidsZone"
     },
     "kidsZone/illustratedStories": {
-      "title": "Illustrated Stories — Sanatana Dharma",
-      "description": "KidsZone — IllustratedStories — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
-      "keywords": "kidszone illustratedstories, kidszone illustratedstories meaning, kidszone illustratedstories summary, kidszone illustratedstories translation, kidszone illustratedstories significance, kidszone illustratedstories history, kidszone illustratedstories analysis, kidszone illustratedstories teachings, kidszone illustratedstories verses, kidszone illustratedstories quotes",
+      "title": "Kids Zone | Illustrated Stories — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — IllustratedStories — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
+      "keywords": "illustrated, illustratedstories, illustratedstories2, illustratedstories3, illustratedstories4, illustratedstories5, illustratedstories6, illustratedstories7, illustratedstories8, illustratedstories9, illustratedstories10, illustratedstories11, illustratedstories12, illustratedstories13, illustratedstories14",
       "ogImage": "/og/kidsZone-illustratedStories.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone/illustratedStories"
+      "url": "https://sanatanadharmam.in/kidsZone/illustratedStories",
+      "canonical": "https://sanatanadharmam.in/kidsZone/illustratedStories"
     },
     "kidsZone/mythologicalquizzes": {
-      "title": "Mythological Quizzes — Sanatana Dharma",
-      "description": "KidsZone — mythologicalquizzes — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
-      "keywords": "kidszone mythologicalquizzes, kidszone mythologicalquizzes meaning, kidszone mythologicalquizzes summary, kidszone mythologicalquizzes translation, kidszone mythologicalquizzes significance, kidszone mythologicalquizzes history, kidszone mythologicalquizzes analysis, kidszone mythologicalquizzes teachings, kidszone mythologicalquizzes verses, kidszone mythologicalquizzes quotes",
+      "title": "Kids Zone | Mythological Quizzes — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — mythologicalquizzes — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
+      "keywords": "mythological, quizzes, mythologicalquizzes, mythologicalquizzes2, mythologicalquizzes3, mythologicalquizzes4, mythologicalquizzes5, mythologicalquizzes6, mythologicalquizzes7, mythologicalquizzes8, mythologicalquizzes9, mythologicalquizzes10, mythologicalquizzes11, mythologicalquizzes12, mythologicalquizzes13",
       "ogImage": "/og/kidsZone-mythologicalquizzes.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone/mythologicalquizzes"
+      "url": "https://sanatanadharmam.in/kidsZone/mythologicalquizzes",
+      "canonical": "https://sanatanadharmam.in/kidsZone/mythologicalquizzes"
     },
     "kidsZone/easymantras": {
-      "title": "Easy Mantras — Sanatana Dharma",
-      "description": "KidsZone — Easymantras — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
-      "keywords": "kidszone easymantras, kidszone easymantras meaning, kidszone easymantras summary, kidszone easymantras translation, kidszone easymantras significance, kidszone easymantras history, kidszone easymantras analysis, kidszone easymantras teachings, kidszone easymantras verses, kidszone easymantras quotes",
+      "title": "Kids Zone | Easy Mantras — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — Easymantras — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
+      "keywords": "easy, easymantras, easymantras2, easymantras3, easymantras4, easymantras5, easymantras6, easymantras7, easymantras8, easymantras9, easymantras10, easymantras11, easymantras12, easymantras13, easymantras14",
       "ogImage": "/og/kidsZone-easymantras.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone/easymantras"
+      "url": "https://sanatanadharmam.in/kidsZone/easymantras",
+      "canonical": "https://sanatanadharmam.in/kidsZone/easymantras"
     },
     "kidsZone/comics": {
-      "title": "Mythology Comics — Sanatana Dharma",
+      "title": "Kids Zone | Mythology Comics — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Comics on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "comics, comics meaning",
+      "keywords": "comics, comics2, comics3, comics4, comics5, comics6, comics7, comics8, comics9, comics10, comics11, comics12, comics13, comics14, comics15",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/kidsZone/comics"
+      "url": "https://sanatanadharmam.in/kidsZone/comics",
+      "canonical": "https://sanatanadharmam.in/kidsZone/comics"
     }
   }
 }
