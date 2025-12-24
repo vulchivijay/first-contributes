@@ -8,6 +8,7 @@
       "scriptures": {
         "title": "புனித நூல்கள்",
         "nav": {
+          "sanksheparamayanam": "Sankshepa Ramayana",
           "ramayana": "இராமாயணம்",
           "mahabharata": "மகாபாரதம்",
           "gita": "பகவத் கீதை",
@@ -55,7 +56,8 @@
           "vishnu": "Vishnu",
           "lakshmi": "Lakshmi",
           "bramha": "Brahma",
-          "saraswati": "Saraswati"
+          "saraswati": "Saraswati",
+          "krishna": "Krishna"
         }
       },
       "kidsZone": {

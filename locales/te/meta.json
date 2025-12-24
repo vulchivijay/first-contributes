@@ -1,382 +1,444 @@
 {
   "meta": {
     "home": {
-      "title": "సనాతన ధర్మం — వేదాలు, పురాణాలు, శాస్త్రాల నిత్యజ్ఞానం",
-      "description": "సనాతన ధర్మానికి ఆధారమైన ప్రామాణిక గ్రంథాలు, స్పష్టమైన వివరణలు, అధ్యయన వనరులు — ఇవన్నీ SanatanaDharma.in లో అందుబాటులో ఉన్నాయి. అనువాదాలు, సందర్భప్రతిపాదనలు, పండితుల వ్యాఖ్యానాలతో మీ అవగాహనను లోతుగా చేసుకోండి.",
-      "keywords": "సనాతన ధర్మం, భగవద్గీత అర్థం, స్తోత్రాలు అర్థంతో, హిందూ తత్త్వశాస్త్ర వివరణ, వేద బోధనలు, పండుగల మహత్త్వం",
+      "title": "Home | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Sanatana Dharma — Explore Sanatana Dharma: the eternal principles of Hinduism, Vedic traditions, spiritual practices, and wisdom from scriptures like the...",
+      "keywords": "Home, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in"
+      "url": "https://sanatanadharmam.in",
+      "canonical": "https://sanatanadharmam.in"
     },
     "contact": {
-      "title": "సంప్రదించండి — సనాతన ధర్మం",
-      "description": "సంప్రదింపు సంబంధిత వివరాలు, సూచనలు మరియు ప్రశ్నల కోసం SanatanaDharma.in లోని ఈ పేజీని ఉపయోగించండి. పండితుల వివరణలు, అధ్యయన వనరులతో మీ అవగాహనను సమృద్ధి పరచుకోండి.",
-      "keywords": "సంప్రదించండి, అభిప్రాయం, సనాతన ధర్మం, మమ్మల్ని సంప్రదించండి",
+      "title": "Contact | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Contact — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Contact. Explore practices, history, and guiding principles at SanatanaDharma.in.",
+      "keywords": "Contact, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple, Yoga, Meditation, Mythology, Story, History, Philosophy, Tradition, Culture, Chant, Festival, Legend",
       "ogImage": "/og/contact.png",
-      "url": "https://sanatanadharmam.in/contact"
+      "url": "https://sanatanadharmam.in/contact",
+      "canonical": "https://sanatanadharmam.in/contact"
     },
     "donate": {
-      "title": "విరాళం — సనాతన ధర్మ సేవకు మద్దతు",
-      "description": "సనాతన ధర్మ జ్ఞానాన్ని ప్రపంచానికి చేరవేయడానికి, గ్రంథాలను సంరక్షించి, వివరణలు అందించడానికి మీ విరాళం విలువైనది. అధ్యయన వనరుల విస్తరణకు సహకరించండి.",
-      "keywords": "విరాళం, మద్దతు, దానం, సనాతన ధర్మం",
+      "title": "Donate | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Donate — Support Sanatana Dharma — Articles, translations and concise commentary on Donate. Explore practices, history, and guiding principles at...",
+      "keywords": "Donate, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/donate.png",
-      "url": "https://sanatanadharmam.in/donate"
+      "url": "https://sanatanadharmam.in/donate",
+      "canonical": "https://sanatanadharmam.in/donate"
     },
     "about": {
-      "title": "గురించి — సనాతన ధర్మం",
-      "description": "SanatanaDharma.in యొక్క లక్ష్యం, దృష్టి, ధర్మ గ్రంథాల పరిరక్షణ, వివరణలు, అనువాదాలు మొదలైన విషయాలను ఈ పేజీ వివరిస్తుంది.",
-      "keywords": "గురించి, సనాతన ధర్మం, లక్ష్యం, దృష్టి, శాస్త్రాలు",
+      "title": "About | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "About — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on About. Explore practices, history, and guiding principles at SanatanaDharma.in.",
+      "keywords": "About, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/about.jpg",
-      "url": "https://sanatanadharmam.in/about"
+      "url": "https://sanatanadharmam.in/about",
+      "canonical": "https://sanatanadharmam.in/about"
     },
     "privacy_policy": {
-      "title": "Privacy Policy — Sanatana Dharma",
-      "description": "Privacy Policy — Sanatana Dharma — Articles, translations and concise commentary on Privacy Policy. Explore practices, history, and guiding principles at...",
-      "keywords": "privacy policy, privacy policy meaning, privacy policy summary, privacy policy translation, privacy policy significance, privacy policy history, privacy policy analysis, privacy policy teachings, privacy policy verses, privacy policy quotes",
+      "title": "Privacy Policy | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Privacy Policy — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Privacy Policy. Explore practices, history, and guiding principles at...",
+      "keywords": "Privacy, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/privacy.jpg",
-      "url": "https://sanatanadharmam.in/privacy-policy"
+      "url": "https://sanatanadharmam.in/privacy-policy",
+      "canonical": "https://sanatanadharmam.in/privacy-policy"
     },
     "terms_of_service": {
-      "title": "Terms of Service — Sanatana Dharma",
-      "description": "Terms of Service — Sanatana Dharma — Articles, translations and concise commentary on Terms of Service. Explore practices, history, and guiding principles ...",
-      "keywords": "terms service, terms service meaning, terms service summary, terms service translation, terms service significance, terms service history, terms service analysis, terms service teachings, terms service verses, terms service quotes",
+      "title": "Terms Of Service | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Terms of Service — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Terms of Service. Explore practices, history, and guiding principles ...",
+      "keywords": "Terms of service, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/terms.jpg",
-      "url": "https://sanatanadharmam.in/terms-of-service"
+      "url": "https://sanatanadharmam.in/terms-of-service",
+      "canonical": "https://sanatanadharmam.in/terms-of-service"
     },
     "scriptures": {
-      "title": "Scriptures — Sanatana Dharma",
-      "description": "Scriptures — Gita — Chapter — Chapter — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and...",
-      "keywords": "scriptures gita chapter chapter, scriptures gita chapter chapter meaning, scriptures gita chapter chapter summary, scriptures gita chapter chapter translation, scriptures gita chapter chapter significance, scriptures gita chapter chapter history, scriptures gita chapter chapter analysis, scriptures gita chapter chapter teachings, scriptures gita chapter chapter verses, scriptures gita chapter chapter quotes",
+      "title": "Scriptures | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Gita — Chapter — Chapter — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and...",
+      "keywords": "Scriptures, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-gita-chapter-[chapter].jpg",
-      "url": "https://sanatanadharmam.in/scriptures"
+      "url": "https://sanatanadharmam.in/scriptures",
+      "canonical": "https://sanatanadharmam.in/scriptures"
     },
-    "scriptures/ramayana": {
-      "title": "Ramayana — Valmiki's Epic and Commentary",
+    "scriptures_sanksheparamayana": {
+      "title": "Scriptures | Sankshepa Ramayana — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Ramayana — Valmiki's Epic and Commentary — Articles, translations and concise commentary on Ramayana. Explore practices, history, and guiding principles...",
-      "keywords": "ramayana valmiki epic commentary, ramayana valmiki epic commentary meaning, ramayana valmiki epic commentary summary, ramayana valmiki epic commentary translation, ramayana valmiki epic commentary significance, ramayana valmiki epic commentary history, ramayana valmiki epic commentary analysis, ramayana valmiki epic commentary teachings, ramayana valmiki epic commentary verses, ramayana valmiki epic commentary quotes",
+      "keywords": "Sankshepa Ramayana Slokas, Ramayana Slokas, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/ramayana.png",
-      "url": "https://sanatanadharmam.in/scriptures/ramayana"
+      "url": "https://sanatanadharmam.in/scriptures/ramayana",
+      "canonical": "https://sanatanadharmam.in/scriptures/ramayana"
     },
-    "scriptures/mahabharata": {
-      "title": "Mahabharata — Sanatana Dharma",
-      "description": "Scriptures — Mahabharata — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures mahabharata, scriptures mahabharata meaning, scriptures mahabharata summary, scriptures mahabharata translation, scriptures mahabharata significance, scriptures mahabharata history, scriptures mahabharata analysis, scriptures mahabharata teachings, scriptures mahabharata verses, scriptures mahabharata quotes",
+    "scriptures_ramayana": {
+      "title": "Scriptures | Ramayana — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Ramayana — Valmiki's Epic and Commentary — Articles, translations and concise commentary on Ramayana. Explore practices, history, and guiding principles...",
+      "keywords": "Ramayana, Ramayanam, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogImage": "/og/ramayana.png",
+      "url": "https://sanatanadharmam.in/scriptures/ramayana",
+      "canonical": "https://sanatanadharmam.in/scriptures/ramayana"
+    },
+    "scriptures_mahabharata": {
+      "title": "Scriptures | Mahabharata — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Mahabharata — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "Mahabharata, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-mahabharata.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/mahabharata"
+      "url": "https://sanatanadharmam.in/scriptures/mahabharata",
+      "canonical": "https://sanatanadharmam.in/scriptures/mahabharata"
     },
-    "scriptures/gita": {
-      "title": "Bhagavad Gita — Complete Chapters & Commentary",
+    "scriptures_gita": {
+      "title": "Scriptures | Bhagavad Gita — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Bhagavad Gita — Complete Chapters & Commentary — Articles, translations and concise commentary on Bhagavad Gita. Explore practices, history, and guiding...",
-      "keywords": "bhagavad gita complete chapters commentary, bhagavad gita complete chapters commentary meaning, bhagavad gita complete chapters commentary summary, bhagavad gita complete chapters commentary translation, bhagavad gita complete chapters commentary significance, bhagavad gita complete chapters commentary history, bhagavad gita complete chapters commentary analysis, bhagavad gita complete chapters commentary teachings, bhagavad gita complete chapters commentary verses, bhagavad gita complete chapters commentary quotes",
+      "keywords": "Bhagavad Gita, Gita, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/gita.png",
-      "url": "https://sanatanadharmam.in/scriptures/gita"
+      "url": "https://sanatanadharmam.in/scriptures/gita",
+      "canonical": "https://sanatanadharmam.in/scriptures/gita"
     },
-    "scriptures/upanishads": {
-      "title": "Upanishads — Sanatana Dharma",
-      "description": "Scriptures — Upanishads — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures upanishads, scriptures upanishads meaning, scriptures upanishads summary, scriptures upanishads translation, scriptures upanishads significance, scriptures upanishads history, scriptures upanishads analysis, scriptures upanishads teachings, scriptures upanishads verses, scriptures upanishads quotes",
+    "scriptures_upanishads": {
+      "title": "Scriptures | Upanishads — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Upanishads — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "Upanishads, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-upanishads.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/upanishads"
+      "url": "https://sanatanadharmam.in/scriptures/upanishads",
+      "canonical": "https://sanatanadharmam.in/scriptures/upanishads"
     },
-    "scriptures/vedas": {
-      "title": "Vedas — Rigveda, Yajurveda, Samaveda, Atharvaveda",
+    "scriptures_vedas": {
+      "title": "Scriptures | Vedas — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Vedas — Rigveda, Yajurveda, Samaveda, Atharvaveda — Articles, translations and concise commentary on Vedas. Explore practices, history, and guiding...",
-      "keywords": "vedas rigveda yajurveda samaveda atharvaveda, vedas rigveda yajurveda samaveda atharvaveda meaning, vedas rigveda yajurveda samaveda atharvaveda summary, vedas rigveda yajurveda samaveda atharvaveda translation, vedas rigveda yajurveda samaveda atharvaveda significance, vedas rigveda yajurveda samaveda atharvaveda history, vedas rigveda yajurveda samaveda atharvaveda analysis, vedas rigveda yajurveda samaveda atharvaveda teachings, vedas rigveda yajurveda samaveda atharvaveda verses, vedas rigveda yajurveda samaveda atharvaveda quotes",
+      "keywords": "Vedas, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/vedas.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/vedas"
+      "url": "https://sanatanadharmam.in/scriptures/vedas",
+      "canonical": "https://sanatanadharmam.in/scriptures/vedas"
     },
-    "scriptures/puranas": {
-      "title": "Puranas — Mythology, Cosmology and Lineages",
+    "scriptures_puranas": {
+      "title": "Scriptures | Puranas — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Puranas — Mythology, Cosmology and Lineages — Articles, translations and concise commentary on Puranas. Explore practices, history, and guiding principles ...",
-      "keywords": "puranas mythology cosmology lineages, puranas mythology cosmology lineages meaning, puranas mythology cosmology lineages summary, puranas mythology cosmology lineages translation, puranas mythology cosmology lineages significance, puranas mythology cosmology lineages history, puranas mythology cosmology lineages analysis, puranas mythology cosmology lineages teachings, puranas mythology cosmology lineages verses, puranas mythology cosmology lineages quotes",
+      "keywords": "Puranas, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/puranas.jpg",
-      "url": "https://sanatanadharmam.in/scriptures/puranas"
+      "url": "https://sanatanadharmam.in/scriptures/puranas",
+      "canonical": "https://sanatanadharmam.in/scriptures/puranas"
     },
     "stotrasmantras": {
-      "title": "Stotras & Mantras — Sanatana Dharma",
-      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
-      "keywords": "stotrasmantras dailyprayers, stotrasmantras dailyprayers meaning, stotrasmantras dailyprayers summary, stotrasmantras dailyprayers translation, stotrasmantras dailyprayers significance, stotrasmantras dailyprayers history, stotrasmantras dailyprayers analysis, stotrasmantras dailyprayers teachings, stotrasmantras dailyprayers verses, stotrasmantras dailyprayers quotes",
+      "title": "Stotras & Mantras | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stotrasmantras-dailyPrayers.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras"
+      "url": "https://sanatanadharmam.in/stotrasmantras",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras"
     },
-    "stotrasmantras/devi": {
-      "title": "Devi Stotras — Sanatana Dharma",
-      "description": "Stotrasmantras — Devi — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
-      "keywords": "stotrasmantras devi, stotrasmantras devi meaning, stotrasmantras devi summary, stotrasmantras devi translation, stotrasmantras devi significance, stotrasmantras devi history, stotrasmantras devi analysis, stotrasmantras devi teachings, stotrasmantras devi verses, stotrasmantras devi quotes",
+    "stotrasmantras_devi": {
+      "title": "Stotras & Mantras | Devi — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — Devi — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stotrasmantras-devi.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/devi"
+      "url": "https://sanatanadharmam.in/stotrasmantras/devi",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/devi"
     },
-    "stotrasmantras/ganesha": {
-      "title": "Ganesha Stotras — Sanatana Dharma",
-      "description": "Stotrasmantras — Ganesha — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
-      "keywords": "stotrasmantras ganesha, stotrasmantras ganesha meaning, stotrasmantras ganesha summary, stotrasmantras ganesha translation, stotrasmantras ganesha significance, stotrasmantras ganesha history, stotrasmantras ganesha analysis, stotrasmantras ganesha teachings, stotrasmantras ganesha verses, stotrasmantras ganesha quotes",
+    "stotrasmantras_ganesha": {
+      "title": "Stotras & Mantras | Ganesha — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — Ganesha — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stotrasmantras-ganesha.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/ganesha"
+      "url": "https://sanatanadharmam.in/stotrasmantras/ganesha",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/ganesha"
     },
-    "stotrasmantras/shiva": {
-      "title": "Shiva Stotras — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas shiva, scriptures puranas shiva meaning, scriptures puranas shiva summary, scriptures puranas shiva translation, scriptures puranas shiva significance, scriptures puranas shiva history, scriptures puranas shiva analysis, scriptures puranas shiva teachings, scriptures puranas shiva verses, scriptures puranas shiva quotes",
+    "stotrasmantras_shiva": {
+      "title": "Stotras & Mantras | Shiva — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-puranas-shiva.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/shiva"
+      "url": "https://sanatanadharmam.in/stotrasmantras/shiva",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/shiva"
     },
-    "stotrasmantras/vishnu": {
-      "title": "Vishnu Stotras — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas vishnu, scriptures puranas vishnu meaning, scriptures puranas vishnu summary, scriptures puranas vishnu translation, scriptures puranas vishnu significance, scriptures puranas vishnu history, scriptures puranas vishnu analysis, scriptures puranas vishnu teachings, scriptures puranas vishnu verses, scriptures puranas vishnu quotes",
+    "stotrasmantras_vishnu": {
+      "title": "Stotras & Mantras | Vishnu — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-puranas-vishnu.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/vishnu"
+      "url": "https://sanatanadharmam.in/stotrasmantras/vishnu",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/vishnu"
     },
-    "stotrasmantras/hanuman": {
-      "title": "Hanuman Stotras — Sanatana Dharma",
-      "description": "Stotrasmantras — Hanuman — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
-      "keywords": "stotrasmantras hanuman, stotrasmantras hanuman meaning, stotrasmantras hanuman summary, stotrasmantras hanuman translation, stotrasmantras hanuman significance, stotrasmantras hanuman history, stotrasmantras hanuman analysis, stotrasmantras hanuman teachings, stotrasmantras hanuman verses, stotrasmantras hanuman quotes",
+    "stotrasmantras_hanuman": {
+      "title": "Stotras & Mantras | Hanuman — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — Hanuman — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stotrasmantras-hanuman.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/hanuman"
+      "url": "https://sanatanadharmam.in/stotrasmantras/hanuman",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/hanuman"
     },
-    "stotrasmantras/dailyPrayers": {
-      "title": "Daily Prayers — Sanatana Dharma",
-      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
-      "keywords": "stotrasmantras dailyprayers, stotrasmantras dailyprayers meaning, stotrasmantras dailyprayers summary, stotrasmantras dailyprayers translation, stotrasmantras dailyprayers significance, stotrasmantras dailyprayers history, stotrasmantras dailyprayers analysis, stotrasmantras dailyprayers teachings, stotrasmantras dailyprayers verses, stotrasmantras dailyprayers quotes",
+    "stotrasmantras_dailyPrayers": {
+      "title": "Stotras & Mantras | Daily Prayers — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stotrasmantras — DailyPrayers — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stotrasmantras. Explore practices, history, and guiding ...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stotrasmantras-dailyPrayers.jpg",
-      "url": "https://sanatanadharmam.in/stotrasmantras/dailyPrayers"
+      "url": "https://sanatanadharmam.in/stotrasmantras/dailyPrayers",
+      "canonical": "https://sanatanadharmam.in/stotrasmantras/dailyPrayers"
     },
     "philosophy": {
-      "title": "Philosophy — Sanatana Dharma",
-      "description": "Philosophy — Advaita — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
-      "keywords": "philosophy advaita, philosophy advaita meaning, philosophy advaita summary, philosophy advaita translation, philosophy advaita significance, philosophy advaita history, philosophy advaita analysis, philosophy advaita teachings, philosophy advaita verses, philosophy advaita quotes",
+      "title": "Philosophy | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Advaita — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-advaita.jpg",
-      "url": "https://sanatanadharmam.in/philosophy"
+      "url": "https://sanatanadharmam.in/philosophy",
+      "canonical": "https://sanatanadharmam.in/philosophy"
     },
-    "philosophy/dharma": {
-      "title": "Dharma — Sanatana Dharma",
-      "description": "Philosophy — Dharma — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
-      "keywords": "philosophy, philosophy meaning, philosophy summary, philosophy translation, philosophy significance, philosophy history, philosophy analysis, philosophy teachings, philosophy verses, philosophy quotes",
+    "philosophy_dharma": {
+      "title": "Philosophy | Dharma — Sanatana - Explore Sanatan Dharma",
+      "description": "Philosophy — Dharma — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-dharma.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/dharma"
+      "url": "https://sanatanadharmam.in/philosophy/dharma",
+      "canonical": "https://sanatanadharmam.in/philosophy/dharma"
     },
-    "philosophy/karma": {
-      "title": "Karma — Sanatana Dharma",
-      "description": "Philosophy — Karma — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
-      "keywords": "philosophy karma, philosophy karma meaning, philosophy karma summary, philosophy karma translation, philosophy karma significance, philosophy karma history, philosophy karma analysis, philosophy karma teachings, philosophy karma verses, philosophy karma quotes",
+    "philosophy_karma": {
+      "title": "Philosophy | Karma — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Karma — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-karma.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/karma"
+      "url": "https://sanatanadharmam.in/philosophy/karma",
+      "canonical": "https://sanatanadharmam.in/philosophy/karma"
     },
-    "philosophy/samsara": {
-      "title": "Samsara — Sanatana Dharma",
-      "description": "Philosophy — Samsara — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
-      "keywords": "philosophy samsara, philosophy samsara meaning, philosophy samsara summary, philosophy samsara translation, philosophy samsara significance, philosophy samsara history, philosophy samsara analysis, philosophy samsara teachings, philosophy samsara verses, philosophy samsara quotes",
+    "philosophy_samsara": {
+      "title": "Philosophy | Samsara — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Samsara — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-samsara.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/samsara"
+      "url": "https://sanatanadharmam.in/philosophy/samsara",
+      "canonical": "https://sanatanadharmam.in/philosophy/samsara"
     },
-    "philosophy/moksha": {
-      "title": "Moksha — Sanatana Dharma",
-      "description": "Philosophy — Moksha — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
-      "keywords": "philosophy moksha, philosophy moksha meaning, philosophy moksha summary, philosophy moksha translation, philosophy moksha significance, philosophy moksha history, philosophy moksha analysis, philosophy moksha teachings, philosophy moksha verses, philosophy moksha quotes",
+    "philosophy_moksha": {
+      "title": "Philosophy | Moksha — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Moksha — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-moksha.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/moksha"
+      "url": "https://sanatanadharmam.in/philosophy/moksha",
+      "canonical": "https://sanatanadharmam.in/philosophy/moksha"
     },
-    "philosophy/yoga": {
-      "title": "Yoga — Sanatana Dharma",
-      "description": "Philosophy — Yoga — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
-      "keywords": "philosophy yoga, philosophy yoga meaning, philosophy yoga summary, philosophy yoga translation, philosophy yoga significance, philosophy yoga history, philosophy yoga analysis, philosophy yoga teachings, philosophy yoga verses, philosophy yoga quotes",
+    "philosophy_yoga": {
+      "title": "Philosophy | Yoga — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Yoga — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-yoga.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/yoga"
+      "url": "https://sanatanadharmam.in/philosophy/yoga",
+      "canonical": "https://sanatanadharmam.in/philosophy/yoga"
     },
-    "philosophy/advaita": {
-      "title": "Advaita — Sanatana Dharma",
-      "description": "Philosophy — Advaita — Sanatana Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
-      "keywords": "philosophy advaita, philosophy advaita meaning, philosophy advaita summary, philosophy advaita translation, philosophy advaita significance, philosophy advaita history, philosophy advaita analysis, philosophy advaita teachings, philosophy advaita verses, philosophy advaita quotes",
+    "philosophy_advaita": {
+      "title": "Philosophy | Advaita — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Advaita — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "Advaita, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/philosophy-advaita.jpg",
-      "url": "https://sanatanadharmam.in/philosophy/advaita"
+      "url": "https://sanatanadharmam.in/philosophy/advaita",
+      "canonical": "https://sanatanadharmam.in/philosophy/advaita"
     },
     "practices": {
-      "title": "Practices — Sanatana Dharma",
-      "description": "Practices — Dailypuja — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
-      "keywords": "practices dailypuja, practices dailypuja meaning, practices dailypuja summary, practices dailypuja translation, practices dailypuja significance, practices dailypuja history, practices dailypuja analysis, practices dailypuja teachings, practices dailypuja verses, practices dailypuja quotes",
+      "title": "Practices | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Dailypuja — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
+      "keywords": "Practices, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/practices-dailypuja.jpg",
-      "url": "https://sanatanadharmam.in/practices"
+      "url": "https://sanatanadharmam.in/practices",
+      "canonical": "https://sanatanadharmam.in/practices"
     },
-    "practices/rituals": {
-      "title": "Rituals — Sanatana Dharma",
-      "description": "Practices — Rituals — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
-      "keywords": "practices rituals, practices rituals meaning, practices rituals summary, practices rituals translation, practices rituals significance, practices rituals history, practices rituals analysis, practices rituals teachings, practices rituals verses, practices rituals quotes",
+    "practices_rituals": {
+      "title": "Practices | Rituals — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Rituals — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
+      "keywords": "Rituals, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/practices-rituals.jpg",
-      "url": "https://sanatanadharmam.in/practices/rituals"
+      "url": "https://sanatanadharmam.in/practices/rituals",
+      "canonical": "https://sanatanadharmam.in/practices/rituals"
     },
-    "practices/festivals": {
-      "title": "Festivals — Sanatana Dharma",
-      "description": "Practices — Festivals — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
-      "keywords": "practices festivals, practices festivals meaning, practices festivals summary, practices festivals translation, practices festivals significance, practices festivals history, practices festivals analysis, practices festivals teachings, practices festivals verses, practices festivals quotes",
+    "practices_festivals": {
+      "title": "Practices | Festivals — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Festivals — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
+      "keywords": "Festivals, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/practices-festivals.jpg",
-      "url": "https://sanatanadharmam.in/practices/festivals"
+      "url": "https://sanatanadharmam.in/practices/festivals",
+      "canonical": "https://sanatanadharmam.in/practices/festivals"
     },
-    "practices/dailypuja": {
-      "title": "Daily Puja — Sanatana Dharma",
-      "description": "Practices — Dailypuja — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
-      "keywords": "practices dailypuja, practices dailypuja meaning, practices dailypuja summary, practices dailypuja translation, practices dailypuja significance, practices dailypuja history, practices dailypuja analysis, practices dailypuja teachings, practices dailypuja verses, practices dailypuja quotes",
+    "practices_dailypuja": {
+      "title": "Practices | Daily Puja — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Dailypuja — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles...",
+      "keywords": "Puja, Dailypuja, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/practices-dailypuja.jpg",
-      "url": "https://sanatanadharmam.in/practices/dailypuja"
+      "url": "https://sanatanadharmam.in/practices/dailypuja",
+      "canonical": "https://sanatanadharmam.in/practices/dailypuja"
     },
-    "practices/vastu": {
-      "title": "Vastu — Sanatana Dharma",
-      "description": "Practices — Vastu — Sanatana Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
-      "keywords": "practices vastu, practices vastu meaning, practices vastu summary, practices vastu translation, practices vastu significance, practices vastu history, practices vastu analysis, practices vastu teachings, practices vastu verses, practices vastu quotes",
+    "practices_vastu": {
+      "title": "Practices | Vastu — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Practices — Vastu — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Practices. Explore practices, history, and guiding principles at...",
+      "keywords": "Vastu, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/practices-vastu.jpg",
-      "url": "https://sanatanadharmam.in/practices/vastu"
+      "url": "https://sanatanadharmam.in/practices/vastu",
+      "canonical": "https://sanatanadharmam.in/practices/vastu"
     },
     "stories": {
-      "title": "Stories — Sanatana Dharma",
-      "description": "KidsZone — IllustratedStories — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
-      "keywords": "kidszone illustratedstories, kidszone illustratedstories meaning, kidszone illustratedstories summary, kidszone illustratedstories translation, kidszone illustratedstories significance, kidszone illustratedstories history, kidszone illustratedstories analysis, kidszone illustratedstories teachings, kidszone illustratedstories verses, kidszone illustratedstories quotes",
+      "title": "Stories | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — IllustratedStories — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
+      "keywords": "Stories, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/kidsZone-illustratedStories.jpg",
-      "url": "https://sanatanadharmam.in/stories"
+      "url": "https://sanatanadharmam.in/stories",
+      "canonical": "https://sanatanadharmam.in/stories"
     },
-    "stories/shiva": {
-      "title": "Shiva — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas shiva, scriptures puranas shiva meaning, scriptures puranas shiva summary, scriptures puranas shiva translation, scriptures puranas shiva significance, scriptures puranas shiva history, scriptures puranas shiva analysis, scriptures puranas shiva teachings, scriptures puranas shiva verses, scriptures puranas shiva quotes",
+    "stories_shiva": {
+      "title": "Stories | Shiva — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Shiva — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "Shiva, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-puranas-shiva.jpg",
-      "url": "https://sanatanadharmam.in/stories/shiva"
+      "url": "https://sanatanadharmam.in/stories/shiva",
+      "canonical": "https://sanatanadharmam.in/stories/shiva"
     },
-    "stories/parvati": {
-      "title": "Parvati — Sanatana Dharma",
+    "stories_parvati": {
+      "title": "Stories | Parvati — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Parvati on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "parvati, parvati meaning",
+      "keywords": "Parvati, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/parvati"
+      "url": "https://sanatanadharmam.in/stories/parvati",
+      "canonical": "https://sanatanadharmam.in/stories/parvati"
     },
-    "stories/vishnu": {
-      "title": "Vishnu — Sanatana Dharma",
-      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
-      "keywords": "scriptures puranas vishnu, scriptures puranas vishnu meaning, scriptures puranas vishnu summary, scriptures puranas vishnu translation, scriptures puranas vishnu significance, scriptures puranas vishnu history, scriptures puranas vishnu analysis, scriptures puranas vishnu teachings, scriptures puranas vishnu verses, scriptures puranas vishnu quotes",
+    "stories_vishnu": {
+      "title": "Stories | Vishnu — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Scriptures — Puranas — Vishnu — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Scriptures. Explore practices, history, and guiding...",
+      "keywords": "Vishnu, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/scriptures-puranas-vishnu.jpg",
-      "url": "https://sanatanadharmam.in/stories/vishnu"
+      "url": "https://sanatanadharmam.in/stories/vishnu",
+      "canonical": "https://sanatanadharmam.in/stories/vishnu"
     },
-    "stories/lakshmi": {
-      "title": "Lakshmi — Sanatana Dharma",
+    "stories_lakshmi": {
+      "title": "Stories | Lakshmi — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Lakshmi on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "lakshmi, lakshmi meaning",
+      "keywords": "Lakshmi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/lakshmi"
+      "url": "https://sanatanadharmam.in/stories/lakshmi",
+      "canonical": "https://sanatanadharmam.in/stories/lakshmi"
     },
-    "stories/bramha": {
-      "title": "Brahma — Sanatana Dharma",
+    "stories_bramha": {
+      "title": "Stories | Brahma — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Bramha on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "bramha, bramha meaning",
+      "keywords": "Brahma, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/bramha"
+      "url": "https://sanatanadharmam.in/stories/bramha",
+      "canonical": "https://sanatanadharmam.in/stories/bramha"
     },
-    "stories/saraswati": {
-      "title": "Saraswati — Sanatana Dharma",
+    "stories_saraswati": {
+      "title": "Stories | Saraswati — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Saraswati on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "saraswati, saraswati meaning",
+      "keywords": "Saraswati, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/saraswati"
+      "url": "https://sanatanadharmam.in/stories/saraswati",
+      "canonical": "https://sanatanadharmam.in/stories/saraswati"
     },
-    "stories/krishna": {
-      "title": "Krishna — Sanatana Dharma",
+    "stories_krishna": {
+      "title": "Stories | Krishna — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Krishna on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "krishna, krishna meaning",
+      "keywords": "Krishna, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/krishna"
+      "url": "https://sanatanadharmam.in/stories/krishna",
+      "canonical": "https://sanatanadharmam.in/stories/krishna"
     },
-    "stories/karna": {
-      "title": "Karna — Sanatana Dharma",
+    "stories_karna": {
+      "title": "Stories | Karna — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Karna on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "karna, karna meaning",
+      "keywords": "Karna, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/karna"
+      "url": "https://sanatanadharmam.in/stories/karna",
+      "canonical": "https://sanatanadharmam.in/stories/karna"
     },
-    "stories/parasuram": {
-      "title": "Parashurama — Sanatana Dharma",
+    "stories_parasuram": {
+      "title": "Stories | Parashurama — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Parasuram on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "parasuram, parasuram meaning",
+      "keywords": "Parashurama, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/parasuram"
+      "url": "https://sanatanadharmam.in/stories/parasuram",
+      "canonical": "https://sanatanadharmam.in/stories/parasuram"
     },
-    "stories/bhishma": {
-      "title": "Bhishma — Sanatana Dharma",
+    "stories_bhishma": {
+      "title": "Stories | Bhishma — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Bhishma on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "bhishma, bhishma meaning",
+      "keywords": "Bhishma, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/bhishma"
+      "url": "https://sanatanadharmam.in/stories/bhishma",
+      "canonical": "https://sanatanadharmam.in/stories/bhishma"
     },
-    "stories/vasistamhari": {
-      "title": "Vasista Maharshi — Sanatana Dharma",
+    "stories_vasistamhari": {
+      "title": "Stories | Vasista Maharshi — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Vasistamhari on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "vasistamhari, vasistamhari meaning",
+      "keywords": "Vasista, Maharshi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/vasistamhari"
+      "url": "https://sanatanadharmam.in/stories/vasistamhari",
+      "canonical": "https://sanatanadharmam.in/stories/vasistamhari"
     },
-    "stories/visvamitra": {
-      "title": "Vishvamitra — Sanatana Dharma",
+    "stories_visvamitra": {
+      "title": "Stories | Vishvamitra — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Visvamitra on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "visvamitra, visvamitra meaning",
+      "keywords": "Vishvamitra, Maharshi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/visvamitra"
+      "url": "https://sanatanadharmam.in/stories/visvamitra",
+      "canonical": "https://sanatanadharmam.in/stories/visvamitra"
     },
-    "stories/adishankar": {
-      "title": "Adi Shankaracharya — Sanatana Dharma",
+    "stories_adishankar": {
+      "title": "Stories | Adi Shankaracharya — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Adishankar on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "adishankar, adishankar meaning",
+      "keywords": "Adi, Shankaracharya, Adishankar, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/adishankar"
+      "url": "https://sanatanadharmam.in/stories/adishankar",
+      "canonical": "https://sanatanadharmam.in/stories/adishankar"
     },
-    "stories/ramanamaharshi": {
-      "title": "Ramana Maharshi — Sanatana Dharma",
+    "stories_ramanamaharshi": {
+      "title": "Stories | Ramana Maharshi — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Ramanamaharshi on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "ramanamaharshi, ramanamaharshi meaning",
+      "keywords": "Ramana, Ramanamaharshi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/stories/ramanamaharshi"
+      "url": "https://sanatanadharmam.in/stories/ramanamaharshi",
+      "canonical": "https://sanatanadharmam.in/stories/ramanamaharshi"
     },
-    "stories/moralstories": {
-      "title": "Moral Stories — Sanatana Dharma",
-      "description": "Stories — Moralstories — Sanatana Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at ...",
-      "keywords": "stories moralstories, stories moralstories meaning, stories moralstories summary, stories moralstories translation, stories moralstories significance, stories moralstories history, stories moralstories analysis, stories moralstories teachings, stories moralstories verses, stories moralstories quotes",
+    "stories_moralstories": {
+      "title": "Stories | Moral — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stories — Moralstories — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at ...",
+      "keywords": "Moral, Moral Stories, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stories-moralstories.jpg",
-      "url": "https://sanatanadharmam.in/stories/moralstories"
+      "url": "https://sanatanadharmam.in/stories/moralstories",
+      "canonical": "https://sanatanadharmam.in/stories/moralstories"
     },
-    "stories/puranic": {
-      "title": "Puranic — Sanatana Dharma",
-      "description": "Stories — Puranic — Sanatana Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at...",
-      "keywords": "stories puranic, stories puranic meaning, stories puranic summary, stories puranic translation, stories puranic significance, stories puranic history, stories puranic analysis, stories puranic teachings, stories puranic verses, stories puranic quotes",
+    "stories_puranic": {
+      "title": "Stories | Puranic — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Stories — Puranic — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Stories. Explore practices, history, and guiding principles at...",
+      "keywords": "Puranic, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/stories-puranic.jpg",
-      "url": "https://sanatanadharmam.in/stories/puranic"
+      "url": "https://sanatanadharmam.in/stories/puranic",
+      "canonical": "https://sanatanadharmam.in/stories/puranic"
     },
     "kidsZone": {
-      "title": "Kids Zone — Sanatana Dharma",
-      "description": "KidsZone — Easymantras — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
-      "keywords": "kidszone easymantras, kidszone easymantras meaning, kidszone easymantras summary, kidszone easymantras translation, kidszone easymantras significance, kidszone easymantras history, kidszone easymantras analysis, kidszone easymantras teachings, kidszone easymantras verses, kidszone easymantras quotes",
+      "title": "Kids Zone | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — Easymantras — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
+      "keywords": "Kids, Kidszone, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/kidsZone-easymantras.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone"
+      "url": "https://sanatanadharmam.in/kidsZone",
+      "canonical": "https://sanatanadharmam.in/kidsZone"
     },
-    "kidsZone/illustratedStories": {
-      "title": "Illustrated Stories — Sanatana Dharma",
-      "description": "KidsZone — IllustratedStories — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
-      "keywords": "kidszone illustratedstories, kidszone illustratedstories meaning, kidszone illustratedstories summary, kidszone illustratedstories translation, kidszone illustratedstories significance, kidszone illustratedstories history, kidszone illustratedstories analysis, kidszone illustratedstories teachings, kidszone illustratedstories verses, kidszone illustratedstories quotes",
+    "kidsZone_illustratedStories": {
+      "title": "Kids Zone | Illustrated Stories — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — IllustratedStories — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
+      "keywords": "Illustrated, Illustratedstories, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/kidsZone-illustratedStories.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone/illustratedStories"
+      "url": "https://sanatanadharmam.in/kidsZone/illustratedStories",
+      "canonical": "https://sanatanadharmam.in/kidsZone/illustratedStories"
     },
-    "kidsZone/mythologicalquizzes": {
-      "title": "Mythological Quizzes — Sanatana Dharma",
-      "description": "KidsZone — mythologicalquizzes — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
-      "keywords": "kidszone mythologicalquizzes, kidszone mythologicalquizzes meaning, kidszone mythologicalquizzes summary, kidszone mythologicalquizzes translation, kidszone mythologicalquizzes significance, kidszone mythologicalquizzes history, kidszone mythologicalquizzes analysis, kidszone mythologicalquizzes teachings, kidszone mythologicalquizzes verses, kidszone mythologicalquizzes quotes",
+    "kidsZone_mythologicalquizzes": {
+      "title": "Kids Zone | Mythological Quizzes — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — mythologicalquizzes — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding...",
+      "keywords": "Mythological, Quizzes, Mythologicalquizzes, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/kidsZone-mythologicalquizzes.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone/mythologicalquizzes"
+      "url": "https://sanatanadharmam.in/kidsZone/mythologicalquizzes",
+      "canonical": "https://sanatanadharmam.in/kidsZone/mythologicalquizzes"
     },
-    "kidsZone/easymantras": {
-      "title": "Easy Mantras — Sanatana Dharma",
-      "description": "KidsZone — Easymantras — Sanatana Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
-      "keywords": "kidszone easymantras, kidszone easymantras meaning, kidszone easymantras summary, kidszone easymantras translation, kidszone easymantras significance, kidszone easymantras history, kidszone easymantras analysis, kidszone easymantras teachings, kidszone easymantras verses, kidszone easymantras quotes",
+    "kidsZone_easymantras": {
+      "title": "Kids Zone | Easy Mantras — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "KidsZone — Easymantras — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on KidsZone. Explore practices, history, and guiding principles...",
+      "keywords": "Easy, Easymantras, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/kidsZone-easymantras.jpg",
-      "url": "https://sanatanadharmam.in/kidsZone/easymantras"
+      "url": "https://sanatanadharmam.in/kidsZone/easymantras",
+      "canonical": "https://sanatanadharmam.in/kidsZone/easymantras"
     },
-    "kidsZone/comics": {
-      "title": "Mythology Comics — Sanatana Dharma",
+    "kidsZone_comics": {
+      "title": "Kids Zone | Mythology Comics — Sanatana Dharma - Explore Sanatan Dharma",
       "description": "Learn about Comics on SanatanaDharma.in — articles, translations and commentary.",
-      "keywords": "comics, comics meaning",
+      "keywords": "Comics, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
       "ogImage": "/og/home.png",
-      "url": "https://sanatanadharmam.in/kidsZone/comics"
+      "url": "https://sanatanadharmam.in/kidsZone/comics",
+      "canonical": "https://sanatanadharmam.in/kidsZone/comics"
     }
   }
 }

@@ -1,89 +1,143 @@
 {
   "home": {
+    "SanatanaDharma": {
+      "title": "Sanatana Dharma — Explore Sanatana Dharma",
+      "Definition": "సత్యం, ధర్మం మరియు బ్రహ్మాండ ధర్మాన్ని (కాస్మిక్ ఆర్డర్) నిలబెట్టే ఆధ్యాత్మిక సూత్రాలపై ఆధారపడిన శాశ్వతమైన, విశ్వవ్యాప్త జీవన విధానం.",
+      "Etymology": {
+        "Sanatana": "శాశ్వతం, కాలాతీతం, విశ్వవ్యాప్తం",
+        "Dharma": "నిలబెట్టేది, నిలుపుకునేది; నీతి, నైతిక, ఆధ్యాత్మిక ధర్మం/సూత్రం"
+      },
+      "CorePrinciples": [
+        "సత్యం",
+        "అహింస",
+        "ధర్మం (న్యాయబద్ధ కర్తవ్యము)",
+        "చింతన మరియు చర్యల పవిత్రత",
+        "ఆత్మ జ్ఞానం (ఆత్మసాక్షాత్కారం)"
+      ],
+      "PhilosophicalThemes": [
+        "సర్వ సృష్టి ఏకత్వం",
+        "కర్మ సిద్ధాంతం మరియు పునర్జన్మ",
+        "మోక్షం — జీవితానికి పరమ లక్ష్యం",
+        "భిన్న మార్గాల పట్ల గౌరవం"
+      ],
+      "Scriptures": {
+        "Primary": [
+          "వేదాలు",
+          "ఉపనిషత్తులు",
+          "భగవద్గీత"
+        ],
+        "Secondary": [
+          "స్మృతులు",
+          "పురాణాలు",
+          "ధర్మ శాస్త్రాలు"
+        ]
+      },
+      "Practices": [
+        "యోగ మరియు ధ్యానం",
+        "యజ్ఞం (పవిత్ర కర్మలు)",
+        "భక్తి (భగవద్భక్తి)",
+        "జ్ఞానం (వేదాంత జ్ఞానం)",
+        "సేవ (నిస్వార్థ సేవ)"
+      ],
+      "Values": [
+        "కరుణ",
+        "సహనం",
+        "ప్రకృతితో సమన్వయం",
+        "భౌతికతపై ఆధ్యాత్మిక పురోగతి"
+      ],
+      "UltimateGoal": "మోక్షం — ఆత్మను బ్రహ్మంగా సాక్షాత్కరించడం ద్వారా జనన–మరణ చక్రం నుండి విముక్తి."
+    },
     "hero": {
       "title": "Shiva",
-      "description": "Lord Shiva’s “birth” is symbolic, not historical. He is revered as the eternal, unborn source of consciousness, appearing in forms like Rudra or Jyotirlinga to guide creation. His presence is celebrated in philosophy, yoga, and devotion rather than tied to a specific earthly year or place."
+      "description": "శివుని “జననం” చారిత్రకమైనది కాదు, అది ప్రతీకాత్మకం. ఆయనను శాశ్వతమైన, జన్మరహితమైన చైతన్య మూలంగా పూజిస్తారు. సృష్టిని మార్గనిర్దేశం చేయడానికి రుద్రుడు లేదా జ్యోతిర్లింగం వంటి రూపాలలో అవతరిస్తాడు. ఆయన సాన్నిధ్యం నిర్దిష్ట కాలం లేదా స్థలానికి కాకుండా తత్త్వశాస్త్రం, యోగం మరియు భక్తిలో ఉత్సవంగా ఆచరించబడుతుంది."
     },
     "slides": [
       {
-        "sankritTitle": "ॐ शरवणभवाय नमः",
-        "englishTitle": "(Om Sharavanabhavaya Namah)",
-        "subtitle": "`I bow to Lord Murugan.` The god of war and victory, known for his courage, strength, and wisdom.",
-        "imgSrc": "/images/slider/lord-subramanyaswamy.png",
-        "placementImage": "right"
-      },
-      {
-        "sankritTitle": "ॐ नमः शिवाय",
-        "englishTitle": "(Om Namah Shivaya)",
-        "subtitle": "`I bow to Shiva.` The simplest and most powerful mantra for inner peace, purification, and spiritual awakening.",
-        "imgSrc": "/images/slider/lord-shiva.png",
+        "sankritTitle": "ॐ गणेशाय नमः",
+        "englishTitle": "(ఓం గణేశాయ నమః)",
+        "subtitle": "`నేను శ్రీ గణేశుడికి నమస్కరిస్తున్నాను.` విఘ్నాలను తొలగించే దేవుడు, జ్ఞానం, ఐశ్వర్యం మరియు శుభారంభాల అధిపతి.",
+        "imgSrc": "/images/slider/lord-ganesh.png",
         "placementImage": "left"
       },
       {
         "sankritTitle": "ॐ पार्वत्यै नमः",
-        "englishTitle": "(Om Parvatyai Namah)",
-        "subtitle": "`I bow to Parvati.` The divine mother goddess, symbolizing love, fertility, and devotion.",
+        "englishTitle": "(ఓం పార్వత్యై నమః)",
+        "subtitle": "`నేను పార్వతీ దేవికి నమస్కరిస్తున్నాను.` ప్రేమ, సంతానం, భక్తి యొక్క ప్రతీక అయిన దివ్య తల్లి దేవి.",
         "imgSrc": "/images/slider/lord-shiva-paravathi.png",
         "placementImage": "right"
       },
       {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(ఓం శరవణభవాయ నమః)",
+        "subtitle": "`నేను శ్రీ మురుగన్‌కి నమస్కరిస్తున్నాను.` యుద్ధం మరియు విజయ దేవుడు, ధైర్యం, శక్తి, జ్ఞానం కోసం ప్రసిద్ధుడు.",
+        "imgSrc": "/images/slider/lord-subramanyaswamy.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(ఓం నమః శివాయ)",
+        "subtitle": "`నేను శివుడికి నమస్కరిస్తున్నాను.` అంతర శాంతి, పవిత్రత మరియు ఆధ్యాత్మిక మేల్కొలుపు కోసం అత్యంత శక్తివంతమైన మంత్రం.",
+        "imgSrc": "/images/slider/lord-shiva.png",
+        "placementImage": "right"
+      },
+      {
         "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
-        "englishTitle": "(Om Namo Bhagavate Vasudevaya)",
-        "subtitle": "`I bow to Lord Vasudeva (Krishna).` A powerful mantra for devotion, protection, and spiritual growth.",
+        "englishTitle": "(ఓం నమో భగవతే వాసుదేవాయ)",
+        "subtitle": "`నేను శ్రీ వాసుదేవ (కృష్ణుడు)కి నమస్కరిస్తున్నాను.` భక్తి, రక్షణ మరియు ఆధ్యాత్మిక అభివృద్ధి కోసం శక్తివంతమైన మంత్రం.",
         "imgSrc": "/images/slider/lord-vishnu-lakshmi.png",
         "placementImage": "left"
       },
       {
-        "sankritTitle": "हरे राम हरे राम राम राम हरे हरे। हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे॥",
-        "englishTitle": "(Hare Rama Hare Rama Rama Rama Hare Hare. Hare Krishna Hare Krishna Krishna Krishna Hare Hare.)",
-        "subtitle": "`O Energy of the Lord, O Rama, O Krishna, please engage me in Your devotional service.` This Mahamantra is chanted for **spiritual liberation (Moksha), cleansing the mind of distress, and experiencing divine ecstasy and bliss.**",
-        "imgSrc": "/images/slider/lord-krishna-rada.png",
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(శ్రీ రామ జయ రామ జయ జయ రామ)",
+        "subtitle": "`రాముడికి మహిమ, రాముడికి విజయం, రాముడికి సమస్త విజయాలు.` ఇది ప్రసిద్ధ *తారక మంత్రం*, మోక్షం, అంతర శాంతి మరియు దివ్య రక్షణ కోసం జపించబడుతుంది.",
+        "imgSrc": "/images/slider/lord-rama-sita.png",
         "placementImage": "right"
       },
       {
-        "sankritTitle": "श्री राम जय राम जय जय राम",
-        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
-        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
-        "imgSrc": "/images/slider/lord-rama-sita.png",
-        "placementImage": "left"
-      },
-      {
-        "sankritTitle": "ॐ हनुमते नमः",
-        "englishTitle": "(Om Hanumate Namah)",
-        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
-        "imgSrc": "/images/slider/lord-hanuman.png",
+        "sankritTitle": "हरे राम हरे राम राम राम हरे हरे। हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे॥",
+        "englishTitle": "(హరే రామ హరే రామ రామ రామ హరే హరే. హరే కృష్ణ హరే కృష్ణ కృష్ణ కృష్ణ హరే హరే.)",
+        "subtitle": "`ఓ ప్రభువు శక్తి, ఓ రామా, ఓ కృష్ణా, నన్ను నీ భక్తి సేవలో నిమగ్నం చేయుము.` ఈ మహామంత్రం మోక్షం, మనస్సు శుద్ధి మరియు దివ్య ఆనందం కోసం జపించబడుతుంది.",
+        "imgSrc": "/images/slider/lord-krishna-rada.png",
         "placementImage": "left"
       },
       {
         "sankritTitle": "ॐ सरस्वत्यै नमः",
-        "englishTitle": "(Om Sarasvatyai Namah)",
-        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "englishTitle": "(ఓం సరస్వత్యై నమః)",
+        "subtitle": "`నేను సరస్వతి దేవికి నమస్కరిస్తున్నాను.` జ్ఞానం, సంగీతం, కళలు మరియు విద్య యొక్క దేవి.",
         "imgSrc": "/images/slider/lord-saraswathi.png",
         "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(ఓం హనుమతే నమః)",
+        "subtitle": "`నేను హనుమంతుడికి నమస్కరిస్తున్నాను.` ధైర్యం, శక్తి, జ్ఞానం మరియు అన్ని ప్రమాదాల నుండి రక్షణ కోసం శక్తివంతమైన మూల మంత్రం.",
+        "imgSrc": "/images/slider/lord-hanuman.png",
+        "placementImage": "left"
       }
     ],
     "topics": [
-      "Scriptures",
-      "Stotras & Mantras",
-      "Philosophy",
-      "Practices",
-      "Stories",
-      "and Kids Zone"
+      "శాస్త్రాలు",
+      "స్తోత్రాలు & మంత్రాలు",
+      "తత్త్వశాస్త్రం",
+      "ఆచరణలు",
+      "కథలు",
+      "మరియు పిల్లల విభాగం"
     ],
     "buttons": {
-      "explore": "Scriptures",
-      "learnMore": "Stotras & Mantras"
+      "explore": "శాస్త్రాలు",
+      "learnMore": "స్తోత్రాలు & మంత్రాలు"
     },
-    "aboutTitle": "Om Namah Shivaya.",
-    "aboutTitle2": " Brings peace, strength, and spiritual growth.",
+    "aboutTitle": "ఓం నమః శివాయ.",
+    "aboutTitle2": "శాంతి, బలం మరియు ఆధ్యాత్మిక అభివృద్ధిని అందిస్తుంది.",
     "sections": {
-      "fastDataTitle": "Mantra: Na mah Shivaya. Mantra: Om Tatpurushaya Vidmahe Mahadevaya Dheemahi Tanno Rudrah Prachodayaat",
-      "fastDataDesc": "Na mah Shivaya meaning: The five sacred syllables representing Shiva. Om Tatpurushaya meaning: Meditation on Lord Rudra for wisdom and strength.",
-      "trendsTitle": "Mantra: Om Namo Naraayanaya. Mantra: Om Narayanaya Vidmahe Vasudevaya Dheemahi Tanno Vishnuh Prachodayaat",
-      "trendsDesc": "Om Namo Naraayanaya meaning: I bow to Lord Narayana (Vishnu). Om Narayanaya Vidmahe meaning: Meditation on Lord Vishnu for wisdom and guidance.",
-      "adaptyxTitle": "The Saṅkṣepa Rāmāyaṇa (also called Śataśloki Rāmāyaṇa).",
-      "adaptyxDesc": "Vālmīki asks Nārada: “Who is the greatest person in the world, endowed with all virtues?” Nārada replies by describing Śrī Rāma’s qualities and narrates the entire Ramayana in condensed form. These 100 ślokas are known as Saṅkṣepa Rāmāyaṇa and are often chanted daily or on special occasions like Rama Navami.",
-      "adaptyxProbeDesc": "Opening ślokas: Vālmīki’s questions about the ideal man. Nārada’s reply: Describes Rāma’s virtues (guṇas) and narrates his life: Birth in Ikṣvāku dynasty Marriage to Sītā Exile for 14 years Abduction of Sītā by Rāvaṇa Alliance with Sugrīva and Hanuman War with Rāvaṇa and victory Coronation and righteous rule Ends with Phalaśruti (benefits of chanting)."
+      "fastDataTitle": "మంత్రం: నమః శివాయ. మంత్రం: ఓం తత్పురుషాయ విద్మహే మహాదేవాయ ధీమహి తన్నో రుద్రః ప్రచోదయాత్",
+      "fastDataDesc": "నమః శివాయ అర్థం: శివునిని సూచించే ఐదు పవిత్ర అక్షరాలు. ఓం తత్పురుషాయ అర్థం: జ్ఞానం మరియు బలం కోసం రుద్రునిపై ధ్యానం.",
+      "trendsTitle": "మంత్రం: ఓం నమో నారాయణాయ. మంత్రం: ఓం నారాయణాయ విద్మహే వాసుదేవాయ ధీమహి తన్నో విష్ణుః ప్రచోదయాత్",
+      "trendsDesc": "ఓం నమో నారాయణాయ అర్థం: నేను నారాయణుడికి (విష్ణువు) నమస్కరిస్తున్నాను. ఓం నారాయణాయ విద్మహే అర్థం: జ్ఞానం మరియు మార్గదర్శనం కోసం విష్ణువుపై ధ్యానం.",
+      "adaptyxTitle": "సంక్షేప రామాయణం (శతశ్లోకీ రామాయణం అని కూడా పిలుస్తారు).",
+      "adaptyxDesc": "వాల్మీకి నారదుడిని ప్రశ్నిస్తాడు: “సర్వగుణసంపన్నుడైన ప్రపంచంలో అత్యుత్తమ వ్యక్తి ఎవరు?” నారదుడు శ్రీరాముని గుణాలను వివరిస్తూ, సంపూర్ణ రామాయణాన్ని సంక్షిప్త రూపంలో చెప్పాడు. ఈ 100 శ్లోకాలను సంక్షేప రామాయణం అంటారు; ఇవి రోజూ లేదా రామనవమి వంటి ప్రత్యేక సందర్భాలలో పఠించబడతాయి.",
+      "adaptyxProbeDesc": "ప్రారంభ శ్లోకాలు: ఆదర్శ మనిషి గురించి వాల్మీకి ప్రశ్నలు. నారదుని సమాధానం: రాముని గుణాలను వివరించి ఆయన జీవితాన్ని వివరిస్తాడు — ఇక్ష్వాకు వంశంలో జననం, సీతతో వివాహం, 14 సంవత్సరాల వనవాసం, రావణుని చేత సీత అపహరణ, సుగ్రీవుడు మరియు హనుమంతుడితో మైత్రి, రావణునితో యుద్ధం మరియు విజయం, పట్టాభిషేకం మరియు ధర్మబద్ధమైన పాలన. చివరగా ఫలశ్రుతి (పఠన ఫలితాలు)తో ముగుస్తుంది."
     },
     "shiva": {
       "heading": [
@@ -92,7 +146,7 @@
         "उर्वारुकमिव बन्धनान्",
         "मृत्योर्मुक्षीय माऽमृतात्॥"
       ],
-      "transliteration": "Oṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭi-vardhanam | Urvarukam iva bandhanān mṛtyor mukṣīya māmṛtāt ||"
+      "transliteration": "ఓం త్ర్యంబకం యజామహే సుగంధిం పుష్టి-వర్ధనమ్ | ఉర్వారుకమివ బంధనాన్ మృత్యోర్ ముక్షీయ మామృతాత్ ||"
     },
     "gayathri": {
       "heading": [
@@ -101,8 +155,8 @@
         "भर्गो देवस्य धीमहि",
         "धियो यो नः प्रचोदयात्"
       ],
-      "transliteration": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dheemahi Dhiyo Yo Nah Prachodayat",
-      "translation": "We meditate upon the desirable effulgence of the divine Sun, the impeller. May he stimulate our intellects."
+      "transliteration": "ఓం భూర్భువః స్వః తత్ సవితుర్వరేణ్యం భర్గో దేవస్య ధీమహి ధియో యో నః ప్రచోదయాత్",
+      "translation": "దివ్యమైన సూర్యుని ఆహ్లాదకరమైన తేజస్సును మేము ధ్యానిస్తున్నాము. ఆయన మా బుద్ధిని ప్రేరేపించుగాక."
     },
     "krishnaBg": {
       "heading": [
@@ -111,7 +165,7 @@
         "लक्ष्मीकान्तम् कमलनयनम् योगिभिर्ध्यानगम्यम्।",
         "वन्दे विष्णुम् भवभयहरम् सर्वलोकैकनाथम्॥"
       ],
-      "transliteration": "I bow to Vishnu—Who has a peaceful demeanor (Shanta-karam)..."
+      "transliteration": "శాంత స్వభావముగల విష్ణువుకు నేను నమస్కరిస్తున్నాను (శాంతాకారం)..."
     },
     "krishnaStotram": {
       "title": [
@@ -120,44 +174,44 @@
         "अभ्युत्थानम धर्मस्य",
         "तदात्मानं सृजाम्यहम् ॥"
       ],
-      "transliteration": "Yadā yadā hi dharmasya glānirbhavati bhārata, Abhyutthāna madharmasya tadātmānaṁ sṛjāmyaham.",
-      "credit": "- by Lord Krishna.",
-      "translation": "Whenever and wherever there is a decline in righteousness (Dharma), O descendant of Bharata (Arjuna), and a predominance of unrighteousness (Adharma)—at that time I manifest Myself (take birth)."
+      "transliteration": "యదా యదా హి ధర్మస్య గ్లానిర్భవతి భారత, అభ్యుత్థానం అధర్మస్య తదాత్మానం సృజామ్యహమ్.",
+      "credit": "- శ్రీ కృష్ణుడిచే.",
+      "translation": "భారత వంశజుడా (అర్జునా), ఎప్పుడెప్పుడు ధర్మానికి హాని కలిగి, అధర్మం ప్రబలుతుందో—అప్పుడప్పుడే నేను స్వయంగా అవతరిస్తాను (జన్మిస్తాను)."
     },
     "shivaHeading": [
-      "Shiva as the",
-      "Supreme Being.",
-      "He is the ultimate",
-      "reality, beyond",
-      "time and space."
+      "శివుడు",
+      "పరమాత్మగా.",
+      "ఆయనే పరమమైన",
+      "సత్యం, కాలం",
+      "మరియు స్థలాన్ని మించినవాడు."
     ],
     "stat1": "10,00,000+",
-    "stat1Desc": "More than one million Shiva Temples in India",
+    "stat1Desc": "భారతదేశంలో పదిలక్షలకు పైగా శివాలయాలు",
     "stat2": "10,000+",
-    "stat2Desc": "Thousands of Hindu temples outside India",
+    "stat2Desc": "భారతదేశం వెలుపల వేలాది హిందూ దేవాలయాలు",
     "stat3": "10+",
-    "stat3Desc": "top most Shiva temples outside India with locations and unique features.",
+    "stat3Desc": "భారతదేశం వెలుపల ఉన్న ప్రముఖ శివాలయాలు — వాటి స్థలాలు మరియు ప్రత్యేక లక్షణాలతో.",
     "lingamText": [
-      "Lingam: Abstract representation",
-      "of Shiva. Nataraja: Cosmic",
-      "dancer symbolizing rhythm",
-      "of creation",
-      "and destruction."
+      "లింగం: శివుని",
+      "సారాంశాత్మక ప్రతిరూపం. నటరాజు:",
+      "సృష్టి యొక్క లయను సూచించే",
+      "కాస్మిక్ నర్తకుడు",
+      "మరియు లయ."
     ],
     "ourFourCoreYugas": {
-      "title": "Our Four Core Yuga's",
-      "satyaTitle": "Satya Yuga (Golden Age):",
-      "satyaDuration": "Duration of Satya Yuga:",
-      "satyaDesc": "The first and best age, characterized by truth, righteousness (dharma), long life, health, and divine connection.",
-      "tretaTitle": "Treta Yuga (Silver Age):",
-      "tretaDuration": "Duration of Treta Yuga:",
-      "tretaDesc": "A slight decline from Satya Yuga; the time of the Ramayana, with less spiritual perfection.",
-      "dvaparaTitle": "Dvapara Yuga (Bronze Age):",
-      "dvaparaDuration": "Duration of Dvapara Yuga:",
-      "dvaparaDesc": "Further decline; shorter lives, more conflict; the era of the Mahabharata and Krishna's departure.",
-      "kaliTitle": "Kali Yuga (Iron Age):",
-      "kaliDuration": "Duration of Kali Yuga:",
-      "kaliDesc": "The current age, marked by strife, ignorance, and materialism; spiritual practices are more difficult but still possible."
+      "title": "మన నాలుగు ప్రధాన యుగాలు",
+      "satyaTitle": "సత్యయుగం (సువర్ణ యుగం):",
+      "satyaDuration": "సత్యయుగం వ్యవధి:",
+      "satyaDesc": "మొదటి మరియు ఉత్తమ యుగం; సత్యం, ధర్మం, దీర్ఘాయువు, ఆరోగ్యం మరియు దైవ సంబంధంతో లక్షణంగా ఉంటుంది.",
+      "tretaTitle": "త్రేతాయుగం (రజత యుగం):",
+      "tretaDuration": "త్రేతాయుగం వ్యవధి:",
+      "tretaDesc": "సత్యయుగంతో పోలిస్తే స్వల్ప పతనం; రామాయణ కాలం, ఆధ్యాత్మిక సంపూర్ణత కొంత తగ్గిన యుగం.",
+      "dvaparaTitle": "ద్వాపరయుగం (కంచు యుగం):",
+      "dvaparaDuration": "ద్వాపరయుగం వ్యవధి:",
+      "dvaparaDesc": "మరింత పతనం; తక్కువ ఆయుష్షు, ఎక్కువ సంఘర్షణలు; మహాభారత కాలం మరియు కృష్ణుని నిర్యాణం జరిగిన యుగం.",
+      "kaliTitle": "కలియుగం (ఇనుప యుగం):",
+      "kaliDuration": "కలియుగం వ్యవధి:",
+      "kaliDesc": "ప్రస్తుత యుగం; కలహాలు, అజ్ఞానం మరియు భౌతికాసక్తితో గుర్తించబడుతుంది. ఆధ్యాత్మిక సాధనలు కఠినమైనప్పటికీ సాధ్యమే."
     }
   }
 }
