@@ -8,6 +8,7 @@
       "scriptures": {
         "title": "Écritures",
         "nav": {
+          "sanksheparamayanam": "Sankshepa Ramayana",
           "ramayana": "Ramayana",
           "mahabharata": "Mahabharata",
           "gita": "Bhagavad Gita",
@@ -55,7 +56,8 @@
           "vishnu": "Vishnu",
           "lakshmi": "Lakshmi",
           "bramha": "Brahma",
-          "saraswati": "Saraswati"
+          "saraswati": "Saraswati",
+          "krishna": "Krishna"
         }
       },
       "kidsZone": {

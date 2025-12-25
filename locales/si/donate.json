@@ -18,7 +18,7 @@
     "accountNumber": "32160808608",
     "ifscLabel": "IFSC:",
     "ifsc": "SBIN0010677",
-    "expansesTitle": "Expanses:",
+    "expansesTitle": "Expanses",
     "table": {
       "name": "Name",
       "expanses": "Expanses",

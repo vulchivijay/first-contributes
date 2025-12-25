@@ -8,6 +8,7 @@
       "scriptures": {
         "title": "शास्त्राणि",
         "nav": {
+          "sanksheparamayanam": "Sankshepa Ramayana",
           "ramayana": "रामायणम्",
           "mahabharata": "महाभारतम्",
           "gita": "भगवद्गीता",
@@ -55,7 +56,8 @@
           "vishnu": "Vishnu",
           "lakshmi": "Lakshmi",
           "bramha": "Brahma",
-          "saraswati": "Saraswati"
+          "saraswati": "Saraswati",
+          "krishna": "Krishna"
         }
       },
       "kidsZone": {
