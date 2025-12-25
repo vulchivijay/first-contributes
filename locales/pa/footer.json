@@ -8,6 +8,7 @@
       "scriptures": {
         "title": "ਧਾਰਮਿਕ ਗ੍ਰੰਥ",
         "nav": {
+          "sanksheparamayanam": "Sankshepa Ramayana",
           "ramayana": "ਰਾਮਾਇਣ",
           "mahabharata": "ਮਹਾਭਾਰਤ",
           "gita": "ਭਗਵਦ ਗੀਤਾ",
@@ -55,7 +56,8 @@
           "vishnu": "Vishnu",
           "lakshmi": "Lakshmi",
           "bramha": "Brahma",
-          "saraswati": "Saraswati"
+          "saraswati": "Saraswati",
+          "krishna": "Krishna"
         }
       },
       "kidsZone": {

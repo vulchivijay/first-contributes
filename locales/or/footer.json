@@ -8,6 +8,7 @@
       "scriptures": {
         "title": "ଧାର୍ମିକ ଗ୍ରନ୍ଥ",
         "nav": {
+          "sanksheparamayanam": "Sankshepa Ramayana",
           "ramayana": "ରାମାୟଣ",
           "mahabharata": "ମହାଭାରତ",
           "gita": "ଭଗବଦ୍ ଗୀତା",
@@ -55,7 +56,8 @@
           "vishnu": "Vishnu",
           "lakshmi": "Lakshmi",
           "bramha": "Brahma",
-          "saraswati": "Saraswati"
+          "saraswati": "Saraswati",
+          "krishna": "Krishna"
         }
       },
       "kidsZone": {
