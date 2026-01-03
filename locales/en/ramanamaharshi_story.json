@@ -1,0 +1,114 @@
+{
+  "ramanamaharshi_story": {
+    "meta": {
+      "title": "Stories | Ramana Maharshi — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Learn about Ramanamaharshi on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "Ramana, Ramanamaharshi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/stories/ramanamaharshi",
+      "canonical": "https://sanatanadharmam.in/stories/ramanamaharshi"
+    },
+    "role": "Modern Advaita Vedanta Sage, Teacher of Self-Inquiry",
+    "lineage": {
+      "birth": {
+        "name": "Venkataraman Iyer",
+        "place": "Tiruchuli, Tamil Nadu",
+        "year": "1879"
+      },
+      "realization": {
+        "event": "Spontaneous awakening at age 16 after a near-death experience",
+        "insight": "Realized the Self as deathless, pure consciousness"
+      }
+    },
+    "significance": {
+      "titles": [
+        "Bhagavan",
+        "Maharshi"
+      ],
+      "coreidentity": [
+        "Advocate of Atma-Vichara (Self-Inquiry)",
+        "Silent teacher of non-dual truth",
+        "Established Arunachala as a spiritual center"
+      ]
+    },
+    "philosophicalthemes": [
+      "Self alone is real; ego is an illusion",
+      "Liberation through Self-Inquiry: 'Who am I?'",
+      "Silence as the highest teaching"
+    ],
+    "majorworks": [
+      "Upadesa Saram (Essence of Instruction)",
+      "Nan Yar? (Who am I?)",
+      "Forty Verses on Reality"
+    ],
+    "keyteachings": [
+      {
+        "concept": "Atma-Vichara",
+        "description": "Investigate the source of the 'I' thought to realize the Self"
+      },
+      {
+        "concept": "Silence",
+        "description": "True teaching is beyond words; silence conveys the highest truth"
+      },
+      {
+        "concept": "Surrender",
+        "description": "Complete surrender to the Self or God leads to liberation"
+      }
+    ],
+    "textsandverses": [
+      {
+        "name": "Who am I?",
+        "verse": "नान् यार्?",
+        "transliteration": "Nan Yar?",
+        "meaning": "Who am I? The core question for Self-Inquiry."
+      },
+      {
+        "name": "Upadesa Saram",
+        "verse": "कर्म कृतं कर्मणां फलदं।",
+        "transliteration": "Karma kritam karmanaam phalam",
+        "meaning": "Action yields fruit according to its nature; liberation comes only through knowledge."
+      },
+      {
+        "name": "Forty Verses",
+        "verse": "अहम् अहं अयम् अहम्।",
+        "transliteration": "Aham Aham Ayam Aham",
+        "meaning": "The 'I-I' shines as the Self when the ego subsides."
+      }
+    ],
+    "attributes": {
+      "virtues": [
+        "Compassion",
+        "Detachment",
+        "Simplicity",
+        "Wisdom"
+      ],
+      "iconography": [
+        "Seated in silence at Arunachala",
+        "Radiant calm expression",
+        "Minimalistic lifestyle"
+      ]
+    },
+    "timeline": [
+      {
+        "phase": "Birth",
+        "event": "Born in Tiruchuli, Tamil Nadu in 1879"
+      },
+      {
+        "phase": "Realization",
+        "event": "At age 16, experienced ego-death and awakening"
+      },
+      {
+        "phase": "Arunachala",
+        "event": "Moved to Arunachala Hill; lived in caves in deep meditation"
+      },
+      {
+        "phase": "Teaching",
+        "event": "Taught Self-Inquiry through silence and brief instructions"
+      },
+      {
+        "phase": "Later Life",
+        "event": "Established Ramanashram; continued guiding seekers until Mahasamadhi in 1950"
+      }
+    ]
+  }
+}

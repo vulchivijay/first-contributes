@@ -1,0 +1,101 @@
+{
+  "parashurama_story": {
+    "meta": {
+      "title": "Stories | Parashurama — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Learn about Parasuram on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "Parashurama, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/stories/parasuram",
+      "canonical": "https://sanatanadharmam.in/stories/parasuram"
+    },
+    "role": "Sixth Avatar of Vishnu, Warrior Sage",
+    "connectiontoepics": {
+      "ramayana": "Mentor to warriors, appears during Sita's swayamvara to challenge Rama.",
+      "mahabharata": "Guru to Karna and other warriors; curses Karna for lying about his lineage."
+    },
+    "attributes": {
+      "weapons": [
+        "Parashu (Battle Axe)",
+        "Bow and arrows"
+      ],
+      "virtues": [
+        "Justice",
+        "Discipline",
+        "Wrath against Adharma"
+      ],
+      "iconography": [
+        "Holding an axe",
+        "Dressed as a sage",
+        "Fiery temperament"
+      ]
+    },
+    "lifethemes": [
+      "Destroyer of Kshatriyas who abused power",
+      "Protector of Dharma",
+      "Teacher of martial arts and astras"
+    ],
+    "majorstories": [
+      {
+        "event": "Avenging his father’s death",
+        "description": "Killed Kshatriyas 21 times to restore balance after his father was slain."
+      },
+      {
+        "event": "Teaching Karna",
+        "description": "Imparted knowledge of astras to Karna, later cursed him for deceit."
+      },
+      {
+        "event": "Encounter with Rama",
+        "description": "Challenged Rama after breaking Shiva’s bow; recognized Rama as Vishnu’s avatar."
+      }
+    ],
+    "cursesgiven": [
+      {
+        "recipient": "Karna",
+        "reason": "Lied about being a Brahmin to learn astras.",
+        "consequence": "Would forget Brahmastra mantra at a crucial moment."
+      }
+    ],
+    "mantras": [
+      {
+        "name": "Parashurama Invocation",
+        "text": "ॐ परशुरामाय नमः।",
+        "transliteration": "Om Parashuramaya Namah",
+        "meaning": "Salutation to Parashurama, the warrior sage."
+      }
+    ],
+    "timeline": [
+      {
+        "phase": "Birth",
+        "event": "Born to sage Jamadagni and Renuka; blessed with divine strength and an axe from Shiva."
+      },
+      {
+        "phase": "Early Life",
+        "event": "Trained in warfare and Vedic knowledge; deeply devoted to Shiva."
+      },
+      {
+        "phase": "Father’s Murder",
+        "event": "Kshatriya king Kartavirya Arjuna kills Jamadagni; Parashurama vows revenge."
+      },
+      {
+        "phase": "Kshatriya Extermination",
+        "event": "Destroys Kshatriya clans 21 times to avenge his father and restore dharma."
+      },
+      {
+        "phase": "Donation of Earth",
+        "event": "Gives away conquered lands to Brahmins; retreats to penance."
+      },
+      {
+        "phase": "Teaching Phase",
+        "event": "Becomes guru to great warriors including Karna, Bhishma, and Drona."
+      },
+      {
+        "phase": "Encounter with Rama",
+        "event": "Challenges Rama after Shiva’s bow is broken; realizes Rama is Vishnu’s avatar and withdraws."
+      },
+      {
+        "phase": "Later Life",
+        "event": "Continues as a sage; immortal and present in many legends."
+      }
+    ]
+  }
+}

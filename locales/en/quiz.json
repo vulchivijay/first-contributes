@@ -1,0 +1,22 @@
+{
+  "quiz": {
+    "loading": "Loading questions…",
+    "preparing": "Preparing quiz…",
+    "readytitle": "Ready for the Quiz?",
+    "readydescription": "You will be asked {count} random questions. You have {time} to complete the quiz.",
+    "start": "Start Quiz",
+    "shuffle": "Shuffle Questions",
+    "resultstitle": "Quiz Results",
+    "yourscore": "Your score:",
+    "timetaken": "Time taken:",
+    "correcttag": "(Correct)",
+    "yourchoicetag": "(Your choice)",
+    "restart": "Restart Quiz",
+    "questioncounter": "Question {current} / {total}",
+    "timeleftlabel": "Time left:",
+    "previous": "Previous",
+    "next": "Next",
+    "finish": "Finish",
+    "answered": "Answered: {answered} / {total}"
+  }
+}

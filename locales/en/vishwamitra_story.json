@@ -1,0 +1,97 @@
+{
+  "vishwamitra_story": {
+    "meta": {
+      "title": "Stories | Vishvamitra — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Learn about Visvamitra on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "Vishvamitra, Maharshi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/stories/visvamitra",
+      "canonical": "https://sanatanadharmam.in/stories/visvamitra"
+    },
+    "role": "Vedic Sage, Brahmarshi (after intense penance), Creator of Gayatri Mantra",
+    "lineage": {
+      "birth": "Born as a Kshatriya prince, son of King Gadhi",
+      "transformation": "Elevated from Kshatriya to Brahmarshi through tapas (austerity)"
+    },
+    "significance": {
+      "titles": [
+        "Rajarshi",
+        "Brahmarshi"
+      ],
+      "coreidentity": [
+        "Embodiment of determination and spiritual ascension",
+        "Author of Gayatri Mantra in Rigveda"
+      ]
+    },
+    "scripturalconnections": {
+      "rigveda": "Composed hymns including Gayatri Mantra",
+      "ramayana": "Mentor to Rama and Lakshmana; guided them in killing demons and acquiring divine weapons",
+      "puranas": "Known for rivalry and eventual reconciliation with Vasishta"
+    },
+    "philosophicalthemes": [
+      "Power of will and austerity",
+      "Equality of spiritual attainment beyond birth",
+      "Role of tapas in transcending limitations"
+    ],
+    "majorstories": [
+      {
+        "event": "Conflict with Vasishta",
+        "description": "Attempted to seize Kamadhenu; defeated by Vasishta’s spiritual power; inspired to pursue Brahmarshi status"
+      },
+      {
+        "event": "Creation of Trishanku Swarga",
+        "description": "Created a parallel heaven for King Trishanku through sheer tapas"
+      },
+      {
+        "event": "Mentorship of Rama",
+        "description": "Taught Rama and Lakshmana divine astras; guided them to protect yajnas"
+      }
+    ],
+    "textsandteachings": [
+      {
+        "name": "Gayatri Mantra",
+        "text": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+        "transliteration": "Om Bhur Bhuvah Svah, Tat Savitur Varenyam, Bhargo Devasya Dhimahi, Dhiyo Yo Nah Prachodayat",
+        "meaning": "We meditate on the divine light of Savitar; may it inspire and guide our intellect."
+      },
+      {
+        "name": "Verse on Tapas",
+        "text": "तपसा ब्रह्म विजिग्ये।",
+        "transliteration": "Tapasa Brahma Vijigye",
+        "meaning": "Through austerity, Brahman (ultimate reality) is realized."
+      },
+      {
+        "name": "Verse on Equality",
+        "text": "न जात्या ब्राह्मणो भवति।",
+        "transliteration": "Na Jatya Brahmano Bhavati",
+        "meaning": "One does not become a Brahmin by birth, but by conduct and knowledge."
+      }
+    ],
+    "timeline": [
+      {
+        "phase": "Birth",
+        "event": "Born as a Kshatriya prince in Gadhi's lineage"
+      },
+      {
+        "phase": "Conflict with Vasishta",
+        "event": "Defeated in attempt to seize Kamadhenu; resolves to become Brahmarshi"
+      },
+      {
+        "phase": "Tapas and Ascension",
+        "event": "Performs severe penance; earns title of Brahmarshi after long struggle"
+      },
+      {
+        "phase": "Creation of Trishanku Swarga",
+        "event": "Demonstrates power of tapas by creating a parallel heaven"
+      },
+      {
+        "phase": "Mentorship of Rama",
+        "event": "Guides Rama and Lakshmana; imparts divine weapons and wisdom"
+      },
+      {
+        "phase": "Later Life",
+        "event": "Revered as Brahmarshi; author of Gayatri Mantra; symbol of spiritual equality"
+      }
+    ]
+  }
+}

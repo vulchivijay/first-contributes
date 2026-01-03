@@ -1,0 +1,13 @@
+{
+  "contactform": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "placeholdername": "Your name",
+    "placeholderemail": "you@example.com",
+    "placeholdermessage": "Tell us how we can help...",
+    "sending": "Sending...",
+    "sendmessage": "Send Message",
+    "visitor": "Visitor"
+  }
+}

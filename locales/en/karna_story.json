@@ -1,0 +1,132 @@
+{
+  "karna_story": {
+    "meta": {
+      "title": "Stories | Karna — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Learn about Karna on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "Karna, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/stories/karna",
+      "canonical": "https://sanatanadharmam.in/stories/karna"
+    },
+    "role": "Great warrior, son of Surya (Sun God), loyal friend of Duryodhana",
+    "connectiontomahabharata": {
+      "birth": {
+        "mother": "Kunti",
+        "father": "Surya",
+        "circumstances": "Born with divine armor (Kavacha) and earrings (Kundala), abandoned and raised by a charioteer."
+      },
+      "lifethemes": [
+        "Tragedy of identity",
+        "Unmatched generosity",
+        "Loyalty and honor",
+        "Conflict between Dharma and friendship"
+      ],
+      "keyevents": [
+        "Gifted away his divine armor to Indra",
+        "Crowned King of Anga by Duryodhana",
+        "Fought valiantly in Kurukshetra war"
+      ]
+    },
+    "philosophicalsignificance": [
+      "Represents fate vs free will",
+      "Embodiment of charity and sacrifice",
+      "Symbol of loyalty even at personal cost"
+    ],
+    "majordilemmas": [
+      {
+        "name": "Identity Crisis",
+        "description": "Born as a Kshatriya but raised as a charioteer’s son, Karna faced rejection and humiliation despite his warrior skills."
+      },
+      {
+        "name": "Loyalty to Duryodhana",
+        "description": "Bound by gratitude to Duryodhana, Karna chose friendship over righteousness, even when he knew Duryodhana’s actions were unjust."
+      },
+      {
+        "name": "Refusal to Join Pandavas",
+        "description": "When Kunti revealed his true identity before the war, Karna refused to abandon Duryodhana, prioritizing loyalty over blood ties."
+      },
+      {
+        "name": "Gift of Armor and Earrings",
+        "description": "Karna gave away his divine protection to Indra, knowing it would cost him his life, upholding his vow of generosity."
+      },
+      {
+        "name": "Curses Impacting Fate",
+        "description": "Cursed by a Brahmin and his guru Parashurama, Karna faced inevitable defeat despite his valor and skill."
+      }
+    ],
+    "cursesandconsequences": [
+      {
+        "curse": "Brahmin’s Curse",
+        "reason": "Accidentally killed a cow mistaking it for a wild animal.",
+        "consequence": "Cursed that his chariot wheel would sink in battle, leading to his vulnerability during the war."
+      },
+      {
+        "curse": "Parashurama’s Curse",
+        "reason": "Lied about his lineage to learn archery from Parashurama.",
+        "consequence": "Cursed that he would forget the Brahmastra mantra at a crucial moment in battle."
+      },
+      {
+        "curse": "Mother Earth’s Curse",
+        "reason": "Insulted a woman by pulling her by the hair.",
+        "consequence": "Cursed that the earth would trap his chariot wheel during the war."
+      }
+    ],
+    "mantrasandinvocations": [
+      {
+        "name": "Surya Mantra (for Karna’s lineage)",
+        "text": "ॐ सूर्याय नमः।",
+        "transliteration": "Om Suryaya Namah",
+        "meaning": "Salutation to Surya, the Sun God."
+      }
+    ],
+    "attributes": {
+      "virtues": [
+        "Generosity",
+        "Valor",
+        "Loyalty"
+      ],
+      "weapons": [
+        "Vijaya Bow",
+        "Nagastram"
+      ],
+      "iconography": [
+        "Golden armor and earrings",
+        "Charioteer background"
+      ]
+    },
+    "timeline": [
+      {
+        "phase": "Birth",
+        "event": "Born to Kunti and Surya with divine armor and earrings; abandoned and set afloat in a river."
+      },
+      {
+        "phase": "Childhood",
+        "event": "Raised by Adhiratha and Radha, a charioteer family; trained in archery secretly."
+      },
+      {
+        "phase": "Youth",
+        "event": "Rejected by Dronacharya due to low birth; cursed by Parashurama after lying about lineage."
+      },
+      {
+        "phase": "Recognition",
+        "event": "Humiliated during archery contest; befriended by Duryodhana who crowns him King of Anga."
+      },
+      {
+        "phase": "Generosity",
+        "event": "Gives away his divine armor and earrings to Indra, knowing it will cost him his life."
+      },
+      {
+        "phase": "War Preparations",
+        "event": "Refuses Kunti’s offer to join Pandavas; pledges loyalty to Duryodhana."
+      },
+      {
+        "phase": "Kurukshetra War",
+        "event": "Fights valiantly; forgets Brahmastra mantra due to curse; chariot wheel sinks; killed by Arjuna."
+      },
+      {
+        "phase": "Legacy",
+        "event": "Remembered as the greatest giver (Daanveer) and tragic hero of Mahabharata."
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "policies": {
+    "cookiepolicy": {
+      "title": "Cookie Policy",
+      "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
+      "whatarecookies": "What are cookies?",
+      "typesheading": "Types of cookies we use",
+      "types": {
+        "strictlynecessary": "Strictly necessary: Required for the site to function.",
+        "functionality": "Functionality: Remember choices and preferences.",
+        "performance": "Performance: Help us analyze traffic and performance.",
+        "targeting": "Targeting: Used for advertising and personalization."
+      },
+      "managing": "Managing your preferences",
+      "managingdesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+      "datasharing": "Data sharing",
+      "datasharingdesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
+      "lastupdated": "Last updated: {date}"
+    },
+    "privacypolicy": {
+      "title": "Privacy Policy",
+      "intro": "This Privacy Policy outlines how we collect, use and protect your personal information.",
+      "informationheading": "Information we collect",
+      "informationdesc": "We collect information you provide, cookies, and anonymized analytics data to improve the service.",
+      "howweuse": "How we use information",
+      "howweusedesc": "Information is used to operate, maintain and provide the features of the website, and to analyze usage patterns.",
+      "yourrights": "Your rights",
+      "yourrightsdesc": "You can request access, correction or deletion of your personal data by contacting us on the site.",
+      "lastupdated": "Last updated: {date}"
+    }
+  }
+}

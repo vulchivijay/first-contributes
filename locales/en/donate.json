@@ -1,0 +1,114 @@
+{
+  "donate": {
+    "meta": {
+      "title": "Donate | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Donate — Support Sanatana Dharma — Articles, translations and concise commentary on Donate. Explore practices, history, and guiding principles at...",
+      "keywords": "Donate, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/donate.png",
+      "url": "https://sanatanadharmam.in/donate",
+      "canonical": "https://sanatanadharmam.in/donate"
+    },
+    "title": "Donate Us",
+    "lead": "Your support helps keep the content free and accessible. Thank you for considering a donation.",
+    "description": "Sanatanadharmam.in is maintained as a public service to preserve and share the teachings, scriptures, and devotional resources of Sanātana Dharma. Keeping this work available requires time, hosting, content curation, formatting, and modest operational costs. Donations help cover these costs and enable us to expand audio recordings, transliteration tools, translations, and community outreach. We welcome contributions of any size and are committed to transparency regarding how funds are utilized.\n\nThis donation page explains the different ways you can support the project, the principles that guide our spending, and the practical impact your contribution can make. We aim to be clear about recurring and one-time support, to provide secure channels for transfers, and to offer guidance on how donations are allocated. If you'd like a tax receipt or official documentation, please contact us using the `contactPage` channel so we can advise depending on your location and the nature of support.\n\nWe deeply appreciate voluntary giving. Many donors support specific activities such as website hosting, domain renewal, audio production, typesetting and proofreading of Sanskrit texts, and platform services that keep the site fast and secure. Some donors choose to contribute to translation projects, or to sponsor the digitization of a particular text. Wherever possible we try to surface sponsorship opportunities so donors can support work that matters most to them.",
+    "onetime": "One-time donation",
+    "onetimelead": "Use the button below to make a secure one-time donation via PayPal.",
+    "donatewithpaypal": "Donate with PayPal",
+    "upibank": "UPI / Bank transfer",
+    "upilead": "If you prefer direct transfer, use the details below.",
+    "recurring": "Recurring support",
+    "recurringlead": "Consider monthly support via Patreon or a similar platform. Add your recurring link where indicated below.",
+    "becomemonthly": "Become a monthly supporter",
+    "upilabel": "UPI ID:",
+    "upiid": "8099181075@ybl",
+    "accountnamelabel": "Account name:",
+    "accountname": "VIJAYA KUMAR VULCHI",
+    "accountnumberlabel": "Account number:",
+    "accountnumber": "32160808608",
+    "ifsclabel": "IFSC:",
+    "ifsc": "SBIN0010677",
+    "expansestitle": "Expenses",
+    "table": {
+      "name": "Name",
+      "expanses": "Expanses",
+      "duration": "Duration",
+      "reasons": "Reasons/Provider"
+    },
+    "expenses": [
+      {
+        "name": "Domain",
+        "expanses": "3,500 Rupees",
+        "duration": "3 Years",
+        "provider": "Hostinger"
+      },
+      {
+        "name": "Github Copilot",
+        "expanses": "Basic Free Plan",
+        "duration": "Monthly renew",
+        "provider": "Github"
+      },
+      {
+        "name": "Github",
+        "expanses": "Open source gh-pages",
+        "duration": "Unlimited",
+        "provider": "Github"
+      },
+      {
+        "name": "Gemini AI",
+        "expanses": "Basic Free Plan",
+        "duration": "Daily renew",
+        "provider": "Google"
+      },
+      {
+        "name": "Office 365 Copilot",
+        "expanses": "Basic Free Plan",
+        "duration": "Daily renew",
+        "provider": "Microsoft"
+      },
+      {
+        "name": "Meta AI",
+        "expanses": "Basic Free Plan",
+        "duration": "Daily renew",
+        "provider": "Facebook"
+      }
+    ],
+    "orlabel": "(Or)",
+    "transparency": {
+      "overview": "We believe donors have a right to know how funds are used. Our approach to transparency includes: regular updates on major expenses, an accessible breakdown of recurring costs, and optional donor reports for larger grants or sponsorships. We maintain this information on the site and include notes in periodic updates.",
+      "typicalallocation": [
+        "Hosting, CDN and domain renewals: ensures fast and reliable access worldwide",
+        "Content production: audio recording, transliteration and proofreading",
+        "Development and maintenance: bug fixes, feature updates, and accessibility improvements",
+        "Outreach and administration: communication, partnership coordination, and minimal administrative costs"
+      ],
+      "reporting": "For significant donations we can provide a short report describing how funds were allocated (for example, 'audio recording of 10 stotras' or 'hosting for 12 months'). Smaller donations are pooled to cover ongoing operational expenses. If you require formal accounting documents, please contact us with your details so we can advise on what we are able to provide.",
+      "privacyandsecurity": "We process donation details only as necessary for payment and record-keeping. We do not sell donor information. Personal data required for financial transactions is stored securely and retained only for as long as required for accounting and legal purposes. If you request anonymity, we will respect that in public acknowledgements.",
+      "impactexamples": "Small recurring gifts help keep pages and audio available. Moderate one-time donations can fund a focused project such as the transliteration and audio of a set of stotras. Larger gifts or institutional partnerships allow us to commission scholarly editing of texts or expand multilingual content."
+    },
+    "howtodonate": {
+      "heading": "How your donation helps",
+      "details": "Donations enable the following practical activities: continuous hosting and CDN costs to keep pages online; acquiring high-quality audio recording resources and paying artists or narrators for clear pronunciation and musical rendition; commissioning translations and editorial work to improve accuracy; paying for software tools and subscriptions that facilitate content creation and management; and small stipends for contributors who perform essential tasks such as proofreading or typesetting.\n\nWe prioritize actions with direct public benefit: making more texts available in multiple languages, improving search and accessibility features, and creating clear ritual guides that people can use in their daily lives. In addition, donations help fund periodic backups and digital preservation measures so that texts remain available over time."
+    },
+    "faq": {
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Is my donation secure?",
+          "a": "Yes. We use reputable payment processors such as PayPal for one-time donations. For direct transfers we provide bank/UPI details; please confirm details over an official channel if you are unsure. We do not store full payment card details on our servers."
+        },
+        {
+          "q": "Can I get a receipt or documentation for my donation?",
+          "a": "Yes. For donors who require receipts or documentation, please contact us via the contact page with your donation details and we will provide a report or receipt depending on local regulations and our administrative capabilities."
+        },
+        {
+          "q": "How will my donation be used?",
+          "a": "Donations are primarily used for hosting, audio and content production, translations, development and maintenance, and minimal administrative costs. We publish summaries of major expenditures and can provide more detailed reports for significant grants."
+        },
+        {
+          "q": "Can I sponsor a specific project or text?",
+          "a": "Yes. Many donors prefer to sponsor specific tasks such as recording a set of stotras or funding translation of a text. Contact us with the project details and we will discuss scope and acknowledgement preferences."
+        }
+      ]
+    }
+  }
+}

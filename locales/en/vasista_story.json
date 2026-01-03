@@ -1,0 +1,118 @@
+{
+  "vasista_story": {
+    "meta": {
+      "title": "Stories | Vasista Maharshi — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Learn about Vasistamhari on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "Vasista, Maharshi, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/stories/vasistamhari",
+      "canonical": "https://sanatanadharmam.in/stories/vasistamhari"
+    },
+    "role": "Vedic Sage, one of the Sapta Rishis, Royal Guru of the Solar Dynasty",
+    "lineage": {
+      "father": "Brahma (according to Puranas)",
+      "mother": "Urja or Arundhati (consort)",
+      "house": "Solar Dynasty (Ikshvaku lineage as royal priest)"
+    },
+    "significance": {
+      "titles": [
+        "Maharshi",
+        "Brahmarshi"
+      ],
+      "coreidentity": [
+        "Embodiment of wisdom and Dharma",
+        "Author of Vasishta Samhita and Yoga Vasishta"
+      ]
+    },
+    "scripturalconnections": {
+      "rigveda": "Composer of several hymns; associated with cosmic order and truth",
+      "ramayana": "Royal guru to King Dasharatha; advisor to Rama",
+      "yogavasishta": "Philosophical dialogue with Rama on liberation and reality"
+    },
+    "philosophicalthemes": [
+      "Advaita Vedanta principles",
+      "Self-realization and Moksha",
+      "Power of Sattva (purity) over Rajas and Tamas"
+    ],
+    "majorstories": [
+      {
+        "event": "Conflict with Vishwamitra",
+        "description": "Defended Dharma against Vishwamitra’s ambitions; later reconciled"
+      },
+      {
+        "event": "Counsel to Rama",
+        "description": "Taught Rama the essence of Vedanta through Yoga Vasishta"
+      },
+      {
+        "event": "Possession of Kamadhenu",
+        "description": "Owned the divine cow Kamadhenu, symbol of abundance and spiritual power"
+      }
+    ],
+    "attributes": {
+      "virtues": [
+        "Wisdom",
+        "Patience",
+        "Truthfulness",
+        "Compassion"
+      ],
+      "iconography": [
+        "Seated in meditation",
+        "Holding a rosary and water pot (Kamandalu)",
+        "Accompanied by Arundhati"
+      ]
+    },
+    "mantras": [
+      {
+        "name": "Vasishta Invocation",
+        "text": "ॐ वसिष्ठाय नमः।",
+        "transliteration": "Om Vasishtaya Namah",
+        "meaning": "Salutation to Sage Vasishta, embodiment of wisdom"
+      }
+    ],
+    "timeline": [
+      {
+        "phase": "Birth",
+        "event": "Born from Brahma’s mind; recognized as one of the Sapta Rishis"
+      },
+      {
+        "phase": "Royal Guru",
+        "event": "Served as chief priest and advisor to Ikshvaku kings including Dasharatha"
+      },
+      {
+        "phase": "Conflict with Vishwamitra",
+        "event": "Defended Dharma; later transformed rivalry into friendship"
+      },
+      {
+        "phase": "Teaching Rama",
+        "event": "Imparted Yoga Vasishta philosophy to Rama during his existential crisis"
+      },
+      {
+        "phase": "Later Life",
+        "event": "Continued as a guiding light of Vedantic wisdom; revered in all ages"
+      }
+    ],
+    "textsandteachings": [
+      {
+        "name": "Yoga Vasishta",
+        "focus": "Non-dual philosophy, liberation through self-inquiry",
+        "keyverses": [
+          {
+            "verse": "चित्तमेव हि संसारः तस्मात् तन्म् निरोधयेत्।",
+            "transliteration": "Chittam eva hi samsarah tasmat tan nirodhayet",
+            "meaning": "Mind alone is the cause of bondage; therefore, control the mind."
+          },
+          {
+            "verse": "यदा चित्तं प्रसन्नं स्यात् तदा सर्वं प्रसन्नम्।",
+            "transliteration": "Yada chittam prasannam syat tada sarvam prasannam",
+            "meaning": "When the mind is serene, everything appears serene."
+          },
+          {
+            "verse": "असङ्गोऽहम् असङ्गोऽहम् पुनः पुनः।",
+            "transliteration": "Asango'ham asango'ham punah punah",
+            "meaning": "I am unattached, I am unattached—again and again realize this truth."
+          }
+        ]
+      }
+    ]
+  }
+}

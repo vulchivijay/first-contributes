@@ -1,0 +1,67 @@
+{
+  "advaita_philosophy": {
+    "meta": {
+      "title": "Philosophy | Advaita — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Advaita — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles...",
+      "keywords": "Advaita, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/philosophy-advaita.jpg",
+      "url": "https://sanatanadharmam.in/philosophy/advaita",
+      "canonical": "https://sanatanadharmam.in/philosophy/advaita"
+    },
+    "title": "",
+    "definition": "Advaita Vedanta is a school of Hindu philosophy that teaches non-dualism, asserting that the individual self (Atman) and the ultimate reality (Brahman) are one and the same.",
+    "origin": {
+      "roots": "Upanishads and Brahma Sutras",
+      "texts": [
+        "Upanishads",
+        "Bhagavad Gita",
+        "Brahma Sutras"
+      ],
+      "founder": "Adi Shankaracharya",
+      "meaning": "Advaita means 'non-dual' in Sanskrit."
+    },
+    "core_principles": [
+      "Brahman is the only reality; the world is an illusion (Maya).",
+      "Atman (individual soul) is identical to Brahman.",
+      "Ignorance (Avidya) causes the illusion of separateness.",
+      "Knowledge (Jnana) leads to liberation (Moksha)."
+    ],
+    "key_concepts": {
+      "brahman": "The ultimate, infinite, and changeless reality.",
+      "atman": "The true self, beyond body and mind.",
+      "maya": "Illusion that creates the perception of multiplicity.",
+      "avidya": "Ignorance that binds beings to Samsara."
+    },
+    "paths_to_realization": {
+      "jnana_yoga": "Path of knowledge and self-inquiry.",
+      "shravana": "Listening to teachings of scriptures.",
+      "manana": "Reflecting on the teachings.",
+      "nididhyasana": "Deep meditation on truth."
+    },
+    "goals": [
+      "Realize the unity of Atman and Brahman.",
+      "Overcome ignorance and illusion.",
+      "Attain Moksha (liberation)."
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Ethical living supports clarity for realization.",
+      "karma": "Actions cannot grant liberation; only knowledge can.",
+      "moksha": "Ultimate goal achieved through self-realization."
+    },
+    "modern_relevance": {
+      "spirituality": "Encourages inner awareness and unity.",
+      "philosophy": "Influences global non-dualistic thought.",
+      "psychology": "Promotes detachment and mental peace."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Chandogya Upanishad",
+        "quote_summary": "Tat Tvam Asi – 'You are That'."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "The wise see the same Self in all beings."
+      }
+    ]
+  }
+}

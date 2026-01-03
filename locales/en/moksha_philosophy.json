@@ -1,0 +1,60 @@
+{
+  "moksha_philosophy": {
+    "meta": {
+      "title": "Philosophy | Moksha — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Moksha — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at ...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/philosophy-moksha.jpg",
+      "url": "https://sanatanadharmam.in/philosophy/moksha",
+      "canonical": "https://sanatanadharmam.in/philosophy/moksha"
+    },
+    "title": "",
+    "definition": "Moksha is the ultimate goal in Hindu philosophy, signifying liberation from the cycle of birth and death (samsara) and union with the Supreme Reality.",
+    "origin": {
+      "roots": "Vedic and Upanishadic teachings",
+      "texts": [
+        "Upanishads",
+        "Bhagavad Gita",
+        "Brahma Sutras"
+      ],
+      "meaning": "Derived from Sanskrit 'muc', meaning 'to release or liberate'."
+    },
+    "core_principles": [
+      "Freedom from samsara (cycle of rebirth)",
+      "Realization of the Self (Atman)",
+      "Union with Brahman (Supreme Reality)",
+      "Detachment from material desires"
+    ],
+    "paths_to_moksha": {
+      "jnana_yoga": "Path of knowledge and self-realization.",
+      "bhakti_yoga": "Path of devotion and surrender to God.",
+      "karma_yoga": "Path of selfless action without attachment.",
+      "raja_yoga": "Path of meditation and discipline."
+    },
+    "goals": [
+      "End suffering and ignorance",
+      "Attain eternal bliss",
+      "Realize the true nature of existence"
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Living according to Dharma prepares the mind for liberation.",
+      "karma": "Freedom from karmic bondage is essential for Moksha.",
+      "atman": "Understanding the eternal Self leads to liberation."
+    },
+    "modern_relevance": {
+      "inner_peace": "Encourages detachment and mindfulness.",
+      "spiritual_growth": "Focuses on self-realization beyond materialism.",
+      "universal_harmony": "Promotes compassion and unity."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Liberation comes through devotion, knowledge, and selfless action."
+      },
+      {
+        "text": "Upanishads",
+        "quote_summary": "The Self is Brahman; realizing this truth leads to Moksha."
+      }
+    ]
+  }
+}

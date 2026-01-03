@@ -1,0 +1,78 @@
+{
+  "contact": {
+    "meta": {
+      "title": "Contact | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Contact — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Contact. Explore practices, history, and guiding principles at SanatanaDharma.in.",
+      "keywords": "Contact, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple, Yoga, Meditation, Mythology, Story, History, Philosophy, Tradition, Culture, Chant, Festival, Legend",
+      "ogimage": "/og/contact.png",
+      "url": "https://sanatanadharmam.in/contact",
+      "canonical": "https://sanatanadharmam.in/contact"
+    },
+    "title": "Contact Us",
+    "lead": "We'd love to hear from you — questions, corrections, or partnership enquiries.",
+    "description": "This page describes practical ways to reach the team behind Sanatanadharmam.in, the kinds of requests we can handle, and what to expect after you get in touch. Our aim is to respond kindly and usefully to messages while balancing the workload of a small, volunteer-led project.\n\nPlease read the guidance below so your message reaches the right place and receives an appropriate response.",
+    "getintouch": "Get in touch",
+    "useform": "Use the form to send us a message. For urgent matters, email us directly at the address shown on the site.",
+    "responsetime": {
+      "general": "We aim to acknowledge messages within 3–7 business days. Simple enquiries (link corrections, small factual clarifications) are often handled within a few days. Requests that require editorial review, legal advice, or coordination with contributors may take longer.",
+      "donations": "Donation-related requests and documentation are prioritized; please allow up to 7 business days for a response if you require a receipt or accounting note.",
+      "mediaandpartnerships": "Media requests and partnership enquiries are routed to the appropriate person; response time may vary depending on availability, typically within 1–2 weeks for initial replies."
+    },
+    "mailingaddress": "Mailing address",
+    "addressline1": "SanatanAdharmam",
+    "addressline2": "11-22-184, Poolavani Gunta, Renigunta road,",
+    "addressline3": "Tirupati, Andhra Pradesh, India",
+    "phone": "Phone",
+    "sendmessage": "Send a message",
+    "location": "Location",
+    "whattoinclude": {
+      "heading": "What to include in your message",
+      "guidance": "To help us respond efficiently, please include: a clear subject line, the page or URL you are referring to (if applicable), a concise description of the issue or request, and your preferred contact method. For corrections to texts, indicate the exact line or verse and, if possible, provide a reliable source or edition reference. For translation suggestions, include both the suggested wording and brief reasoning for the change."
+    },
+    "privacy": {
+      "heading": "Privacy and data handling",
+      "policysummary": "We treat messages confidentially and use contact details only to respond to your inquiry or for minimal record-keeping. We will not sell or share personal contact information with third parties without explicit consent, except where required by law. If you ask to remain anonymous, we will respect that when publishing or acknowledging contributions.",
+      "dataretention": "Contact messages are retained for a limited time to support follow-up and record-keeping; we delete or anonymize records when no longer needed for these purposes."
+    },
+    "typesofrequests": {
+      "heading": "Types of requests we can help with",
+      "items": [
+        "Content corrections and errata: factual or typographical corrections to pages or texts",
+        "Source suggestions: references to editions, commentaries, or archival sources",
+        "Translation contributions: offers to translate or improve existing translations",
+        "Audio contributions: offers to record chants, stotras, or readings",
+        "Partnership and outreach: collaboration proposals for events, research, or educational programs",
+        "Donations and sponsorship: queries about supporting the site or requesting documentation",
+        "Volunteer involvement: offers to help with editorial, technical, or outreach work"
+      ]
+    },
+    "media": {
+      "heading": "Media, press and partnership enquiries",
+      "guidance": "For media requests please indicate the nature of the piece, the deadline, and whether you need comments, images, or access to contributors. For partnership enquiries, include a brief proposal, the intended audience, and any specific resources or outcomes you have in mind. We welcome responsible collaborations that align with our guiding principles of openness, respect, and fidelity to sources."
+    },
+    "volunteer": {
+      "heading": "Volunteer and contribution guidelines",
+      "guidance": "We welcome volunteers who can help with proofreading, typesetting, translations, audio recording, web development, and community moderation. Please describe your skills, availability, and any relevant samples of previous work. Submissions are reviewed and, if accepted, coordinated through a modest onboarding process so volunteers understand editorial standards and the project's code of conduct."
+    },
+    "codeofconduct": "We expect contributors and correspondents to communicate respectfully. Harassment, hate speech, or actions that demean individuals or communities will not be tolerated. Messages that aim to provoke or promote divisive rhetoric may not receive a response.",
+    "faq": {
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "I found an error in a text — what should I do?",
+          "a": "Please include the URL, the exact passage (quote the line or verse), and a reference or scan of the source edition if possible. We will verify and, if necessary, publish an errata note describing the correction."
+        },
+        {
+          "q": "Can I request a new text or chapter to be added?",
+          "a": "Yes. Send the bibliographic details and any relevant permissions. We prioritize texts that are in the public domain or available with clear permissions, and we may coordinate with contributors for digitization."
+        },
+        {
+          "q": "How do I get involved as a volunteer?",
+          "a": "Send your CV or a short note describing your skills and availability. We will follow up if we have a good match for current needs."
+        }
+      ]
+    },
+    "longdescription": "Sanatanadharmam.in is a small, volunteer-led initiative focused on preserving and sharing spiritual resources. Our contact channels are intended to be practical and approachable. The team handles a range of inquiries from factual corrections to requests for partnership. Because many team members volunteer part-time, we try to be transparent about response expectations and to route messages so that they are handled by the right person.\n\nWhen writing to us, clarity helps. If your message concerns a textual correction, indicate the page and the exact text in question. If you are proposing a translation or an audio recording, include samples or links to your previous work so we can assess fit and quality. For donation-related enquiries, specify whether you need a receipt, documentation for accounting, or partnership details: this helps us provide the appropriate response.\n\nWe take privacy seriously. Contact details provided to us are used only for the stated purpose of responding to your message or for accounting purposes related to donations. We do not share personal contact information with third parties for marketing purposes. If you wish to remain anonymous when reporting an erratum or suggesting a change, state that preference and we will honor it where feasible.\n\nWe also welcome institutional collaborations with libraries, academic departments, and community organizations. Such collaborations typically begin with a short proposal describing shared goals and possible deliverables. We take care to ensure that collaborations respect the intellectual and spiritual traditions involved and do not commercialize sacred materials inappropriately.\n\nIf you need urgent assistance — for example, a time-sensitive media request or an urgent legal/rights question — flag the message as urgent and provide a phone number if you are comfortable with a phone follow-up. In most cases we will respond to urgent media requests within a few days, but complex legal or rights matters may require more time as we consult contributors and advisors.\n\nFinally, we invite feedback on how to improve communication: clearer contact forms, better categorization of requests, or more structured volunteer onboarding. If you have suggestions about improving how we handle messages or projects, please share them. Your input helps the site serve its audience more effectively and respectfully.",
+    "acknowledgement": "Thank you for taking the time to contact us. Your engagement helps make the project stronger and more useful for everyone."
+  }
+}

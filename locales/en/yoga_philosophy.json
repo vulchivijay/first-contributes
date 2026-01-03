@@ -1,0 +1,71 @@
+{
+  "yoga_philosophy": {
+    "meta": {
+      "title": "Philosophy | Yoga — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Philosophy — Yoga — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Philosophy. Explore practices, history, and guiding principles at...",
+      "keywords": "Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/philosophy-yoga.jpg",
+      "url": "https://sanatanadharmam.in/philosophy/yoga",
+      "canonical": "https://sanatanadharmam.in/philosophy/yoga"
+    },
+    "title": "",
+    "definition": "Yoga is a spiritual discipline and philosophy aimed at harmonizing body, mind, and soul to achieve self-realization and liberation (Moksha).",
+    "origin": {
+      "roots": "Vedic tradition and Upanishads",
+      "texts": [
+        "Yoga Sutras of Patanjali",
+        "Bhagavad Gita",
+        "Upanishads"
+      ],
+      "meaning": "Derived from Sanskrit 'yuj', meaning 'to unite or join'."
+    },
+    "core_principles": [
+      "Union of individual self (Atman) with universal consciousness (Brahman)",
+      "Balance of physical, mental, and spiritual aspects",
+      "Discipline and ethical living"
+    ],
+    "paths_of_yoga": {
+      "jnana_yoga": "Path of knowledge and wisdom.",
+      "bhakti_yoga": "Path of devotion and love for the divine.",
+      "karma_yoga": "Path of selfless action.",
+      "raja_yoga": "Path of meditation and mental discipline.",
+      "hatha_yoga": "Path of physical postures and breath control."
+    },
+    "eight_limbs_of_yoga": [
+      "Yama (Ethical restraints)",
+      "Niyama (Personal observances)",
+      "Asana (Postures)",
+      "Pranayama (Breath control)",
+      "Pratyahara (Withdrawal of senses)",
+      "Dharana (Concentration)",
+      "Dhyana (Meditation)",
+      "Samadhi (Absorption or union)"
+    ],
+    "goals": [
+      "Self-realization",
+      "Mental clarity and peace",
+      "Physical health and vitality",
+      "Liberation from suffering"
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Yoga supports righteous living.",
+      "karma": "Yoga purifies actions and intentions.",
+      "moksha": "Yoga is a direct path to liberation."
+    },
+    "modern_relevance": {
+      "health": "Improves physical fitness and mental well-being.",
+      "stress_management": "Reduces anxiety and promotes calmness.",
+      "spiritual_growth": "Encourages mindfulness and inner peace."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Yoga Sutras of Patanjali",
+        "quote_summary": "Yoga is the cessation of mental fluctuations."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Yoga is skill in action and balance in life."
+      }
+    ]
+  }
+}

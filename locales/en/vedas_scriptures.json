@@ -1,0 +1,905 @@
+{
+  "vedas_scriptures": {
+    "meta": {
+      "title": "Scriptures | Vedas — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Vedas — Rigveda, Yajurveda, Samaveda, Atharvaveda — Articles, translations and concise commentary on Vedas. Explore practices, history, and guiding...",
+      "keywords": "Vedas, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/vedas.jpg",
+      "url": "https://sanatanadharmam.in/scriptures/vedas",
+      "canonical": "https://sanatanadharmam.in/scriptures/vedas"
+    },
+    "title": "Ancient Hindu scriptures considered divine revelations, forming the foundation of Sanatan Dharma.",
+    "intro": "The Vedas (from the Sanskrit root 'vid' — to know) are the oldest stratum of South Asian sacred literature. Composed in Vedic Sanskrit and preserved through conservative oral transmission, they shaped ritual practice, social ideals, and early Indian thought.",
+    "origin": {
+      "meaning": "Veda means 'knowledge' in Sanskrit.",
+      "period": "1500 BCE – 500 BCE (Vedic Period)",
+      "transmission": "Orally preserved for centuries before being written in Vedic Sanskrit."
+    },
+    "authorship": {
+      "nature": "Apauruṣeya (not of human origin)",
+      "process": "Revealed to sages (rishis) during meditation",
+      "compiler": "Traditionally attributed to Vyasa"
+    },
+    "structure": {
+      "fourvedas": [
+        {
+          "name": "Rigveda",
+          "content": "Hymns praising deities like Agni, Indra, Varuna",
+          "features": "Oldest Veda, 1,028 hymns"
+        },
+        {
+          "name": "Samaveda",
+          "content": "Melodies and chants for rituals",
+          "features": "Musical arrangement of Rigvedic hymns"
+        },
+        {
+          "name": "Yajurveda",
+          "content": "Prose mantras for sacrifices and rituals",
+          "features": "Used by priests during yajnas"
+        },
+        {
+          "name": "Atharvaveda",
+          "content": "Hymns, spells, and incantations for daily life",
+          "features": "Practical and philosophical aspects"
+        }
+      ],
+      "subdivisions": [
+        "Samhitas",
+        "Brahmanas",
+        "Aranyakas",
+        "Upanishads"
+      ]
+    },
+    "language": "Vedic Sanskrit",
+    "themes": [
+      "Cosmology",
+      "Ethics",
+      "Rituals",
+      "Philosophy"
+    ],
+    "upanishads": {
+      "definition": "Philosophical texts forming the concluding part of the Vedas, focusing on spiritual knowledge.",
+      "major_upanishads": [
+        {
+          "name": "Isha",
+          "summary": "Teaches renunciation and unity of Brahman in all beings.",
+          "links": [
+            "https://www.gutenberg.org/ebooks/3283"
+          ]
+        },
+        {
+          "name": "Kena",
+          "summary": "Explores the source of perception and ultimate reality.",
+          "links": [
+            "https://scriptures.ru/upanishad/"
+          ]
+        },
+        {
+          "name": "Katha",
+          "summary": "Dialogue between Nachiketa and Yama on immortality.",
+          "links": [
+            "https://kaalchakra.in/108-upanishads-all-in-one/"
+          ]
+        },
+        {
+          "name": "Mundaka",
+          "summary": "Higher and lower knowledge; Brahman as supreme reality.",
+          "links": [
+            "https://archive.org/stream/1UpanishadsRigVeda/5Upanishads%20-%20Atharva%20Veda_djvu.txt"
+          ]
+        },
+        {
+          "name": "Mandukya",
+          "summary": "Analysis of Om and states of consciousness.",
+          "links": [
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Taittiriya",
+          "summary": "Layers of human existence; bliss of Brahman.",
+          "links": [
+            "https://scriptures.ru/upanishad/"
+          ]
+        },
+        {
+          "name": "Chandogya",
+          "summary": "Meditation, ethics, and the concept of 'Tat Tvam Asi'.",
+          "links": [
+            "https://kaalchakra.in/108-upanishads-all-in-one/"
+          ]
+        },
+        {
+          "name": "Brihadaranyaka",
+          "summary": "Self-knowledge; philosophical dialogues on Atman.",
+          "links": [
+            "https://archive.org/stream/1UpanishadsRigVeda/5Upanishads%20-%20Atharva%20Veda_djvu.txt"
+          ]
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "phase": "Early Vedic Period",
+        "date": "1500 BCE – 1200 BCE",
+        "description": "Composition of Rigveda hymns; oral tradition begins."
+      },
+      {
+        "phase": "Middle Vedic Period",
+        "date": "1200 BCE – 900 BCE",
+        "description": "Development of Samaveda and Yajurveda; ritualistic focus."
+      },
+      {
+        "phase": "Late Vedic Period",
+        "date": "900 BCE – 500 BCE",
+        "description": "Atharvaveda composed; Brahmanas and Aranyakas written."
+      },
+      {
+        "phase": "Upanishadic Age",
+        "date": "800 BCE – 200 BCE",
+        "description": "Philosophical shift; Upanishads compiled emphasizing spiritual knowledge."
+      },
+      {
+        "phase": "Written Compilation",
+        "date": "Around 500 BCE onwards",
+        "description": "Vedas and Upanishads documented in written form."
+      },
+      {
+        "phase": "Birth of Lord Rama",
+        "date": "Traditional: Treta Yuga | Astronomical Estimate: ~5114 BCE",
+        "description": "Seventh avatar of Vishnu born in Ayodhya; celebrated as Rama Navami."
+      },
+      {
+        "phase": "Birth of Lord Krishna",
+        "date": "Traditional: Dvapara Yuga | Astronomical Estimate: ~3228 BCE",
+        "description": "Eighth avatar of Vishnu born in Mathura; celebrated as Janmashtami."
+      },
+      {
+        "phase": "Birth of Jesus Christ",
+        "date": "Approx. 6 BCE – 4 BCE",
+        "description": "Traditional Christian belief places Jesus' birth before the death of King Herod."
+      },
+      {
+        "phase": "Lord Shiva",
+        "date": "Timeless (Anadi-Ananta)",
+        "description": "Shiva is eternal, beyond birth and death; manifests as cosmic consciousness."
+      }
+    ],
+    "all_108_upanishads": {
+      "description": "Complete list of 108 Upanishads as per Muktika tradition.",
+      "list": [
+        {
+          "name": "Isha",
+          "summary": "Brief summary placeholder for Isha Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Kena",
+          "summary": "Brief summary placeholder for Kena Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Katha",
+          "summary": "Brief summary placeholder for Katha Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Prashna",
+          "summary": "Brief summary placeholder for Prashna Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Mundaka",
+          "summary": "Brief summary placeholder for Mundaka Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Mandukya",
+          "summary": "Brief summary placeholder for Mandukya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Taittiriya",
+          "summary": "Brief summary placeholder for Taittiriya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Aitareya",
+          "summary": "Brief summary placeholder for Aitareya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Chandogya",
+          "summary": "Brief summary placeholder for Chandogya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Brihadaranyaka",
+          "summary": "Brief summary placeholder for Brihadaranyaka Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Svetasvatara",
+          "summary": "Brief summary placeholder for Svetasvatara Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Kaivalya",
+          "summary": "Brief summary placeholder for Kaivalya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Maitri",
+          "summary": "Brief summary placeholder for Maitri Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Mahanarayana",
+          "summary": "Brief summary placeholder for Mahanarayana Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Narasimha",
+          "summary": "Brief summary placeholder for Narasimha Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Paramahamsa",
+          "summary": "Brief summary placeholder for Paramahamsa Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Subala",
+          "summary": "Brief summary placeholder for Subala Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Garuda",
+          "summary": "Brief summary placeholder for Garuda Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Jabala",
+          "summary": "Brief summary placeholder for Jabala Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Paingala",
+          "summary": "Brief summary placeholder for Paingala Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Kaushitaki",
+          "summary": "Brief summary placeholder for Kaushitaki Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Sankhya",
+          "summary": "Brief summary placeholder for Sankhya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Yoga",
+          "summary": "Brief summary placeholder for Yoga Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Vajrasuchi",
+          "summary": "Brief summary placeholder for Vajrasuchi Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Hamsa",
+          "summary": "Brief summary placeholder for Hamsa Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Avyakta",
+          "summary": "Brief summary placeholder for Avyakta Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Atma",
+          "summary": "Brief summary placeholder for Atma Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Sariraka",
+          "summary": "Brief summary placeholder for Sariraka Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Adhyatma",
+          "summary": "Brief summary placeholder for Adhyatma Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Skanda",
+          "summary": "Brief summary placeholder for Skanda Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Tripadvibhuti",
+          "summary": "Brief summary placeholder for Tripadvibhuti Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Rudra",
+          "summary": "Brief summary placeholder for Rudra Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Bhasma",
+          "summary": "Brief summary placeholder for Bhasma Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Kalagni",
+          "summary": "Brief summary placeholder for Kalagni Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Dakshinamurti",
+          "summary": "Brief summary placeholder for Dakshinamurti Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Tejobindu",
+          "summary": "Brief summary placeholder for Tejobindu Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Brahmabindu",
+          "summary": "Brief summary placeholder for Brahmabindu Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Amritabindu",
+          "summary": "Brief summary placeholder for Amritabindu Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Atmabodha",
+          "summary": "Brief summary placeholder for Atmabodha Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Paramananda",
+          "summary": "Brief summary placeholder for Paramananda Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Mandala",
+          "summary": "Brief summary placeholder for Mandala Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Tarasara",
+          "summary": "Brief summary placeholder for Tarasara Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Muktika",
+          "summary": "Brief summary placeholder for Muktika Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Annapurna",
+          "summary": "Brief summary placeholder for Annapurna Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Surya",
+          "summary": "Brief summary placeholder for Surya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Akshi",
+          "summary": "Brief summary placeholder for Akshi Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Chakshus",
+          "summary": "Brief summary placeholder for Chakshus Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranagnihotra",
+          "summary": "Brief summary placeholder for Pranagnihotra Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava",
+          "summary": "Brief summary placeholder for Pranava Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Vidya",
+          "summary": "Brief summary placeholder for Pranava-Vidya Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Sariraka",
+          "summary": "Brief summary placeholder for Pranava-Sariraka Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Yoga",
+          "summary": "Brief summary placeholder for Pranava-Yoga Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Brahma",
+          "summary": "Brief summary placeholder for Pranava-Brahma Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Samhita",
+          "summary": "Brief summary placeholder for Pranava-Samhita Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Tattva",
+          "summary": "Brief summary placeholder for Pranava-Tattva Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Dhyana",
+          "summary": "Brief summary placeholder for Pranava-Dhyana Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Mantra",
+          "summary": "Brief summary placeholder for Pranava-Mantra Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Siddhi",
+          "summary": "Brief summary placeholder for Pranava-Siddhi Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Mukti",
+          "summary": "Brief summary placeholder for Pranava-Mukti Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Jnana",
+          "summary": "Brief summary placeholder for Pranava-Jnana Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Vidya-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Vidya-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Sariraka-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Sariraka-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Yoga-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Yoga-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Brahma-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Brahma-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Samhita-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Samhita-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Tattva-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Tattva-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Dhyana-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Dhyana-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Mantra-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Mantra-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Siddhi-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Siddhi-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Mukti-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Mukti-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Jnana-Upanishad",
+          "summary": "Brief summary placeholder for Pranava-Jnana-Upanishad Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Vidya-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Vidya-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Sariraka-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Sariraka-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Yoga-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Yoga-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Brahma-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Brahma-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Upanishad-3",
+          "summary": "Brief summary placeholder for Pranava-Upanishad-3 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Samhita-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Samhita-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Tattva-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Tattva-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Dhyana-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Dhyana-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Mantra-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Mantra-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Siddhi-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Siddhi-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Mukti-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Mukti-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Jnana-Upanishad-2",
+          "summary": "Brief summary placeholder for Pranava-Jnana-Upanishad-2 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Vidya-Upanishad-3",
+          "summary": "Brief summary placeholder for Pranava-Vidya-Upanishad-3 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Sariraka-Upanishad-3",
+          "summary": "Brief summary placeholder for Pranava-Sariraka-Upanishad-3 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Yoga-Upanishad-3",
+          "summary": "Brief summary placeholder for Pranava-Yoga-Upanishad-3 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        },
+        {
+          "name": "Pranava-Brahma-Upanishad-3",
+          "summary": "Brief summary placeholder for Pranava-Brahma-Upanishad-3 Upanishad.",
+          "links": [
+            "https://scriptures.ru/upanishad/",
+            "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+          ]
+        }
+      ],
+      "resource_links": [
+        {
+          "title": "Scriptures.ru – Complete Text Collection",
+          "url": "https://scriptures.ru/upanishad/"
+        },
+        {
+          "title": "Gita Society – 108 Upanishads PDF",
+          "url": "https://www.gita-society.com/wp-content/uploads/PDF/108upanishads.pdf"
+        },
+        {
+          "title": "Kaalchakra – All in One Collection",
+          "url": "https://kaalchakra.in/108-upanishads-all-in-one/"
+        },
+        {
+          "title": "Archive.org – English Translation",
+          "url": "https://archive.org/stream/1UpanishadsRigVeda/5Upanishads%20-%20Atharva%20Veda_djvu.txt"
+        }
+      ]
+    },
+    "significance": "Basis of Hindu philosophy, rituals, and spiritual practices."
+  }
+}

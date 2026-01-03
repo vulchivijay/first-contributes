@@ -1,0 +1,161 @@
+{
+  "bhishma_story": {
+    "meta": {
+      "title": "Stories | Bhishma — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Learn about Bhishma on SanatanaDharma.in — articles, translations and commentary.",
+      "keywords": "Bhishma, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/home.png",
+      "url": "https://sanatanadharmam.in/stories/bhishma",
+      "canonical": "https://sanatanadharmam.in/stories/bhishma"
+    },
+    "role": "Grand patriarch of the Kuru dynasty; exemplar of vows, duty (Dharma), and warrior ethics",
+    "lineage": {
+      "birthname": "Devavrata",
+      "father": "King Shantanu",
+      "mother": "Ganga (river goddess)",
+      "house": "Kuru",
+      "epithets": [
+        "Bhishma",
+        "Gangaputra",
+        "Pitamah"
+      ]
+    },
+    "coreidentity": {
+      "definingvow": "Lifelong celibacy and renunciation of kingship to ensure Satyavati’s sons inherit the throne",
+      "meaningofname": "“Bhishma” = One who took a terrible/awesome vow",
+      "dharmafocus": [
+        "Absolute commitment to promise (Satya)",
+        "Protection of the throne and kingdom",
+        "Adherence to Kshatriya code and righteous counsel"
+      ]
+    },
+    "boonsandpowers": [
+      {
+        "name": "Iccha-Mrityu",
+        "description": "Boon from his father granting him the ability to choose the time of his death"
+      }
+    ],
+    "cursesandconstraints": [
+      {
+        "source": "Amba’s curse (linked to her vow for vengeance)",
+        "description": "Amba’s penance and vow lead to Shikhandi’s role in Bhishma’s downfall"
+      }
+    ],
+    "connectiontoepics": {
+      "mahabharata": {
+        "roles": [
+          "Regent and guardian of Kuru princes",
+          "Commander-in-chief of Kaurava army (first 10 days of the war)",
+          "Authoritative voice on Dharma (Bhishma Parva and Anushasana/Shanti Parvas)"
+        ],
+        "keyteachingsthemes": [
+          "Kingship and duties",
+          "Social ethics and charity",
+          "Varna-ashrama dharma",
+          "Peace, renunciation, and governance"
+        ]
+      }
+    },
+    "majorevents": [
+      {
+        "event": "Vow of celibacy and renunciation of throne",
+        "context": "To fulfill his father Shantanu’s desire to marry Satyavati"
+      },
+      {
+        "event": "Swayamvara of Kashmira princesses (Amba, Ambika, Ambalika)",
+        "context": "Abduction per Kshatriya custom; Amba’s grievance sets a chain toward his eventual fall"
+      },
+      {
+        "event": "Training the Kuru princes",
+        "context": "Mentor and protector of Pandavas and Kauravas"
+      },
+      {
+        "event": "Kurukshetra War—Commander of Kauravas (Days 1–10)",
+        "context": "Unconquerable except by Shikhandi’s presence; pierced by Arjuna’s arrows"
+      },
+      {
+        "event": "Choosing time of death",
+        "context": "Lies on the bed of arrows until Uttarayana; imparts final teachings to Yudhishthira"
+      }
+    ],
+    "philosophicalsignificance": [
+      "Embodiment of steadfast duty even amid moral complexity",
+      "Shows limits of personal vows when they conflict with higher Dharma",
+      "Model of detachment in death and devotion to truth"
+    ],
+    "textsandhymns": [
+      {
+        "name": "Bhishma Stuti (from Srimad Bhagavatam, 1.9)",
+        "focus": "Devotional praise to Krishna while on the bed of arrows",
+        "exampleverse": {
+          "text": "नमोऽस्तेऽस्तु कृतज्ञाय वेद-विद्याधराय ते...",
+          "transliteration": "Namo'ste'stu kṛtajñāya veda-vidyādharāya te...",
+          "meaning": "Salutations to Krishna, knower and bearer of Vedic wisdom; Bhishma offers his final devotion."
+        }
+      }
+    ],
+    "attributes": {
+      "virtues": [
+        "Truthfulness",
+        "Discipline",
+        "Courage",
+        "Loyalty",
+        "Detachment"
+      ],
+      "weapons": [
+        "Bow",
+        "Arrows",
+        "Kshatriya martial skills"
+      ],
+      "iconography": [
+        "Elder statesman",
+        "Warrior on a bed of arrows",
+        "White charioteer standards"
+      ]
+    },
+    "guidancetoyudhishthira": {
+      "themes": [
+        "Raja-Dharma (kingly duties)",
+        "Dana (charity)",
+        "Aparigraha (non-possessiveness)",
+        "Ahimsa and its bounds in governance",
+        "Social order and justice"
+      ],
+      "outcome": "Yudhishthira gains clarity to rule with Dharma after the war"
+    },
+    "timeline": [
+      {
+        "phase": "Birth and Early Life",
+        "event": "Born as Devavrata to Shantanu and Ganga; trained in statecraft and warfare"
+      },
+      {
+        "phase": "The Terrible Vow",
+        "event": "Takes vow of celibacy and renounces claim to the throne; receives Iccha-Mrityu boon"
+      },
+      {
+        "phase": "Amba Episode",
+        "event": "Abduction at swayamvara; Amba’s grievance and vow foreshadow Bhishma’s fall via Shikhandi"
+      },
+      {
+        "phase": "Guardian of Kuru House",
+        "event": "Mentors Pandavas and Kauravas; serves as stabilizing force in Hastinapura"
+      },
+      {
+        "phase": "Kurukshetra—Commander (Days 1–10)",
+        "event": "Leads Kaurava army; advises avoidance of battle with Shikhandi"
+      },
+      {
+        "phase": "Fall on Bed of Arrows",
+        "event": "Felled by Arjuna using Shikhandi’s presence; remains alive by will"
+      },
+      {
+        "phase": "Dharma Discourses",
+        "event": "In Shanti and Anushasana Parvas, instructs Yudhishthira on Dharma, kingship, charity, and ethics"
+      },
+      {
+        "phase": "Mahaprayana (Final Departure)",
+        "event": "Chooses time of death during Uttarayana; attains peace in Krishna’s presence"
+      }
+    ]
+  }
+}

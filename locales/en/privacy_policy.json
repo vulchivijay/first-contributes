@@ -1,0 +1,21 @@
+{
+  "privacy_policy": {
+    "meta": {
+      "title": "Privacy Policy | Overview — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Privacy Policy — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Privacy Policy. Explore practices, history, and guiding principles at...",
+      "keywords": "Privacy, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India,  Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/privacy.jpg",
+      "url": "https://sanatanadharmam.in/privacy-policy",
+      "canonical": "https://sanatanadharmam.in/privacy-policy"
+    },
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy outlines how we collect, use and protect your personal information.",
+    "informationheading": "Information we collect",
+    "informationdesc": "We collect information you provide, cookies, and anonymized analytics data to improve the service.",
+    "howweuse": "How we use information",
+    "howweusedesc": "Information is used to operate, maintain and provide the features of the website, and to analyze usage patterns.",
+    "yourrights": "Your rights",
+    "yourrightsdesc": "You can request access, correction or deletion of your personal data by contacting us on the site.",
+    "lastupdated": "Last updated: {date}"
+  }
+}

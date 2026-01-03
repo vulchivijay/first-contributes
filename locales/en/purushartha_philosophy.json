@@ -1,0 +1,54 @@
+{
+  "purushartha_philosophy": {
+    "meta": {
+      "title": "Purusharthas | Philosophy — Sanatana Dharma - Explore Sanatan Dharma",
+      "description": "Purusharthas — Philosophy — Sanatana Dharma - Explore Sanatan Dharma — Articles, translations and concise commentary on Purusharthas. Explore practices, history, and guiding principles...",
+      "keywords": "Purusharthas, Sanatana Dharma, Hinduism, Vedic philosophy, Dharma and spirituality, Hindu scriptures, Bhagavad Gita teachings, Upanishads, Vedas and Puranas, Hindu rituals and traditions, Yoga and meditation, Hindu festivals, Spiritual wisdom, Hindu culture and heritage, Indian philosophy, Hindu gods and goddesses, Karma and rebirth, What is Sanatana Dharma, Principles of Sanatana Dharma, Importance of Vedas in Hinduism, Hindu spiritual practices for daily life, Meaning of Dharma in Hinduism, Sanatana Dharma vs modern life, How to follow Sanatana Dharma?, Sanatana Dharma in India, Dharma, Mantra, Stotra, Stotras, Scripture, Scriptures, Commentary, Devotion, Practices, Ritual, Worship, Temple",
+      "ogimage": "/og/purusharthas-philosophy.jpg",
+      "url": "https://sanatanadharmam.in/philosophy/purusharthas",
+      "canonical": "https://sanatanadharmam.in/philosophy/purusharthas"
+    },
+    "definition": "Purusharthas are the four fundamental goals of human life in Hindu philosophy, guiding individuals toward a balanced and meaningful existence.",
+    "origin": {
+      "roots": "Vedic and Dharmashastra teachings",
+      "texts": [
+        "Vedas",
+        "Upanishads",
+        "Manusmriti",
+        "Bhagavad Gita"
+      ],
+      "meaning": "Derived from Sanskrit 'Purusha' (human being) and 'Artha' (purpose or goal)."
+    },
+    "four_goals": {
+      "dharma": "Righteousness, moral duties, and ethical living.",
+      "artha": "Material prosperity, wealth, and resources for sustenance.",
+      "kama": "Desires, pleasures, and emotional fulfillment.",
+      "moksha": "Liberation from the cycle of birth and death; spiritual freedom."
+    },
+    "core_principles": [
+      "Balance between material and spiritual pursuits",
+      "Ethical framework for achieving goals",
+      "Progressive evolution from desire to liberation"
+    ],
+    "relation_to_other_concepts": {
+      "karma": "Actions in pursuit of these goals create karmic consequences.",
+      "dharma": "Acts as a guiding principle for Artha and Kama.",
+      "moksha": "The ultimate goal beyond worldly pursuits."
+    },
+    "modern_relevance": {
+      "personal_development": "Encourages holistic growth—ethical, material, emotional, and spiritual.",
+      "society": "Promotes harmony through balanced living.",
+      "well-being": "Integrates duty, wealth, pleasure, and liberation for a fulfilling life."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Perform duties without attachment to results for spiritual progress."
+      },
+      {
+        "text": "Manusmriti",
+        "quote_summary": "Defines the role of Dharma in guiding Artha and Kama."
+      }
+    ]
+  }
+}
