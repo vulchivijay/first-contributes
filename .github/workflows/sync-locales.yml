@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 2 * * *' # daily at 02:00 UTC
   workflow_dispatch:
+  repository_dispatch:
+    types: [sync-locales]
+
+env:
+  SOURCE_REPOSITORY: vulchivijay/sanatana
 
 permissions:
   contents: write
@@ -22,22 +27,23 @@ jobs:
       - name: Checkout source repository
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.SOURCE_REPOSITORY }} # owner/repo (format: "owner/name"), e.g. "octocat/other-repo"
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # PAT with `repo` scope to read private repos and perform checkouts
+          repository: ${{ env.SOURCE_REPOSITORY }}
           path: source
           fetch-depth: 0
 
-      - name: Verify PAT secret present
+      - name: Optional PAT note
         env:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           if [ -z "${PERSONAL_ACCESS_TOKEN:-}" ]; then
-            echo "ERROR: repository secret PERSONAL_ACCESS_TOKEN is not set or is empty. Add a Personal Access Token with 'repo' scope to repository secrets."
-            exit 1
+            echo "PERSONAL_ACCESS_TOKEN is not set. If ${SOURCE_REPOSITORY} is private, add a Personal Access Token (repo scope) in repository secrets named PERSONAL_ACCESS_TOKEN."
+          else
+            echo "PERSONAL_ACCESS_TOKEN present and will be available if needed."
           fi
 
       - name: Sync locales directory
         run: |
+          mkdir -p locales
           rsync -av --delete source/locales/ ./locales/
 
       - name: Remove source checkout
@@ -55,38 +61,35 @@ jobs:
       - name: Commit changes (if any)
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add --all locales
           if git diff --cached --quiet --; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
+          git commit -m "chore: sync locales from ${{ env.SOURCE_REPOSITORY }}"
 
       - name: Push branch
-        env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
-          git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${{ github.repository }}
           git push -u origin HEAD
 
       - name: Create Pull Request
         id: create_pr
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          commit-message: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: sync locales from ${{ env.SOURCE_REPOSITORY }}"
           branch: ${{ steps.branch.outputs.branch }}
-          title: "chore: sync locales from ${{ secrets.SOURCE_REPOSITORY }}"
+          title: "chore: sync locales from ${{ env.SOURCE_REPOSITORY }}"
           body: |
-            Automated sync of `locales` from ${{ secrets.SOURCE_REPOSITORY }}.
+            Automated sync of `locales` from ${{ env.SOURCE_REPOSITORY }}.
             If everything looks good, merge this PR to apply updates.
-          base: ${{ github.ref_name }}
+          base: main
 
       - name: Enable auto-merge for PR
         if: ${{ steps.create_pr.outputs.pull-request-number != '' }}
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
           merge-method: squash
